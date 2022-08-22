@@ -4,3 +4,4 @@ projektseite erstellt
 gedanken über projekt
 erste Idee beläuchtete stadt zu einfach
 soundwavesgenerator zweite idee
+skizze zu projekt angefertigt
