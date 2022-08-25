@@ -18,11 +18,31 @@ Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. 
 
 
 
-Die letzten Tage habe wir festgestellt, dass wir mit dem Projekt einen Soundwavegeneratror zu programieren nicht glücklich sind. Also haben wir wieder von neuem überlegt. Das Halloweenhaus Schmalenbeck hat jedoch einen Schädel in dem Spenden gesammelt werden soll. Eine weitere Ausarbeitung wurde jedoch noch niht geplant. Also nehmen wir uns jetzt diesem Projekt an. Zuerst erstellten wir eine Liste mit den Features die der Schädel aufweisen soll:
+Die letzten Tage habe wir festgestellt, dass wir mit dem Projekt einen Soundwavegeneratror zu programieren nicht glücklich sind. Jedoch sind wir uns einig, dass uns Physical Computing und damit die Arbeit mit einem Arduino interessiert. Wir haben uns zuhause mit den Möglichkeiten, Programmen und Hardware  auseinandergesetzt und im Unterricht besprochen. Dabei kam uns unsere Projektidee:
 
-Anschließend hielten wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tip, eine Prioritätenliste anzulegen, denn so können wir jederzeit bei Zeitdruck aufhören. Diese Liste sieht wie folgt aus:
+Das Halloweenhaus Schmalenbeck (www.halloweenhaus-schmalenbeck.de) nutzt traditionell einen Spendenschädel (Spendendose in Schädelform). Dieser billige Plastikschädel mit Münzloch ist relativ klein und unsauber verarbeitet.  Das ist für uns die Gelegenheit, einen neuen zu Gestalten. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling haben wir folgendes Konzept erarbeitet:
 
-- Sprechen
-- Sensor für die Erkennung des Münzeinwurfs
-- Bewegung des Kiefers
+- Schädel, der sprechen kann (motorisierter Kiefer mit Servo)
+- Soundkarte und Lautsprechern (DFPlayer Mini)
+- leuchtende Augen, welche in verschiedene Richtungen schauen können (LEDs, Servos)
+- Sensor für Geld (Lichtschranke)
+
+-> Arduino mit Arduino IDE
+
+Features:
+- Schädel fragt nach Spenden (Audio synchron mit Kiefer)
+- Bei Geldeinwurf bedankt sich der Schädel
+- Mute Schalter
+
+Optional: 
+Diebstahlschutz
+
+Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp, eine Prioritätenliste anzulegen, denn so können wir jederzeit bei Zeitdruck aufhören. Diese Liste sieht wie folgt aus:
+
+- Lautsprecher -> um nach Spenden zu fragen
+- Bewegung im Kiefer
+- Erkennung des Münzeinwurfs -> Schädel bedankt sich
 - leuchtende Augen
+- Mute Schalter
+- sich bewegende leuchtende Augen
+- Diebstahlschutz
