@@ -10,12 +10,11 @@ Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. 
   
   </details>
  
+<headline>
+  <bold>Stunde(25.08.2022)</bold> 
+  </headline>
 
-<bold>
-
-<2.Stunde(2.08.2022)>
-
-</bold>
+  
 
 
 
