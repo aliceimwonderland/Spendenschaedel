@@ -39,13 +39,14 @@ Diebstahlschutz
 
 Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp, eine Prioritätenliste anzulegen, denn so können wir jederzeit bei Zeitdruck aufhören. Diese Liste sieht wie folgt aus:
 
-- Lautsprecher -> um nach Spenden zu fragen
+- Lautsprecher -> um nach Spenden zu fragen -> Aufnahmen stellt das Halloweenhaus Schmalenbeck
 - Bewegung im Kiefer
 - Erkennung des Münzeinwurfs -> Schädel bedankt sich
 - leuchtende Augen
 - Mute Schalter
 - sich bewegende leuchtende Augen
 - Diebstahlschutz
+-
 
 
 <headline>
@@ -53,3 +54,11 @@ Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp
   </headline>
   
   Alicia nicht da :(
+  über wochenende nas ordner erstellt
+  https://www.youtube.com/watch?v=GnGv21v7h8s
+  
+  Material:
+  - DFPlayer mit normaler Micro SD -> vorhanden
+  - Schädel -> vorhanden
+  - Lautsprecher (reste von Halloween)
+  - 
