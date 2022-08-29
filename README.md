@@ -46,3 +46,10 @@ Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp
 - Mute Schalter
 - sich bewegende leuchtende Augen
 - Diebstahlschutz
+
+
+<headline>
+  <bold>Stunde(29.08.2022)</bold> 
+  </headline>
+  
+  Alicia nicht da :(
