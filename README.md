@@ -67,6 +67,6 @@ Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp
   https://wolles-elektronikkiste.de/wp-content/uploads/2019/07/UNO_2.jpg
   https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
   https://www.youtube.com/watch?v=cYOft1rEBYw
-  
+  https://de.wikipedia.org/wiki/Fotowiderstand
   
   - 
