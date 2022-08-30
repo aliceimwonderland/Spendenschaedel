@@ -53,17 +53,16 @@ Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp
   <bold>Stunde(29.08.2022)</bold> 
   </headline>
   
-  Alicia nicht da :(
-  über wochenende nas ordner erstellt
+  
+  Über das Wochenende haben wir einen Ordner auf Rosalies NAS erstellt, um dort sicher und einfach Daten zu sichern und teilen.
+  Da Alicia in dieser Stunde leider fehlen musste, hat Rosalie alleine angefangen, einen Schaltplan zu erstellen. Der Sinn dabei ist, Fehlbauten zu verhindern und schonmal eine Vorstellung von benötigten Kabeln, Wiederständen usw zu bekommen.
+  Quellen:
+  
   https://www.youtube.com/watch?v=GnGv21v7h8s
-  
-  
   https://blog.robberg.net/wp-content/uploads/2017/10/DFPlayer.jpg
   https://wolles-elektronikkiste.de/wp-content/uploads/2019/07/UNO_2.jpg
   https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
   https://www.youtube.com/watch?v=cYOft1rEBYw
   https://de.wikipedia.org/wiki/Fotowiderstand
   
- Schaltplan erstellt
- Fotowiederstand fehlt noch
- als nächstes skizze der codestruktur und schaltplan kontrollieren lassen
+ In der Skizze fehlt nur noch der Fotowiederstand, welcher als Hausaufgabe in die Skizze aufgenommen wurde. In der kommenden Stunde soll der Schaltplan kontrolliert und eine Skizze der Codestruktur erstellt werden.
