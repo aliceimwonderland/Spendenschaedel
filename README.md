@@ -72,3 +72,6 @@ Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp
   https://de.wikipedia.org/wiki/Fotowiderstand
   
  In der Skizze fehlt nur noch der Fotowiederstand, welcher als Hausaufgabe in die Skizze aufgenommen wurde. In der kommenden Stunde soll der Schaltplan kontrolliert und eine Skizze der Codestruktur erstellt werden.
+ 
+ https://www.c-sharpcorner.com/UploadFile/d15fb8/ldr-with-arduino/Images/LDR.jpg
+ 
