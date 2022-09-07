@@ -71,7 +71,18 @@ Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp
   https://www.youtube.com/watch?v=cYOft1rEBYw
   https://de.wikipedia.org/wiki/Fotowiderstand
   
- In der Skizze fehlt nur noch der Fotowiederstand, welcher als Hausaufgabe in die Skizze aufgenommen wurde. In der kommenden Stunde soll der Schaltplan kontrolliert und eine Skizze der Codestruktur erstellt werden.
+
  
- https://www.c-sharpcorner.com/UploadFile/d15fb8/ldr-with-arduino/Images/LDR.jpg
+ 
+ <h1>
+  <bold>4. Stunde (05.09.2022)</bold> 
+  
+  </h1>
+  
+  In dieser Stunde haben wir den noch Fehlenden Fotowiederstand in die Skizze aufgenommen und diese auf Fehler überprüft. Dank einiger Tipps konnten wir 
+  diese finalisieren.
+  https://www.c-sharpcorner.com/UploadFile/d15fb8/ldr-with-arduino/Images/LDR.jpg
+  
+  Danach haben wir eine LED an unseren Arduino angeschlossen und mit dieser herumexperimentiert.
+  
  
