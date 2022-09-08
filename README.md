@@ -89,4 +89,7 @@ Danach haben wir mit dem programmieren unseres Codes angefangen, welcher eine LE
   <bold>5. Stunde (08.09.2022)</bold>
      </h1>
   
- 
+ servo
+ programmiert
+ charakter schädel
+ was soll er sprechen
