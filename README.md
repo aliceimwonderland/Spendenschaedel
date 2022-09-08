@@ -55,7 +55,7 @@ Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp
 
 
 <h1>
-  <bold>3. Stunde (29.08.2022)</bold> 
+  <bold><3. Stunde (29.08.2022)></bold> 
   
   </h1>
   
@@ -83,6 +83,11 @@ Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp
   diese finalisieren.
   https://www.c-sharpcorner.com/UploadFile/d15fb8/ldr-with-arduino/Images/LDR.jpg
   
-  Danach haben wir eine LED an unseren Arduino angeschlossen und mit dieser herumexperimentiert.
+Danach haben wir mit dem programmieren unseres Codes angefangen, welcher eine LED zum leuchten bringen soll. Anschließend haben wir unsere LED mit dem Arduino und diesen wiederrum mit dem Computer verbunden. Dies hat dann auch funktioniert. Als wir es erneut probierten klappte es leider nicht mehr. Der Fehler lag bei den losen Kabeln, welche keine Verbindung mehr herstellten. Bisher konnten wir das Problem noch nicht lösen und haben ums erstmal wieder dem Code zugewendet.
+
+<h1>
+  <bold><5. Stunde (08.09.2022)></bold>
+    
+    </h1>
   
  
