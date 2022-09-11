@@ -93,3 +93,8 @@ Danach haben wir mit dem programmieren unseres Codes angefangen, welcher eine LE
  programmiert
  charakter schädel
  was soll er sprechen
+ 
+ 
+ <h1>
+  <bold>6. Stunde (12.09.2022)</bold>
+     </h1>
