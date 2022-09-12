@@ -98,3 +98,6 @@ Außerdem haben wir uns mit dem Schädel befasst und sein aussehen sowie seinen 
  <h1>
   <bold>6. Stunde (12.09.2022)</bold>
      </h1>
+     
+     https://player.hu/uploads/2017/11/coco-hector.jpg
+     
