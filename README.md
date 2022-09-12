@@ -100,4 +100,7 @@ Außerdem haben wir uns mit dem Schädel befasst und sein aussehen sowie seinen 
      </h1>
      
      https://player.hu/uploads/2017/11/coco-hector.jpg
-     
+     geanuer charakterisiert
+     sprüche festgrlegt
+     programm für kiefer geschriben
+     kiefer auf sprüche anpassen festgelegt
