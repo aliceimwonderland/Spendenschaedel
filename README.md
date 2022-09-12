@@ -89,10 +89,10 @@ Danach haben wir mit dem programmieren unseres Codes angefangen, welcher eine LE
   <bold>5. Stunde (08.09.2022)</bold>
      </h1>
   
- servo
- programmiert
- charakter schädel
- was soll er sprechen
+In dieser Stunde haben wir uns mit einem Servo beschäftigt. Wir haben gelernt, wie man mithilfe eines Arduinos den Servo steuern kann und ein programm dazu geschrieben.
+ 
+Außerdem haben wir uns mit dem Schädel befasst und sein aussehen sowie seinen Charakter festgelegt. Dieser Charakter legt auch die Sprechweise des spendenschädels fest.
+
  
  
  <h1>
