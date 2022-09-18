@@ -109,3 +109,6 @@ Außerdem haben wir uns mit dem Schädel befasst und sein aussehen sowie seinen 
 <h1>
   <bold> Wochenende (17&18.09.2022)</bold>
      </h1>
+     
+     Samstag: grundierung mit weißer Holzpaste & Acrylfarbe
+     Sonntag: Treffen, skizze, bemalen
