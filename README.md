@@ -26,6 +26,7 @@ Das Halloweenhaus Schmalenbeck (www.halloweenhaus-schmalenbeck.de) nutzt traditi
 
 <details>
   <summary>Konzept</summary>
+  
 - Schädel, der sprechen kann (motorisierter Kiefer mit Servo)
 - Soundkarte und Lautsprechern (DFPlayer Mini)
 - euchtende Augen, welche in verschiedene Richtungen schauen können (LEDs, Servos)
@@ -35,6 +36,7 @@ Das Halloweenhaus Schmalenbeck (www.halloweenhaus-schmalenbeck.de) nutzt traditi
 
 <details>
   <summary>Features</summary>
+  
 - Schädel fragt nach Spenden (Audio synchron mit Kiefer)
 - Bei Geldeinwurf bedankt sich der Schädel
 - Mute Schalter
@@ -42,11 +44,14 @@ Das Halloweenhaus Schmalenbeck (www.halloweenhaus-schmalenbeck.de) nutzt traditi
 
 <details>
   <summary>Optional</summary> 
+  
 - Diebstahlschutz
 </details>  
 
-Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp, eine Prioritätenliste anzulegen, denn so können wir jederzeit bei Zeitdruck aufhören. Diese Liste sieht wie folgt aus:
-
+Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp, eine Prioritätenliste anzulegen, denn so können wir jederzeit bei Zeitdruck aufhören. 
+<details>
+  <summary>Prioritätenliste</summary>
+  
 - Lautsprecher -> um nach Spenden zu fragen -> Aufnahmen stellt das Halloweenhaus Schmalenbeck
 - Bewegung im Kiefer
 - Erkennung des Münzeinwurfs -> Schädel bedankt sich
@@ -54,7 +59,7 @@ Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp
 - Mute Schalter
 - sich bewegende leuchtende Augen
 - Diebstahlschutz
-
+</details>
 
 
 <h1>
@@ -115,21 +120,27 @@ Ebenfalls haben wir die Sprüche festgelget, die der Spendenschädel sagen soll.
 - Ein kleiner Groschen oder ihr werdet verdroschen, hehe. (frech)
 - Ein kleiner Groschen für eine Brilliantbrosche. (ernst, fröhlich) Scherz. Wisst ihr, wie teuer Lampen geworden sind? (scherzhaft)
 - Ich verfluche euch zum Geld spenden. (ironisch)
+- Rosi, dein ökologischer Fußabdruck ist eine Pfote. (ernst)
+- Fantasie ist, dass Sie sich buntgespränkelte zebras vorstellen. (ernst, fröhlich)
 </details>
 
 <details>
 <summary>Hintergrund Information</summary>
+  
 - Ich bin ja Jahrgang 1813. Und ihr wisst doch sicherlich, was 1813 noch so alles passiert ist, oder? Richtig, da gab es die Befreiungskriege. Und ich         fordere euch nun dazu auf, euer Geld aus eurem Portemonaie zu befreien.
 </details>
 
 <details>
 <summary>Danksagungen</summary>
+  
 - Vielen Dank Ihr holde Maid. Es ist mir eine ehre euch kennenzulernen. Ich hoffe Ihr sterbt bald. (zu tiefst berührt)
 - Oha, großer Ehrenmensch! (beGEIStert)
 - Möge der große, nicht der kleine Otto, ach was beide, mit dir sein. (dankend, fröhlich)
 - Uff, das tat weh, obwohl ich gar keine Nerven mehr habe. Aber das ist wohl die uninterpretierbare Parodaxie meinersynthetischen Existenz. (nachdenklich)
-programm für kiefer geschriben
-kiefer auf sprüche anpassen festgelegt
+  programm für kiefer geschriben
+  kiefer auf sprüche anpassen festgelegt
+- Oha, ich möchte Ihnen aufrichtig danken, mögest du immer Chicken Nuggets im Haus haben! (ernst)
+- Mögen meine Augen euch erleutung bringen! (feierlich)
 </details>
 
 <h1>
