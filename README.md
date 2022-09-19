@@ -91,7 +91,7 @@ Danach haben wir mit dem programmieren unseres Codes angefangen, welcher eine LE
   
 In dieser Stunde haben wir uns mit einem Servo beschäftigt. Wir haben gelernt, wie man mithilfe eines Arduinos den Servo steuern kann und ein programm dazu geschrieben.
  
-Außerdem haben wir uns mit dem Schädel befasst und sein aussehen sowie seinen Charakter festgelegt. Dieser Charakter legt auch die Sprechweise des spendenschädels fest.
+Außerdem haben wir uns mit dem Schädel befasst und sein Aussehen, sowie seinen Charakter festgelegt. Dieser Charakter legt auch die Sprechweise des spendenschädels fest. Wir haben uns darauf geeinigt, dass der Schädel männlich, lustig und schlau ist. Sein Name lautet Karl Leopold.
 
  
  
@@ -100,14 +100,37 @@ Außerdem haben wir uns mit dem Schädel befasst und sein aussehen sowie seinen 
      </h1>
      
      https://player.hu/uploads/2017/11/coco-hector.jpg
-     geanuer charakterisiert
-     sprüche festgrlegt
-     programm für kiefer geschriben
-     kiefer auf sprüche anpassen festgelegt
+Heute haben wir uns näher mit dem Charakter und dem Hintergrund des Spendenschädels beschäftigt. Inspiration erhielten wir von der Figur Héctor Rivera aus dem Film "Coco". 
+Karl leopold wurde 1813 geboren und war sein lebenlang ein armer, deutscher Künstler. Da er kaum Geld hatte nutzte er sein Gesicht als Leinwand. Sein Leben endete tragischerweise durch einen Sturz von einer Klippe.
+Ebenfalls haben wir die Sprüche festgelget, die der Spendenschädel sagen soll. In Klammern dahinter steht jeweils die Art, wie der Satz gesprochen werden soll.
 
+<details> 
+<summary>Sprüche</summary>
+
+- Nur mit deiner Spende können die Künstler weitermachen. (animierend)
+- Halli, hallo! Ich bin Karl Leopold, auch Spendenschädel genannt. (glücklich, aufgeweckt)
+- Ein kleiner Groschen oder ihr werdet verdroschen, hehe. (frech)
+- Ein kleiner Groschen für eine Brilliantbrosche. (ernst, fröhlich) Scherz. Wisst ihr, wie teuer Lampen geworden sind? (scherzhaft)
+- Ich verfluche euch zum Geld spenden. (ironisch)
+</details>
+
+<details>
+<summary>Hintergrund Information</summary>
+- Ich bin ja Jahrgang 1813. Und ihr wisst doch sicherlich, was 1813 noch so alles passiert ist, oder? Richtig, da gab es die Befreiungskriege. Und ich         fordere euch nun dazu auf, euer Geld aus eurem Portemonaie zu befreien.
+</details>
+
+<details>
+<summary>Danksagungen</summary>
+- Vielen Dank Ihr holde Maid. Es ist mir eine ehre euch kennenzulernen. Ich hoffe Ihr sterbt bald. (zu tiefst berührt)
+- Oha, großer Ehrenmensch! (beGEIStert)
+- Möge der große, nicht der kleine Otto, ach was beide, mit dir sein. (dankend, fröhlich)
+- Uff, das tat weh, obwohl ich gar keine Nerven mehr habe. Aber das ist wohl die uninterpretierbare Parodaxie meinersynthetischen Existenz. (nachdenklich)
+programm für kiefer geschriben
+kiefer auf sprüche anpassen festgelegt
+</details>
 
 <h1>
-  <bold> Wochenende (17&18.09.2022)</bold>
+  <bold>Wochenende (17&18.09.2022)</bold>
      </h1>
      
      Samstag: grundierung mit weißer Holzpaste & Acrylfarbe
