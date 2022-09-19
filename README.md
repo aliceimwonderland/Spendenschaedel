@@ -151,3 +151,15 @@ Außerdem wir das Programm für die Kieferbewegung geschrieben. Hier tauchte zun
      
      Samstag: grundierung mit weißer Holzpaste & Acrylfarbe
      Sonntag: Treffen, skizze, bemalen
+     
+<h1>
+  <bold>7.Stunde (19.09.2022)</bold>
+  </h1>
+  
+Wir haben weitere Sprüche entwickelt, welche in der Liste der letzten Stunde aufgeführt sind. Außerdem haben wir unsere Code-Struktur ausgefeilt, da diese noch einige Fehleraufwies und noch nicht vollständig war.
+
+<details>
+  <summary>Code-Struktur</summary>
+  
+</details>    
+    
