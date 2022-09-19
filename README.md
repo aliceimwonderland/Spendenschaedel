@@ -105,7 +105,7 @@ Karl leopold wurde 1813 geboren und war sein lebenlang ein armer, deutscher Kün
 Ebenfalls haben wir die Sprüche festgelget, die der Spendenschädel sagen soll. In Klammern dahinter steht jeweils die Art, wie der Satz gesprochen werden soll.
 
 <details> 
-<summary>Sprüche</summary>
+<summary>Allgemeine Sprüche</summary>
 
 - Nur mit deiner Spende können die Künstler weitermachen. (animierend)
 - Halli, hallo! Ich bin Karl Leopold, auch Spendenschädel genannt. (glücklich, aufgeweckt)
