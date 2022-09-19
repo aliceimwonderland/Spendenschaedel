@@ -20,27 +20,30 @@ Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. 
   </h1>
 
   
-
-
-
 Die letzten Tage habe wir festgestellt, dass wir mit dem Projekt einen Soundwavegeneratror zu programieren nicht glücklich sind. Jedoch sind wir uns einig, dass uns Physical Computing und damit die Arbeit mit einem Arduino interessiert. Wir haben uns zuhause mit den Möglichkeiten, Programmen und Hardware  auseinandergesetzt und im Unterricht besprochen. Dabei kam uns unsere Projektidee:
 
-Das Halloweenhaus Schmalenbeck (www.halloweenhaus-schmalenbeck.de) nutzt traditionell einen Spendenschädel (Spendendose in Schädelform). Dieser billige Plastikschädel mit Münzloch ist relativ klein und unsauber verarbeitet.  Das ist für uns die Gelegenheit, einen neuen zu Gestalten. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling haben wir folgendes Konzept erarbeitet:
+Das Halloweenhaus Schmalenbeck (www.halloweenhaus-schmalenbeck.de) nutzt traditionell einen Spendenschädel (Spendendose in Schädelform). Dieser billige Plastikschädel mit Münzloch ist relativ klein und unsauber verarbeitet.  Das ist für uns die Gelegenheit, einen neuen zu Gestalten. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling haben wir ein Konzept erarbeitet.
 
+<details>
+  <summary>Konzept</summary>
 - Schädel, der sprechen kann (motorisierter Kiefer mit Servo)
 - Soundkarte und Lautsprechern (DFPlayer Mini)
-- leuchtende Augen, welche in verschiedene Richtungen schauen können (LEDs, Servos)
+- euchtende Augen, welche in verschiedene Richtungen schauen können (LEDs, Servos)
 - Sensor für Geld (Lichtschranke)
+- arbeiten mit Arduiono (Arduiono IDE)
+</details>
 
--> Arduino mit Arduino IDE
-
-Features:
+<details>
+  <summary>Features</summary>
 - Schädel fragt nach Spenden (Audio synchron mit Kiefer)
 - Bei Geldeinwurf bedankt sich der Schädel
 - Mute Schalter
+</details>
 
-Optional: 
-Diebstahlschutz
+<details>
+  <summary>Optional</summary> 
+- Diebstahlschutz
+</details>  
 
 Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp, eine Prioritätenliste anzulegen, denn so können wir jederzeit bei Zeitdruck aufhören. Diese Liste sieht wie folgt aus:
 
