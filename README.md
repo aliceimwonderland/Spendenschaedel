@@ -109,7 +109,7 @@ Außerdem haben wir uns mit dem Schädel befasst und sein Aussehen, sowie seinen
      
      https://player.hu/uploads/2017/11/coco-hector.jpg
 Heute haben wir uns näher mit dem Charakter und dem Hintergrund des Spendenschädels beschäftigt. Inspiration erhielten wir von der Figur Héctor Rivera aus dem Film "Coco". 
-Karl leopold wurde 1813 geboren und war sein lebenlang ein armer, deutscher Künstler. Da er kaum Geld hatte nutzte er sein Gesicht als Leinwand. Sein Leben endete tragischerweise durch einen Sturz von einer Klippe.
+Karl leopold wurde 1813 geboren und war sein lebenlang ein armer, deutscher Künstler. Da er kaum Geld hatte nutzte er sein Gesicht als Leinwand. Sein Leben endete tragischerweise bei der Ausübung seiner Leidenschaft, da er sich giftige Farbe auf sein Gesicht auftug.
 Ebenfalls haben wir die Sprüche festgelget, die der Spendenschädel sagen soll. In Klammern dahinter steht jeweils die Art, wie der Satz gesprochen werden soll.
 
 <details> 
@@ -142,6 +142,8 @@ Ebenfalls haben wir die Sprüche festgelget, die der Spendenschädel sagen soll.
 - Oha, ich möchte Ihnen aufrichtig danken, mögest du immer Chicken Nuggets im Haus haben! (ernst)
 - Mögen meine Augen euch erleutung bringen! (feierlich)
 </details>
+
+Außerdem wir das Programm für die Kieferbewegung geschrieben. Hier tauchte zunächst ein Fehler bei dem Uploud auf den Arduiono auf. Dieses konnte allerdings durch einen anderen Code gelöst werden. Dieser code wurde danach nicht wieder benötigt und taucht daher auch nicht in dem finalen Code auf.
 
 <h1>
   <bold>Wochenende (17&18.09.2022)</bold>
