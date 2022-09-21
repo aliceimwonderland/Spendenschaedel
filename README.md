@@ -122,12 +122,14 @@ Ebenfalls haben wir die Sprüche festgelget, die der Spendenschädel sagen soll.
 - Ich verfluche euch zum Geld spenden. (ironisch)
 - Rosi, dein ökologischer Fußabdruck ist eine Pfote. (ernst)
 - Fantasie ist, dass Sie sich buntgespränkelte zebras vorstellen. (ernst, fröhlich)
+- Ich bin ja Jahrgang 1813. Und ihr wisst doch sicherlich, was 1813 noch so alles passiert ist, oder? Richtig, da gab es die Befreiungskriege. Und ich         fordere euch nun dazu auf, euer Geld aus eurem Portemonaie zu befreien.
+- Hilfe ich bin tot und brauche das geld
 </details>
 
 <details>
 <summary>Hintergrund Information</summary>
   
-- Ich bin ja Jahrgang 1813. Und ihr wisst doch sicherlich, was 1813 noch so alles passiert ist, oder? Richtig, da gab es die Befreiungskriege. Und ich         fordere euch nun dazu auf, euer Geld aus eurem Portemonaie zu befreien.
+- ja nö
 </details>
 
 <details>
@@ -141,6 +143,9 @@ Ebenfalls haben wir die Sprüche festgelget, die der Spendenschädel sagen soll.
   kiefer auf sprüche anpassen festgelegt
 - Oha, ich möchte aufrichtig danken, mögest du immer Chicken Nuggets im Haus haben! (ernst)
 - Mögen meine Augen Euch erleutung bringen! (feierlich)
+- Ich hab Geld im Kopf bin bei der FDP,
+doch trozudem sage ich dir jetzt DANKEE
+
 </details>
 
 Außerdem wir das Programm für die Kieferbewegung geschrieben. Hier tauchte zunächst ein Fehler bei dem Uploud auf den Arduiono auf. Dieses konnte allerdings durch einen anderen Code gelöst werden. Dieser code wurde danach nicht wieder benötigt und taucht daher auch nicht in dem finalen Code auf.
