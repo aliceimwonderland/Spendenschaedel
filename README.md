@@ -139,8 +139,8 @@ Ebenfalls haben wir die Sprüche festgelget, die der Spendenschädel sagen soll.
 - Uff, das tat weh, obwohl ich gar keine Nerven mehr habe. Aber das ist wohl die uninterpretierbare Parodaxie meinersynthetischen Existenz. (nachdenklich)
   programm für kiefer geschriben
   kiefer auf sprüche anpassen festgelegt
-- Oha, ich möchte Ihnen aufrichtig danken, mögest du immer Chicken Nuggets im Haus haben! (ernst)
-- Mögen meine Augen euch erleutung bringen! (feierlich)
+- Oha, ich möchte aufrichtig danken, mögest du immer Chicken Nuggets im Haus haben! (ernst)
+- Mögen meine Augen Euch erleutung bringen! (feierlich)
 </details>
 
 Außerdem wir das Programm für die Kieferbewegung geschrieben. Hier tauchte zunächst ein Fehler bei dem Uploud auf den Arduiono auf. Dieses konnte allerdings durch einen anderen Code gelöst werden. Dieser code wurde danach nicht wieder benötigt und taucht daher auch nicht in dem finalen Code auf.
