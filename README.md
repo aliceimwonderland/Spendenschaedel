@@ -166,5 +166,11 @@ Wir haben weitere Sprüche entwickelt, welche in der Liste der letzten Stunde au
 <details>
   <summary>Code-Struktur</summary>
   
-</details>    
+</details>  
+
+
+
+https://funduino.de/nr-6-fotowiderstand
+
+
     
