@@ -171,6 +171,7 @@ Wir haben weitere Sprüche entwickelt, welche in der Liste der letzten Stunde au
 
 
 https://funduino.de/nr-6-fotowiderstand
+https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/
 
 
     
