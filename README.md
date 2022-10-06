@@ -185,3 +185,5 @@ http://www.gammon.com.au/interrupts
   rosalie hardware dieb und fritzing 
   
   https://wolles-elektronikkiste.de/dfplayer-mini-ansteuerung-mit-dem-arduino
+  https://ardurobot.jimdofree.com/lehrgang/posten-12-lichtsensor/
+  
