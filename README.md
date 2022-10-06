@@ -175,4 +175,11 @@ https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/
 https://www.arduino.cc/reference/en/language/functions/communication/serial/println/
 https://www.google.de/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjRp57C_LH6AhXaSPEDHWWmBj8QFnoECAMQAw&url=https%3A%2F%2Flerneprogrammieren.com%2Fder-datentyp-bool%2F&usg=AOvVaw34n1MS84pJe0axRwyTMK_k
 http://www.gammon.com.au/interrupts
-    
+
+
+   <h1>
+  <bold>8. Stunde (06.10.2022)</bold> 
+  
+  </h1> 
+  Alicia lernt Münzeinwurf
+  rosalie hardware dieb und fritzing 
