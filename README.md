@@ -191,3 +191,5 @@ http://www.gammon.com.au/interrupts
 24.10.
 
 https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/
+https://docplayer.org/176475379-Mp3-player-mit-dfplayer-mini.html
+
