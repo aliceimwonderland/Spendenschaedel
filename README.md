@@ -187,3 +187,7 @@ http://www.gammon.com.au/interrupts
   https://wolles-elektronikkiste.de/dfplayer-mini-ansteuerung-mit-dem-arduino
   https://ardurobot.jimdofree.com/lehrgang/posten-12-lichtsensor/
   
+
+24.10.
+
+https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/
