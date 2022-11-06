@@ -188,8 +188,36 @@ http://www.gammon.com.au/interrupts
   https://ardurobot.jimdofree.com/lehrgang/posten-12-lichtsensor/
   
 
-24.10.
+  <h1>
+  <bold>9. Stunde (24.10.2022)</bold> 
+  
+  </h1> 
 
 https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/
 https://docplayer.org/176475379-Mp3-player-mit-dfplayer-mini.html
 
+  <h1>
+  <bold>10. Stunde (03.11.2022)</bold> 
+  
+  </h1> 
+  
+  Frau Kleinat hat irgendwas gemacht, kp war nicht da
+  
+  
+  <h1>
+  <bold>11. Stunde (07.11.2022)</bold> 
+  
+  </h1> 
+  Nur alicia
+  
+  <h1>
+  <bold>12. Stunde (14.11.2022)</bold> 
+  
+  </h1> 
+  
+  ka
+  
+  <h1>
+  <bold>13. Stunde (17.11.2022)</bold> 
+  
+  </h1> 
