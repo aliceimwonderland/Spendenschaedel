@@ -190,7 +190,7 @@ Wir haben weitere Sprüche entwickelt, welche in der Liste der letzten Stunde au
   
   </h1> 
 Alicia beschäftigt sich damit, wie sie mit Hilfe eines Sensorwertes die Audiodateien steuern kann. Sobald Geld eingeworfen wird soll der Spendenschädel nämlich nicht mehr seine normalen Sprüche aufsagen sondern sich bedanken.
-Rosalie setzt sich weiterhin mit der Hardware auseinander und erstellt einen Schaltplan mit Fritzing. 
+Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan auseinandergesetzt.
   
   <details>
     <summary>Quellen</summary>
