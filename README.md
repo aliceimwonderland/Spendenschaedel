@@ -228,11 +228,15 @@ Rosalie setzt sich weiterhin mit der Hardware auseinander und erstellt einen Sch
   <bold>11. Stunde (07.11.2022)</bold> 
   
   </h1> 
+  
 Alicia hat erneut den Code auf Fehlerquellen überprüft. Der Code war an einer falschen Stelle gespeichert und konnte daher nicht auf die Librarie zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert. Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audiodateien falsch war. Diese Fehlermeldung konnte nach einer kurzen Internetrecherche behoben werden. Alicia hat außerdem eine weitere Funktion, die Audiodateien betreffend, eingebaut. Diese werden, sofern kein anderer Befehl vorliegt, alle abgepielt. So muss nicht jede Audiodatei enzeln eingefügt werden.
 Außerdem hat sie mit HTML den Blog weiter strukturiert.
  
+ 
  <details>
-  <summary>Quellen</summyry>
+  <summary>Quellen</summary>
+  
+ - https://www.theamplituhedron.com/articles/How-to-use-DFRobot-DFPlayer-Mini-Serial-MP3-Player-with-Arduino/
   
  </details>
   
