@@ -245,7 +245,7 @@ Außerdem hat sie mit HTML den Blog weiter strukturiert.
   
   </h1> 
   
-  Ausfall, wir waren da. Ka eig nichts gemacht da
+ In dieser Stunde haben wir ohne Aufsicht gearbeitet. Alicia hat sich wieder mit dem Code beschäftigt. Relativ zum Ende der Stunde ist eine Fehlermeldung aufgetreten. Der fehlerhafte Befel soll dafür sorgen, dass der Servo zufällige Positionen, in festgelegten Grenzbereichen, ansteuert.
   
 
   
@@ -255,7 +255,9 @@ Außerdem hat sie mit HTML den Blog weiter strukturiert.
   </h1> 
 
 
-Alicia Code, Rosalie GitHub
+Alicia beschäftigt sich weiterhin mit dem Code. Die Fehlermerldung der letzten Stunde konnte gelöst werden. Eine benötigte Bibliothek war nicht installiert. Da diese allerdings auch nicht mehr verfügbar ist, musste der Befehl umgeschrieben werden.
+Rosalie setzt sich mit dem GitHub Blog außeinander und wie wir im generellen unsere Projektseite gestallten wollen.
+Wir befinden uns nun im Endspurt unseres Projektes und haben noch zwei Wochen, um dieses zu vollenden.
 
 <h1>
   <bold>14. Stunde (21.11.2022)</bold> 
