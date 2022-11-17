@@ -245,9 +245,32 @@ Außerdem hat sie mit HTML den Blog weiter strukturiert.
   
   </h1> 
   
+  Ausfall, wir waren da. Ka eig nichts gemacht da
+  
 
   
   <h1>
   <bold>13. Stunde (17.11.2022)</bold> 
+  
+  </h1> 
+
+
+Alicia Code, Rosalie GitHub
+
+<h1>
+  <bold>14. Stunde (21.11.2022)</bold> 
+  
+  </h1> 
+  
+  
+  
+  <h1>
+  <bold>15. Stunde (28.11.2022)</bold> 
+  
+  </h1> 
+  
+  
+  <h1>
+  <bold>16. Stunde (01.12.2022)</bold> 
   
   </h1> 
