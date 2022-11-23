@@ -263,6 +263,7 @@ Wir befinden uns nun im Endspurt unseres Projektes und haben noch zwei Wochen, u
   <bold>14. Stunde (21.11.2022)</bold> 
   
   </h1> 
+  Buch stabilisiert, etwas github geschrieben. Fehler vom Ton gesucht, feher waren fehlende Tondateien
   
   
   
