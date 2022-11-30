@@ -426,44 +426,40 @@ Um diese leblose Hülle zum Sprechen zu bringen, werden insgesamt 32 Sprüche ge
 und Langzeitmitglied Bennet Martins, welcher so die Aufnahme eines männlichen Sprechers ermöglichte.
 Die 32 Sprüche bestehen mit 21 aufgenommenen Tonspuren größtenteils aus zufälligen Sprüchen. Bedanken kann sich der Schädel mit den restlichen 11.
 
-  <details><summary>Sprüche</summary></details>
+  <details><summary>Sprüche</summary>
   
-Nur mit deiner Spende können die Künstler weitermachen.
-Halli Hallo! Ich bin Karl-Leopold, auch Spendenschädel genannt.
-Ein kleiner Groschen oder ihr werdet verdroschen. Hehe.
-Ein kleiner Groschen für eine Brilliantbrosche. Scherz. Wisst ihr, wie teuer Lampen 
-geworden sind?
-Ich verfluche euch zum Geldspenden.
-Ich bin ja Jahrgang 1813, und ihr wisst doch sicherlich, was 1813 noch so alles 
-passiert ist, oder? Richtig, da gab es die Befreiungskriege. Und ich fordere euch 
-nun dazu auf, das Geld aus eurem Portemonnaie zu befreien.
-Hilfe, ich bin tot und brauche das Geld…
-Diesen Aufwand könnte ich im Leben nicht bezahlen! Gut, dass ich tot bin.
-Kohle Kohle Kohle, Kohle Kohle Kohle, Kohle Kohle Kohle, Scha-Bidu!
-Sag mal Bennet, ist das richtig, dass hier niemand Eintritt bezahlt? Ach ja! Ist ja auf 
-Spendenbasis!
-Als ich klein war war glaubte ich, Geld sei das wichtigste im Leben. Heute, da ich 
-alt bin weiß ich, es stimmt.
-Es gibt Leute, die Laufen dem Geld nach. Ich bin hier und das Geld kommt zu mir.
-Meine Sprüche sind die Kunst auf den Kopf zu zielen und die Brieftasche zu treffen.
-Mögen euch die Ärmel beim Händewaschen runterrutschen, wenn ihr kein Geld 
-einwerft.
-Verwechsle die Höhe deiner Gage niemand mit der große deines Talents.
-Lasst Applaus in Form von Geld da.
-Herrlich erfrischend, so eine kühle Münze!
-Das einzige was mir nicht passieren kann, ist den Kopf zu verlieren.
-Ich bin die schönste Blume hier!
-Spendenschädel meldet sich zum Dienst.
-Werde ich ein Skelett, wenn ich groß bin?
-Vielen Dank holde Maid! Es ist mir eine Ehre, euch kennenzulernen.
-Oha, großer Ehrenmensch!
-Möge der große, nicht der kleine Otto. Ach was, beide mit dir sein.
-Uff, das tat weh. Obwohl ich gar keine Nerven mehr habe. Aber das ist wohl die 
-uninterpretierbare Paradoxie meiner synthetischen Existenz.
-Mögen meine Augen euch Erleuchtung bringen!
-Danke sehr, auch das man auch nach deinem Tode gut über dich sprechen mag.
-Ich bin von deiner Begeisterung be-geist-ert. Vielen Dank!
-Vielen Dank für die Spende, ich freue mich zu Tode.
-Ich bin vom Unterkiefer bis zum Gehörknöchelchen Entzückt!
-Ich würde vor Freunde fast in die Luft springen, wenn ich denn nur könnte. Danke!
-Danke Anke, Schankedön!
+- Nur mit deiner Spende können die Künstler weitermachen.
+- Halli Hallo! Ich bin Karl-Leopold, auch Spendenschädel genannt.
+- Ein kleiner Groschen oder ihr werdet verdroschen. Hehe.
+- Ein kleiner Groschen für eine Brilliantbrosche. Scherz. Wisst ihr, wie teuer Lampen geworden sind?
+- Ich verfluche euch zum Geldspenden.
+- Ich bin ja Jahrgang 1813, und ihr wisst doch sicherlich, was 1813 noch so alles passiert ist, oder? Richtig, da gab es die Befreiungskriege. Und ich fordere euch nun dazu   auf, das Geld aus eurem Portemonnaie zu befreien.
+- Hilfe, ich bin tot und brauche das Geld…
+- Diesen Aufwand könnte ich im Leben nicht bezahlen! Gut, dass ich tot bin.
+- Kohle Kohle Kohle, Kohle Kohle Kohle, Kohle Kohle Kohle, Scha-Bidu!
+- Sag mal Bennet, ist das richtig, dass hier niemand Eintritt bezahlt? Ach ja! Ist ja auf Spendenbasis!
+- Als ich klein war war glaubte ich, Geld sei das wichtigste im Leben. Heute, da ich alt bin weiß ich, es stimmt.
+- Es gibt Leute, die Laufen dem Geld nach. Ich bin hier und das Geld kommt zu mir.
+- Meine Sprüche sind die Kunst auf den Kopf zu zielen und die Brieftasche zu treffen.
+- Mögen euch die Ärmel beim Händewaschen runterrutschen, wenn ihr kein Geld einwerft.
+- Verwechsle die Höhe deiner Gage niemand mit der große deines Talents.
+- Lasst Applaus in Form von Geld da.
+- Herrlich erfrischend, so eine kühle Münze!
+- Das einzige was mir nicht passieren kann, ist den Kopf zu verlieren.
+- Ich bin die schönste Blume hier!
+- Spendenschädel meldet sich zum Dienst.
+- Werde ich ein Skelett, wenn ich groß bin?
+    
+- Vielen Dank holde Maid! Es ist mir eine Ehre, euch kennenzulernen.
+- Oha, großer Ehrenmensch!
+- Möge der große, nicht der kleine Otto. Ach was, beide mit dir sein.
+- Uff, das tat weh. Obwohl ich gar keine Nerven mehr habe. Aber das ist wohl die uninterpretierbare Paradoxie meiner synthetischen Existenz.
+- Mögen meine Augen euch Erleuchtung bringen!
+- Danke sehr, auch das man auch nach deinem Tode gut über dich sprechen mag.
+- Ich bin von deiner Begeisterung be-geist-ert. Vielen Dank!
+- Vielen Dank für die Spende, ich freue mich zu Tode.
+- Ich bin vom Unterkiefer bis zum Gehörknöchelchen Entzückt!
+- Ich würde vor Freunde fast in die Luft springen, wenn ich denn nur könnte. Danke!
+- Danke Anke, Schankedön!
+
+    </details>
