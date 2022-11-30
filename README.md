@@ -8,7 +8,7 @@
     II  <a href="#Konzeption">Konzeption</a><br>
     III <a href="#Wahl der Hardware">Wahl der Hardware</a><br>
     IV  <a href="#Wahl der Software">Wahl der Software</a><br>
- 2. Entwicklung
+ 2. Entwicklung<br>
     I   <a href="#Stundenprotokoll">Stundenprotokoll</a><br>
     II  <a href="#Code">Code</a><br>
     III <a href="#Bau- und Schaltplan">Bau- und Schaltplan</a><br>
@@ -22,7 +22,7 @@
 <h1> 
 <bold>Das Projekt</bold>
   
-  <h2 id="Ideenfindung">I Ideenfindung</h2><br>
+  <h2 id="Ideenfindung">Ideenfindung</h2><br>
   
 Die Gestalter des Projektes, Alicia Gärtner und Rosalie Muchow, sind beide Teammitglieder des Halloweenhaus Schmalenbeck. In dem seit 10 Jahren stetig wachsenden, interdisziplinären & jungen Team bekommen beide einen vielfältigen Eindruck in den Themenbereichen Show- und Bühnendesign, Veranstaltungstechnik oder dem Bau von Audio Animatronics. Die Begeisterung für Audio Animatronics wurde neben dem Halloweenhaus auch bei gemeinsamen Freizeitparkbesuchen geformt. Besonders die unpräzisen 
 Bewegungen günstiger Animatronics gefällt dem Duo gar nicht. Schnell wurde den Freunden klar, dass dieses Projekt eine hervorragende Möglichkeit ist, das Halloweenhaus mit einer technischen Neuheit zu bereichern. Bei einem kurzen Brainstorming Prozess erinnert sich das Team an den seit 2016 genutzten Spendenschädel, welchen Rosalie als unästhetisch und unauffällig empfindet. Zusätzlich ist dieser durch das Loch am Boden sehr unsicher gegen Diebstahl und für die steigenden Spendengelder zu klein.An diesem Punkt beschließt das Team, eine neue Version des Schädels zu bauen. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling, welche „Papier hier“ rufen und sich nach dem erfolgreichen Einwurf bedanken, wird ein Konzept entworfen, welches alle Probleme des alten Schädels eliminieren soll. Bild 
@@ -95,10 +95,33 @@ Faden - Der verbaute Faden strukturiert die vielen Kabel im Kopf.
   
 Papier - Papier hat keinen weiteren Sinn für den Schädel, doch wird zur Vollständigkeit mit aufgeführt. Es wurde zum Kommentieren von Verbindungen im Schädel gebraucht.
   
-  <h1>
+<h2 id="Wahl der Software">Wahl der Software</h2>
+ 
+Arduino IDE - Es ist das offizielle Programm zum Programmieren eines Arduinos und kostenlos nutzbar.
+  
+GitHub - Der webbasierte Dienst hilft Entwickeln, Code auszutauschen und Projekte im Internet vorzustellen.
+  
+Synology Drive - Das Programm verwandelt einen NAS zu einer privaten Cloud, in welcher jegliche Dokumente und Dateien gespeichert sind. 
+  
+GoodNotes5 - Diese App zur Erstellung von handgeschriebenen Notizen wird von beiden im Schulalltag und dementsprechend auch für das Projekt verwendet. Neben ersten Skizzen entsteht auch der Schaltplan in diesem Programm.
+  
+Procreate - Mit Hilfe der Zeichen-App erstehen Skizzen.
+  
+Pages - Das auf iOS, MacOS und iPadOS vorinstallierte Tool zum Erstellen von Textdokumenten schafft Überblick über die verwendeten Anschlüsse am Arduino.
+  
+Blender - Mit diesem open-source Programm zur Erstellung von 3D Modellen wird der Schädel erstellt.
+  
+Ultimaker Cura - Das Programm wandelt das 3D Modell in den für den Drucker auslesbaren G-Code um. Dieser Slicer ist ebenfalls open Source und kostenlos.
+  
+Logic Pro X - Mit der Digital Audio Workstation von Apple werden die Tonaufnahmen getätigt. 
+  
+  <h1><bold>Entwicklung</bold></h1>
+  <h2 id="Stundenprotokoll">Stundenprotokoll</h2>
+  
+  <h3>
   <bold>1. Stunde (22.08.2022)</bold>
   
-  </h1>
+  </h3>
   
 Zusammen erstellten wir unsere GitHub Accounts, sowie unsere Projektseite. Anschließend haben wir uns über ein mögliches Projekt gedanken gemacht. Unsere erste Idee war es, eine beleuchtete Stadt zu konstruieren, dessen LEDs über ein LCD Display einzeln ansteuerbar sein sollen. Zusätzlich sollen mit einprogrammierten Routinen kleine Lichtshows möglich gemacht werden. Das Projekt soll selbstständig Tag und Nacht unterscheiden und die Routinen demensprechend anpassen.
 Da das Projekt nicht dem angemessenen Programmierumfang enspricht wurde die Idee verworfen.
@@ -111,10 +134,10 @@ Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. 
   
   </details>
  
-<h1>
+<h3>
   <bold>2. Stunde (25.08.2022)</bold> 
   
-  </h1>
+  </h3>
 
   
 In den letzten Tagen habe wir festgestellt, dass wir mit dem Projekt nicht zufrieden sind. Jedoch sind wir uns einig, dass uns Physical Computing und damit die Arbeit mit einem Arduino interessiert. Wir haben uns zuhause mit den Möglichkeiten, Programmen und Hardware  auseinandergesetzt und im Unterricht besprochen. Dabei kam uns unsere Projektidee:
@@ -159,10 +182,10 @@ Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp
 </details>
 
 
-<h1>
+<h3>
   <bold>3. Stunde (29.08.2022)</bold> 
   
-  </h1>
+  </h3>
   
   
 Über das Wochenende haben wir einen Ordner auf Rosalies NAS erstellt, um dort sicher und einfach Daten zu sichern und teilen. Außerdem hat Rosalie das Lager des Halloweenhaus Schmalenbeck nach Hardware gesichtet und LEDs, einen Az-Delivery Mini MP3 Player DFPlayer Master Module für Arduino und einen AZ-Delivery Fotowiderstand (Photo Resistor) Dioden 150V 5mm LDR5528 GL5528 5528 50pcs für unser Projekt genommen.
@@ -181,10 +204,10 @@ Da Alicia in dieser Stunde leider fehlte, hat Rosalie alleine angefangen, einen 
 </details>
  
  
- <h1>
+ <h3>
   <bold>4. Stunde (05.09.2022)</bold> 
   
-  </h1>
+  </h3>
   
   In dieser Stunde haben wir den noch Fehlenden Fotowiederstand in die Skizze aufgenommen und diese auf Fehler überprüft. Dank einiger Tipps konnten wir 
   diese finalisieren.
@@ -199,9 +222,9 @@ Danach haben wir mit dem programmieren unseres Codes angefangen, welcher eine LE
  
 </details>
 
-<h1>
+<h3>
   <bold>5. Stunde (08.09.2022)</bold>
-     </h1>
+     </h3>
   
 In dieser Stunde haben wir uns mit einem Servo beschäftigt. Wir haben gelernt, wie man mithilfe eines Arduinos den Servo steuern kann und ein programm dazu geschrieben.
  
@@ -209,9 +232,9 @@ Außerdem haben wir uns mit dem Schädel befasst und sein Aussehen, sowie seinen
 
  
  
- <h1>
+ <h3>
   <bold>6. Stunde (12.09.2022)</bold>
-     </h1>
+     </h3>
      
      
 Heute haben wir uns näher mit dem Charakter und dem Hintergrund des Spendenschädels beschäftigt. Inspiration erhielten wir von der Figur Héctor Rivera aus dem Film "Coco". 
@@ -257,16 +280,16 @@ Außerdem wir das Programm für die Kieferbewegung geschrieben. Hier tauchte zun
        
 </details>
 
-<h1>
+<h3>
   <bold>Wochenende (17&18.09.2022)</bold>
-     </h1>
+     </h3>
 Am Samstag hat Rosalie den Spendenschädel mit einer weißen Holzpaste grundiert, damit der Schädel keine Kanten hat, die durch den 3D-Druck entstehen. Anschließend hat sie den SChädel mit weißer Acrylfarbe angemalt.  
 Am Sonntag haben wir uns getroffen und zuerst eine Skizze angefertigt, wie der Schädel aussehen soll. Anschließend haben wir uns auf ein Farbschema geeinigt und mit einem Bleistift, die Formen vorgezeichnet. Der letzte Schritt bestand darin, den Schädel anzumalen.
    
    
-<h1>
+<h3>
   <bold>7.Stunde (19.09.2022)</bold>
-  </h1>
+  </h3>
   
 Wir haben weitere Sprüche entwickelt, welche in der Liste der letzten Stunde aufgeführt sind. Außerdem haben wir unsere Code-Struktur ausgefeilt, da diese noch einige Fehleraufwies und noch nicht vollständig war.
 
@@ -282,10 +305,10 @@ Wir haben weitere Sprüche entwickelt, welche in der Liste der letzten Stunde au
 </details> 
 
 
-   <h1>
+   <h3>
   <bold>8. Stunde (06.10.2022)</bold> 
   
-  </h1> 
+  </h3> 
 Alicia beschäftigt sich damit, wie sie mit Hilfe eines Sensorwertes die Audiodateien steuern kann. Sobald Geld eingeworfen wird soll der Spendenschädel nämlich nicht mehr seine normalen Sprüche aufsagen sondern sich bedanken.
 Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan auseinandergesetzt.
   
@@ -297,10 +320,10 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
   
   </details>
   
-  <h1>
+  <h3>
   <bold>9. Stunde (24.10.2022)</bold> 
   
-  </h1> 
+  </h3> 
   
   Rosalie hat die Hardware überprüft und Alicia hat am Code weitergearbeitet.
   
@@ -313,18 +336,18 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
  </details>
 
 
-  <h1>
+  <h3>
   <bold>10. Stunde (03.11.2022)</bold> 
   
-  </h1> 
+  </h3> 
   
   Alicia ist den Code durchgegangen und hat ihn auch Fehlerquellen überprüft.
   
   
-  <h1>
+  <h3>
   <bold>11. Stunde (07.11.2022)</bold> 
   
-  </h1> 
+  </h3> 
   
 Alicia hat erneut den Code auf Fehlerquellen überprüft. Der Code war an einer falschen Stelle gespeichert und konnte daher nicht auf die Librarie zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert. Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audiodateien falsch war. Diese Fehlermeldung konnte nach einer kurzen Internetrecherche behoben werden. Alicia hat außerdem eine weitere Funktion, die Audiodateien betreffend, eingebaut. Diese werden, sofern kein anderer Befehl vorliegt, alle abgepielt. So muss nicht jede Audiodatei enzeln eingefügt werden.
 Außerdem hat sie mit HTML den Blog weiter strukturiert.
@@ -337,40 +360,44 @@ Außerdem hat sie mit HTML den Blog weiter strukturiert.
   
  </details>
   
-  <h1>
+  <h3>
   <bold>12. Stunde (14.11.2022)</bold> 
   
-  </h1> 
+  </h3> 
   
  In dieser Stunde haben wir ohne Aufsicht gearbeitet. Alicia hat sich wieder mit dem Code beschäftigt. Relativ zum Ende der Stunde ist eine Fehlermeldung aufgetreten. Der fehlerhafte Befel soll dafür sorgen, dass der Servo zufällige Positionen, in festgelegten Grenzbereichen, ansteuert.
   
 
   
-  <h1>
+  <h3>
   <bold>13. Stunde (17.11.2022)</bold> 
   
-  </h1> 
+  </h3> 
 
 
 Alicia beschäftigt sich weiterhin mit dem Code. Die Fehlermerldung der letzten Stunde konnte gelöst werden. Eine benötigte Bibliothek war nicht installiert. Da diese allerdings auch nicht mehr verfügbar ist, musste der Befehl umgeschrieben werden.
 Rosalie setzt sich mit dem GitHub Blog außeinander und wie wir im generellen unsere Projektseite gestallten wollen.
 Wir befinden uns nun im Endspurt unseres Projektes und haben noch zwei Wochen, um dieses zu vollenden.
 
-<h1>
+<h3>
   <bold>14. Stunde (21.11.2022)</bold> 
   
-  </h1> 
+  </h3> 
   Buch stabilisiert, etwas github geschrieben. Fehler vom Ton gesucht, feher waren fehlende Tondateien
   
   
   
-  <h1>
+  <h3>
   <bold>15. Stunde (28.11.2022)</bold> 
   
-  </h1> 
+  </h3> 
   
   
-  <h1>
+  <h3>
   <bold>16. Stunde (01.12.2022)</bold> 
   
-  </h1> 
+  </h3> 
+  
+  <h2 id="Code">Code</h2>
+  
+  <h2 id="Schaltplan">Schaltplan</h2>
