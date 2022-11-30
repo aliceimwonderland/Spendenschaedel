@@ -221,7 +221,7 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
   
   </h1> 
   
-  Alicia ist den Code durchgegangen und hat ihn auch Fehlerquellen überprüft.
+  Da Rosalie durch eine Erkrankung nicht arbeiten kann kümmert sich Alicia in der Stunde alleine um das Projekt. Sie ist den Code durchgegangen und hat ihn auf Fehlerquellen überprüft.
   
   
   <h1>
@@ -229,8 +229,9 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
   
   </h1> 
   
-Alicia hat erneut den Code auf Fehlerquellen überprüft. Der Code war an einer falschen Stelle gespeichert und konnte daher nicht auf die Librarie zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert. Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audiodateien falsch war. Diese Fehlermeldung konnte nach einer kurzen Internetrecherche behoben werden. Alicia hat außerdem eine weitere Funktion, die Audiodateien betreffend, eingebaut. Diese werden, sofern kein anderer Befehl vorliegt, alle abgepielt. So muss nicht jede Audiodatei enzeln eingefügt werden.
+Alicia hat erneut den Code auf Fehlerquellen überprüft. Der Code war an einer falschen Stelle gespeichert und konnte daher nicht auf die Library zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert. Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audiodateien falsch war. Diese Fehlermeldung konnte nach einer kurzen Internetrecherche behoben werden. Alicia hat außerdem eine weitere Funktion, die Audiodateien betreffend, eingebaut. Diese werden, sofern kein anderer Befehl vorliegt, alle abgepielt. So muss nicht jede Audiodatei enzeln eingefügt werden.
 Außerdem hat sie mit HTML den Blog weiter strukturiert.
+Rosalie ist weiterhin krank, kann aber von zuhause aus an der Projektseite arbeiten.
  
  
  <details>
@@ -245,7 +246,7 @@ Außerdem hat sie mit HTML den Blog weiter strukturiert.
   
   </h1> 
   
- In dieser Stunde haben wir ohne Aufsicht gearbeitet. Alicia hat sich wieder mit dem Code beschäftigt. Relativ zum Ende der Stunde ist eine Fehlermeldung aufgetreten. Der fehlerhafte Befel soll dafür sorgen, dass der Servo zufällige Positionen, in festgelegten Grenzbereichen, ansteuert.
+ In dieser Stunde haben wir ohne Aufsicht gearbeitet. Alicia und Rosalie haben sich mit dem Code beschäftigt. Relativ zum Ende der Stunde ist eine Fehlermeldung aufgetreten. Der fehlerhafte Befel soll dafür sorgen, dass der Servo zufällige Positionen, in festgelegten Grenzbereichen, ansteuert.
   
 
   
@@ -255,16 +256,15 @@ Außerdem hat sie mit HTML den Blog weiter strukturiert.
   </h1> 
 
 
-Alicia beschäftigt sich weiterhin mit dem Code. Die Fehlermerldung der letzten Stunde konnte gelöst werden. Eine benötigte Bibliothek war nicht installiert. Da diese allerdings auch nicht mehr verfügbar ist, musste der Befehl umgeschrieben werden.
-Rosalie setzt sich mit dem GitHub Blog außeinander und wie wir im generellen unsere Projektseite gestallten wollen.
+Alicia beschäftigt sich mit dem Code. Die Fehlermerldung der letzten Stunde konnte gelöst werden. Eine benötigte Bibliothek war nicht installiert. Da diese allerdings auch nicht mehr verfügbar ist, musste der Befehl umgeschrieben werden.
+Rosalie setzt sich mit dem GitHub Blog außeinander. Der Fokus liegt hier an einer sinnvollen Struktur mit wichtigen Unterthemen. 
 Wir befinden uns nun im Endspurt unseres Projektes und haben noch zwei Wochen, um dieses zu vollenden.
 
 <h1>
   <bold>14. Stunde (21.11.2022)</bold> 
   
   </h1> 
-  Buch stabilisiert, etwas github geschrieben. Fehler vom Ton gesucht, feher waren fehlende Tondateien
-  
+  In dieser Stunde wurde zunächst in Einzelarbeit gearbeitet. Rosalie hat mit Holzstäben das Buch stabilisiert, da das Buch durch das Gewicht im letzten Monat eine Vertiefung gebildet hat. Danach hat Sie etwas an der Github-Projektseite geschrieben. Währenddessen hat Alicia versucht herauszufinden, weshalb der Schädel keine Tondateien abspielt. Nach einiger Zeit hat Rosalie bei der Fehlersuche geholfen. Zu Stundenende wurde das Problem gefunden, welches nur durch beschädigte Tondateien entstanden ist.
   
   
   <h1>
@@ -272,8 +272,7 @@ Wir befinden uns nun im Endspurt unseres Projektes und haben noch zwei Wochen, u
   
   </h1> 
   
+  Da krankheitsbedingt nur Rosalie anwesend war, hat sie alleine am Text für die Projektseite gearbeitet.
   
-  <h1>
-  <bold>16. Stunde (01.12.2022)</bold> 
   
-  </h1> 
+  
