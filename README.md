@@ -1,4 +1,36 @@
 <h1>
+  <bold>Navigation</bold>
+ 
+</h1>
+  
+  1.  Das Projekt
+    I   <a href="#Ideenfindung">Ideenfindung</a>
+    II  <a href="#Konzeption">Konzeption</a>
+    III <a href="#Wahl der Hardware">Wahl der Hardware</a>
+    IV  <a href="#Wahl der Software">Wahl der Software</a>
+ 2. Entwicklung
+    I   <a href="#Stundenprotokoll">Stundenprotokoll</a>
+    II  <a href="#Code">Code</a>
+    III <a href="#Bau- und Schaltplan">Bau- und Schaltplan</a>
+    IV  <a href="#Multimediaproduktion">Multimediaproduktion</a>
+ 3. Evaluation
+    I   <a href="#Besucherreaktionen an Halloween">Besucherreaktionen an Halloween</a>
+    II  <a href="#Technische Evaluation">Technische Evaluation</a> 
+    III <a href="#Persönliches Wachstum">Persönliches Wachstum</a>
+ 4. Quellen und Eigenständigkeitserklärung
+  
+<h1> 
+<bold>Das Projekt</bold>
+  
+  </h1>
+<id="Ideenfindung">
+I Ideenfindung
+Die Gestalter des Projektes, Alicia Gärtner und Rosalie Muchow, sind beide Teammitglieder des Halloweenhaus Schmalenbeck. In dem seit 10 Jahren stetig wachsenden, interdisziplinären & jungen Team bekommen beide einen vielfältigen Eindruck in den Themenbereichen Show- und Bühnendesign, Veranstaltungstechnik oder dem Bau von Audio Animatronics. Die Begeisterung für Audio Animatronics wurde neben dem Halloweenhaus auch bei gemeinsamen Freizeitparkbesuchen geformt. Besonders die unpräzisen 
+Bewegungen günstiger Animatronics gefällt dem Duo gar nicht. Schnell wurde den Freunden klar, dass dieses Projekt eine hervorragende Möglichkeit ist, das Halloweenhaus mit einer technischen Neuheit zu bereichern. Bei einem kurzen Brainstorming Prozess erinnert sich das Team an den seit 2016 genutzten Spendenschädel, welchen Rosalie als unästhetisch und unauffällig empfindet. Zusätzlich ist dieser durch das Loch am Boden sehr unsicher gegen Diebstahl und für die steigenden Spendengelder zu klein.An diesem Punkt beschließt das Team, eine neue Version des Schädels zu bauen. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling, welche „Papier hier“ rufen und sich nach dem erfolgreichen Einwurf bedanken, wird ein Konzept entworfen, welches alle Probleme des alten Schädels eliminieren soll. Bild 
+vom alten Schädel, Link zu Papier hier von Efteling
+
+II 
+<h1>
   <bold>1. Stunde (22.08.2022)</bold>
   
   </h1>
@@ -221,7 +253,7 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
   
   </h1> 
   
-  Da Rosalie durch eine Erkrankung nicht arbeiten kann kümmert sich Alicia in der Stunde alleine um das Projekt. Sie ist den Code durchgegangen und hat ihn auf Fehlerquellen überprüft.
+  Alicia ist den Code durchgegangen und hat ihn auch Fehlerquellen überprüft.
   
   
   <h1>
@@ -229,9 +261,8 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
   
   </h1> 
   
-Alicia hat erneut den Code auf Fehlerquellen überprüft. Der Code war an einer falschen Stelle gespeichert und konnte daher nicht auf die Library zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert. Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audiodateien falsch war. Diese Fehlermeldung konnte nach einer kurzen Internetrecherche behoben werden. Alicia hat außerdem eine weitere Funktion, die Audiodateien betreffend, eingebaut. Diese werden, sofern kein anderer Befehl vorliegt, alle abgepielt. So muss nicht jede Audiodatei enzeln eingefügt werden.
+Alicia hat erneut den Code auf Fehlerquellen überprüft. Der Code war an einer falschen Stelle gespeichert und konnte daher nicht auf die Librarie zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert. Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audiodateien falsch war. Diese Fehlermeldung konnte nach einer kurzen Internetrecherche behoben werden. Alicia hat außerdem eine weitere Funktion, die Audiodateien betreffend, eingebaut. Diese werden, sofern kein anderer Befehl vorliegt, alle abgepielt. So muss nicht jede Audiodatei enzeln eingefügt werden.
 Außerdem hat sie mit HTML den Blog weiter strukturiert.
-Rosalie ist weiterhin krank, kann aber von zuhause aus an der Projektseite arbeiten.
  
  
  <details>
@@ -246,7 +277,7 @@ Rosalie ist weiterhin krank, kann aber von zuhause aus an der Projektseite arbei
   
   </h1> 
   
- In dieser Stunde haben wir ohne Aufsicht gearbeitet. Alicia und Rosalie haben sich mit dem Code beschäftigt. Relativ zum Ende der Stunde ist eine Fehlermeldung aufgetreten. Der fehlerhafte Befel soll dafür sorgen, dass der Servo zufällige Positionen, in festgelegten Grenzbereichen, ansteuert.
+ In dieser Stunde haben wir ohne Aufsicht gearbeitet. Alicia hat sich wieder mit dem Code beschäftigt. Relativ zum Ende der Stunde ist eine Fehlermeldung aufgetreten. Der fehlerhafte Befel soll dafür sorgen, dass der Servo zufällige Positionen, in festgelegten Grenzbereichen, ansteuert.
   
 
   
@@ -256,15 +287,16 @@ Rosalie ist weiterhin krank, kann aber von zuhause aus an der Projektseite arbei
   </h1> 
 
 
-Alicia beschäftigt sich mit dem Code. Die Fehlermerldung der letzten Stunde konnte gelöst werden. Eine benötigte Bibliothek war nicht installiert. Da diese allerdings auch nicht mehr verfügbar ist, musste der Befehl umgeschrieben werden.
-Rosalie setzt sich mit dem GitHub Blog außeinander. Der Fokus liegt hier an einer sinnvollen Struktur mit wichtigen Unterthemen. 
+Alicia beschäftigt sich weiterhin mit dem Code. Die Fehlermerldung der letzten Stunde konnte gelöst werden. Eine benötigte Bibliothek war nicht installiert. Da diese allerdings auch nicht mehr verfügbar ist, musste der Befehl umgeschrieben werden.
+Rosalie setzt sich mit dem GitHub Blog außeinander und wie wir im generellen unsere Projektseite gestallten wollen.
 Wir befinden uns nun im Endspurt unseres Projektes und haben noch zwei Wochen, um dieses zu vollenden.
 
 <h1>
   <bold>14. Stunde (21.11.2022)</bold> 
   
   </h1> 
-  In dieser Stunde wurde zunächst in Einzelarbeit gearbeitet. Rosalie hat mit Holzstäben das Buch stabilisiert, da das Buch durch das Gewicht im letzten Monat eine Vertiefung gebildet hat. Danach hat Sie etwas an der Github-Projektseite geschrieben. Währenddessen hat Alicia versucht herauszufinden, weshalb der Schädel keine Tondateien abspielt. Nach einiger Zeit hat Rosalie bei der Fehlersuche geholfen. Zu Stundenende wurde das Problem gefunden, welches nur durch beschädigte Tondateien entstanden ist.
+  Buch stabilisiert, etwas github geschrieben. Fehler vom Ton gesucht, feher waren fehlende Tondateien
+  
   
   
   <h1>
@@ -272,7 +304,8 @@ Wir befinden uns nun im Endspurt unseres Projektes und haben noch zwei Wochen, u
   
   </h1> 
   
-  Da krankheitsbedingt nur Rosalie anwesend war, hat sie alleine am Text für die Projektseite gearbeitet.
   
+  <h1>
+  <bold>16. Stunde (01.12.2022)</bold> 
   
-  
+  </h1> 
