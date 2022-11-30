@@ -37,21 +37,65 @@ Persönlichkeit des Schädels:<br>
 
 Das Halloweenhaus Schmalenbeck:<br>
   Das junge Team des Halloweenhaus Schmalenbeck lässt Dekorationen, Musik, Lichtdesign, Informatik, Schauspiel, Robotik, Film und viele weitere Fähigkeiten zusammentreffen, um jährlich an Halloween eine etwa 5-minütige, interaktive Show zu gestalten.Der Fokus der Show ist ein familienfreundlicher Wow-Effekt, welcher unteranderem durch selbstkomponierte Musik, eigens erbauten Animatronics, aufwendigen Lichtinstallationen, Projektionen und Soundsystemen, Kurzfilmen und einem kostenlosen Eintritt erreicht wird.Seit 2012 wachsen Team und Besucherzahlen stetig, sodass an Halloween über 500 Menschen das sonst unscheinbare Haus im Dorf besuchen. 
-2022 gelang dem Haus der Durchbruch im deutschen Fernsehen. Mit einem 
-Fernsehbeitrag von SAT.1, ständig wiederholten Radiointerviews bei NDR2, dem 
-Hamburger Abendblatt, der SHZ, unzähligen Websites, mehreren Beiträgen im 
-NDR und darunter sogar einer Liveschalte wurde das Haus auch über den 
-norddeutschen Grenzen bekannt.
-Gamification:
-Gamification, also Spielifikation, beschreibt die Übertragung spieltypischer 
-Elemente in spielfremde Zusammenhänge. Das Ziel ist eine 
-Motivationssteigerung des Nutzers. Genau das Ziel hat auch der Spendenschädel, 
-da er die Spendemotivation erhöhen soll. Die Aufgabe des Besuchers ist das 
-Spenden. Die Belohnung ist eine Reaktion, welche durch das ständige Reden und 
-andere Besucher bekannt ist. Die Gäste haben gesehen, dass immer was Neues 
-kommt und wollen wissen, was noch alles passieren kann. Diese Ungewissheit 
-bildet die Grundlage der verwendeten Gamification.
-<h1>
+2022 gelang dem Haus der Durchbruch im deutschen Fernsehen. Mit einem Fernsehbeitrag von SAT.1, ständig wiederholten Radiointerviews bei NDR2, dem Hamburger Abendblatt, der SHZ, unzähligen Websites, mehreren Beiträgen im NDR und darunter sogar einer Liveschalte wurde das Haus auch über den norddeutschen Grenzen bekannt.
+
+Gamification:<br>
+  Gamification, also Spielifikation, beschreibt die Übertragung spieltypischer Elemente in spielfremde Zusammenhänge. Das Ziel ist eine Motivationssteigerung des Nutzers. Genau das Ziel hat auch der Spendenschädel, da er die Spendemotivation erhöhen soll. Die Aufgabe des Besuchers ist das Spenden. Die Belohnung ist eine Reaktion, welche durch das ständige Reden und andere Besucher bekannt ist. Die Gäste haben gesehen, dass immer was Neues kommt und wollen wissen, was noch alles passieren kann. Diese Ungewissheit bildet die Grundlage der verwendeten Gamification.
+
+  <h2 id="Wahl der Hardware">Wahl der Hardware</h2>
+  
+Arduino UNO - der Arduino ist das Herzstück des Spendenschädels und bietet alle für das Projekt benötigten Anwendungsmöglichkeiten. Das Mikrocontroller-Board steuert die restliche technische Hardware und wurde wegen der anfängerfreundlichen Oberfläche und der Verfügbarkeit in der Schule ausgewählt.
+  
+Servomotoren - Die drei verbauten Servomotoren bewegen beide Augen und den Kiefer. Diese Motoren sind können präzise gesteuert werden, das bedeutet, dass wir je nach Bedarf den Winkel, die Beschleunigung oder die Drehgeschwindigkeit verändern können. Diese grundlegenden Eigenschaften sind für unseren Anwendungszweck elementar. Da bereits vor dem Projekt die Kurzform „Servo“ war und die in der Schule vorrätig sind, wurden die Motoren nach einer kurzen Recherche ausgewählt.
+  
+LEDs - LEDs sind allseitsbekannte, lichtausstrahlende Bauelemente und beleuchten den Spendenschädel. Zwei gelbe LEDs in den Augen beleben Karl-Leopold, während eine rote und eine blaue im Schädelinnenraum eine einladend-violette Stimmung erzeugen. Eine weitere, weiße LED stellt sicher, dass der Fotowiderstand genug Lichtdifferenz erfährt. 
+Die LEDs sind preisgünstig, klein und unkompliziert zu verbauen, weshalb auch diese ohne zu zögern ausgewählt wurden.
+  
+Fotowiderstand - Die zwei Fotowiderstände am Geldschlitz des Schädels haben die Eigenschaft, ihre Widerstandsfähigkeit anhand des Lichteinfalles zu verändern. Mit der Information, dass der Lichteinfall sich deutlich verringert, kann so ein Einwurf erkannt werden und der Schädel bedankt sich. Mit diesem Kerngedanken wird sich bei einer kurzen Recherche für den Fotowiderstand entschieden. Bei einem Test fällt auf, dass zwei Widerstände zusammen genauere Werte erbringen, weshalb zwei im Schädel zu finden sind. Glücklicherweise hat ein Teammitglied des Halloweenhaus Schmalenbeck noch 
+einige übrig, sodass diese nicht neu gekauft werden müssen.
+  
+DFPlayer Mini mit Micro SD - Der DFPlayer Mini ist ein MP3-Modul, welcher für den Arduino UNO oder andere Boards mit RX/TX entwickelt wurde. Er ist klein, kompakt und für wenige Euro zu erwerben. Nach einer simplen Montage kann der Ton, welcher einfach in den von uns benutzten Formaten MP3 oder WAV auf einer Micro SD gespeichert wird, abgespielt werden.Durch den günstigen Preis, der Popularität und der Kompatibilität mit dem Arduino UNO kaufen wir diesen für unser Projekt. 
+  
+AuxPort - The Show must go on. Der AuxPort ist eine Sicherheitsmaßnahme für den Fall, dass der Lautsprecher versagen sollte oder wir den Ton verstärken wollen. Allerdings wird dieser im Regelfall nicht benutzt, weshalb er auch keine weitere Bedeutung im Verlauf unserer Arbeit bekommt. Aux ist der Standard für den Anwendungszweck und bereits bei uns vorhanden, dementsprechend ist auch hier keine lange Bedenkzeit nötig.
+  
+Lautsprecher - Dieser wandelt die elektrischen Signale des DFPlayers in Schall um. Dessen Verwendung ist bei dem Projekt damit unumgänglich. Das Lautsprechermodell kann beliebig sein. Der von uns genutzte wurde aus einem gebrauchten Objekt ausgebaut und neu von uns eingebaut. Die Vorteile des Modells sind die kleine Größe und der Fakt, dass er ohne das Projekt weggeworfen werden würde. Damit fallen keine Kosten an und es wird kein neuer Elektroschrott produziert.
+  
+Netzgerät - Dieses versorgt den Schädel mit Strom. Durch die konstante Verbindung zu einer Steckdose muss sich niemand Sorgen über einen leerwerdenden Akku machen. Das Gewicht schützt den Kopf vor Diebstahl. Mit wenig Arbeit kann der Schädel vom darüberliegenden Buch abgelöst werden, sodass das Netzteil einfach abgebaut werden kann. Dieses musste das Team ebenfalls nicht neu erwerben.
+  
+Widerstände - Die sieben verbauten Widerstände begrenzen die Strommenge und garantieren, dass die verbundenen Bauelemente funktionieren und nicht durchbrennen. Sie sind Teil eines jeden Arduinoprojektes und natürlich auch in der Schule vorhanden.
+  
+Kabel mit und ohne Steckverbindungen - Um alle Bauelemente miteinander zu Verbinden werden verschiedenste Kabel verwendet. Diese sind großenteils von Elektroschrott, um auch hier unseren ökologischen Fußabdruck gering zu halten. Ein paar der neuen Kabel haben Steckverbindungen, damit angeschlossene Objekte mobil bleiben. Um zu gewährleisten, dass diese Mobilität trotz mehrfacher Verbindungen in einen Arduino Pin möglich bleibt, sind Mehrfachstecker verbaut.
+  
+Schädel - Das sichtbare Gehäuse des Schädels ist mit Amazon 3D gedruckt. Ein Objekt mit unseren speziellen Wünschen kann natürlich nicht einfach im Internet bestellt werden, weshalb sich der Druck anbietet. Da Rosalie selbst einen Ender-3 Max besitzt, konnte das Projekt zügig angegangen werden. Der genaue Prozess wird in Multimediaproduktion erläutert.
+  
+Falsches Buch - Um den Bewegungsfreiraum des Kiefers zu gewährleisten, muss der Schädel auf einem Objekt stehen. Hier kommt eine russische Pralinenverpackung zum Einsatz, welche schon seit Jahren für so einen Gebrauch gelagert wird.
+  
+Gewichte - Im Buch liegen Gewichte einer analogen Waage, um Stabilität zu Gewährleisten. Ein positiver Nebeneffekt ist auch hier die Diebstahlprävention.
+  
+Magnetschnäpper - Die Schädeldecke ist vom Hauptschädel trennbar und liegt im geschlossenen Zustand nur mit den dünnen Rändern auf. Der Magnetschnäpper hält alles am Platz und ist ebenfalls zur Prävention von Diebstahl da.
+  
+Druckfehler für Magnetschnäpper - Ein Plastikteil eines vorherigen, fehlerhaften Druckprojektes dient als Unterlage für den Magnetschnäpper, welcher sich im 
+Fundus eines jeden Heimwerkers befindet.
+  
+Steine für Augen - Damit die Augen nicht sofort als LEDs identifiziert werden können, haben wir Plastiksteine aus eigener Bastelsammlung darauf geklebt.
+  
+Holzspieße - Sie bringen Stabilität in Augen und Buch und in jedem Haushalt zu finden.
+  
+Schwarzes Ducktape - Neben der Befestigung von Kabelverbindungen und Hardware dient dieses auch als Hülle für das Netzteil.
+  
+Teserfilm - Genau wie das Ducktape dichtet es wenige Kabelverbindungen ab, ist aber schlechter für diesen Anwendungszweck geeignet. 
+  
+Malertape - Für den Fall, dass ein Objekt kaputt geht, soll es schnell und einfach ausgebaut werden können. Arduino und DFPlayer haben deshalb einen Rahmen aus Heißklebe, mit welchem sie am Platz gehalten werden. Das Malertape schützt die Technikgeräte vor der Klebe. Zusätzlich wurde es zur Erkennbarkeit der mit dem Netzteil verbundenen Kabel genutzt.
+  
+Heisskleber - Der beste Freund eines jeden Bastlers ist nicht leitfähig, ist einfach verform und korrigierbar, trocknet zügig und hat ein hohes Volumen. Fast alles wurde so verklebt, Kabelverbindungen damit gedichtet und auch der Rahmen für Arduino und DFPlayer wurde damit geschaffen.
+  
+Draht - Mit seiner guten Stabilität und schönen Flexibilität hält er den Lautsprecher am Platz.
+  
+Faden - Der verbaute Faden strukturiert die vielen Kabel im Kopf.
+  
+Papier - Papier hat keinen weiteren Sinn für den Schädel, doch wird zur Vollständigkeit mit aufgeführt. Es wurde zum Kommentieren von Verbindungen im Schädel gebraucht.
+  
+  <h1>
   <bold>1. Stunde (22.08.2022)</bold>
   
   </h1>
