@@ -400,7 +400,7 @@ Wir befinden uns nun im Endspurt unseres Projektes und haben noch zwei Wochen, u
   
   <h2 id="Code">Code</h2>
   
-  <h2 id="Bau- undmSchaltplan">Bau- und Schaltplan</h2>
+  <h2 id="Bau- und Schaltplan">Bau- und Schaltplan</h2>
   
 Der Bau des Schädels beginnt Anfang Oktober und wird am 29.10.22 abgeschlossen (Ausnahme Stabilisierung Buch). In diesem Monat wird kontinuierlich, kleinschrittig und fast ausschließlich außerhalb der Unterrichtszeit gearbeitet. Damit ist er kein Teil des Stundenprotokolls und nicht täglich dokumentiert. Der Fortschritt kann mit kleinen Einblicken auf dem Instagramkanal des Halloweenhaus Schmalenbeck verfolgt werden.
   
@@ -451,8 +451,8 @@ Die 32 Sprüche bestehen mit 21 aufgenommenen Tonspuren größtenteils aus zufä
 - Werde ich ein Skelett, wenn ich groß bin? 
  <p>
    
-    </p>  
-- Vielen Dank holde Maid! Es ist mir eine Ehre, euch kennenzulernen.
+    
+    </p>- Vielen Dank holde Maid! Es ist mir eine Ehre, euch kennenzulernen.
 - Oha, großer Ehrenmensch!
 - Möge der große, nicht der kleine Otto. Ach was, beide mit dir sein.
 - Uff, das tat weh. Obwohl ich gar keine Nerven mehr habe. Aber das ist wohl die uninterpretierbare Paradoxie meiner synthetischen Existenz.
@@ -465,3 +465,57 @@ Die 32 Sprüche bestehen mit 21 aufgenommenen Tonspuren größtenteils aus zufä
 - Danke Anke, Schankedön!
 
     </details>
+  
+  <h1><bold>Evaluation</bold></h1>
+  
+  <h2 id="Besucherreaktionen an Halloween">Besucherreaktionen an Halloween</h2>
+  
+Zur Freunde des Teams hat der Schädel großes Erstaunen sowie Begeisterung im Publikum ausgelöst. Die Menschen standen mit Faszination vor dem Projekt und haben mit Freunde gespendet. Sichtbar ist das auch an der Spendensumme pro Besucher, welche sich zum Vorjahr um 148% steigern konnte. Damit konnte das Projekt des neuen Spendenschädels den Spendenrekord des Halloweenhaus Schmalenbeck brechen. Wie geplant konnte der lebendig wirkende und gut sichtbare Schädel die Besucher zum Spenden animieren. Durch das helle, leuchtende Design schafft er seine eigene Ästhetik und wirkt hochwertig verarbeitet.
+Glücklicherweise wurden keine Hinweise auf einen versuchten Diebstahl gefunden, ein Hinweis auf eine geglückte Diebstahlsicherung.
+Trotz Hochskalierung der Größe musste der Kopf an Halloween geleert werden, weshalb in Zukunft ein Loch zwischen Schädelboden und Buch entstehen soll.
+  
+  <h2 id="Technische Evaluation">Technische Evaluation</h2>
+  
+Aus technischer Sicht ist das Team zufrieden mit dem Ergebnis, da das Projekt zuverlässig und nach Wunsch funktioniert. 
+
+Das erste technisch zu behebende Problem ist die ungenaue Bewegung des Kiefers. Der Effekt lässt sich mit auf die Tondateien angepasste Anweisungen beheben.
+  
+Die Idee, einen Lautsprecher einzubauen, kann auch als erfolgreich betrachtet werden. Jedoch ist die Tonqualität sehr schlecht, weshalb die Idee nach einem neuen Lautsprecher an einer vielleicht anderen Position besteht.
+  
+Ein wiederkehrendes Problem ist der Geldstau, welcher durch einen zu kleinen Winkel in der Geldrutsche verursacht wird. Das Problem konnte mithilfe eines Dremel schon deutlich verbessert werden.
+  
+Mit der beim Bau gesammelten Erfahrung wissen wir, wie wir den Innenraum noch effizienter hätten gestalten können. Der Kabelsalat im Kopf hätte mit anderem Kabelmanagement Platzsparender sein können. Auch die Verbindung zwischen Kopf und Schädeldecke hatte einfacher gestaltet werden können.
+  
+  <h2 id="Persönliches Wachstum">Persönliches Wachstum</h2>
+  
+Als Ersteller können wir, Alicia und Rosalie, den Spendenschädel als persönlichen Erfolg und ersten Weg in die Informatik sehen. Das Realisieren des ganzen Projektes hat unglaublich viel Spaß gemacht und uns gezeigt, wie einfach das eigentlich geht.
+Das Projekt war eine Art Spielwiese, auf der wir viel gelernt und ausprobiert haben, weshalb wir von unseren Erkenntnissen in Zukunft profitieren. Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht einbringen zu können.
+  
+  <h1><bold>Quellen und Eigenständigkeitserklärung</bold></h1>
+  
+  <h3 id="code">Code</h3>
+  
+  <h3 id="Hardware">Hardware</h3>
+  
+  <h3 id="schaltplan">Schaltplan</h3>
+  
+  <h3 id="GitHub">GitHub</h3>
+  - Inspiration zum Aufbau der Projektseite.
+  
+  <h3 id="Gamification"></h3>
+  
+  <h3 id="wahl der hardware">Wahl der Hardware</h3>
+  
+  <h3 id="wahl der software">Wahl der Software</h3>
+  
+  <h3 id="Persönlichkeit">Persönlichkeit</h3>
+  
+  <h3 id="HWHS">HWHS</h3>
+  
+  <h3 id="multimedia">Multimediaproduktion</h3>
+  
+  <h3 id="Eigenständigkeitserklärung">Eigenständigkeitserklärung</h3>
+ 
+  <h2>Eigenständigkeitserklärung</h2>
+  
+Hiermit bestätigen wir, Alicia Gärtner & Rosalie Muchow, dass wir die vorliegende Arbeit selbstständig verfasst und keine anderen als die angegebenen Hilfsmittel benutzt haben. Die Stellen der Arbeit, die dem Wortlaut oder dem Sinn nach anderen Werken (dazu zählen auch Internetquellen) entnommen sind, wurden unter Angabe der Quelle kenntlich gemacht.
