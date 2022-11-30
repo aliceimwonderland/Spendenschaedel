@@ -3,20 +3,20 @@
  
 </h1>
   
-  1.  Das Projekt
-    I   <a href="#Ideenfindung">Ideenfindung</a>
-    II  <a href="#Konzeption">Konzeption</a>
-    III <a href="#Wahl der Hardware">Wahl der Hardware</a>
-    IV  <a href="#Wahl der Software">Wahl der Software</a>
+  1.  Das Projekt <br>
+    I   <a href="#Ideenfindung">Ideenfindung</a><br>
+    II  <a href="#Konzeption">Konzeption</a><br>
+    III <a href="#Wahl der Hardware">Wahl der Hardware</a><br>
+    IV  <a href="#Wahl der Software">Wahl der Software</a><br>
  2. Entwicklung
-    I   <a href="#Stundenprotokoll">Stundenprotokoll</a>
-    II  <a href="#Code">Code</a>
-    III <a href="#Bau- und Schaltplan">Bau- und Schaltplan</a>
-    IV  <a href="#Multimediaproduktion">Multimediaproduktion</a>
+    I   <a href="#Stundenprotokoll">Stundenprotokoll</a><br>
+    II  <a href="#Code">Code</a><br>
+    III <a href="#Bau- und Schaltplan">Bau- und Schaltplan</a><br>
+    IV  <a href="#Multimediaproduktion">Multimediaproduktion</a><br>
  3. Evaluation
-    I   <a href="#Besucherreaktionen an Halloween">Besucherreaktionen an Halloween</a>
-    II  <a href="#Technische Evaluation">Technische Evaluation</a> 
-    III <a href="#Persönliches Wachstum">Persönliches Wachstum</a>
+    I   <a href="#Besucherreaktionen an Halloween">Besucherreaktionen an Halloween</a><br>
+    II  <a href="#Technische Evaluation">Technische Evaluation</a><br>
+    III <a href="#Persönliches Wachstum">Persönliches Wachstum</a><br>
  4. Quellen und Eigenständigkeitserklärung
   
 <h1> 
