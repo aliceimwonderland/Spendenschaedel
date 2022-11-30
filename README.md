@@ -400,4 +400,70 @@ Wir befinden uns nun im Endspurt unseres Projektes und haben noch zwei Wochen, u
   
   <h2 id="Code">Code</h2>
   
-  <h2 id="Schaltplan">Schaltplan</h2>
+  <h2 id="Bau- undmSchaltplan">Bau- und Schaltplan</h2>
+  
+Der Bau des Schädels beginnt Anfang Oktober und wird am 29.10.22 abgeschlossen (Ausnahme Stabilisierung Buch). In diesem Monat wird kontinuierlich, kleinschrittig und fast ausschließlich außerhalb der Unterrichtszeit gearbeitet. Damit ist er kein Teil des Stundenprotokolls und nicht täglich dokumentiert. Der Fortschritt kann mit kleinen Einblicken auf dem Instagramkanal des Halloweenhaus Schmalenbeck verfolgt werden.
+  
+Der Schaltplan zeigt neben den Verbindungen der einzelnen Elemente auch die 
+Kabelfarben und die ungefähre Lage der Objekte im Schädel.
+Zur besseren Orientierung beim Programmieren und einfachen Kontrolle der 
+korrekten Pinbelegung entsteht folgende Tabelle:
+  
+  <h2 id="Multimediaproduktion">Multimediaproduktion</h2>
+  
+Ohne sein einzigartiges Auftreten wäre der Spendenschädel nichts. Um diesen Punkt zu erreichen, werden Fähigkeiten und Schritte außerhalb der Informatik gefordert.
+  
+Ohne die Hülle wäre Karl-Leopold niemals als Schädel zu erkennen. Ein Objekt mit unseren Anforderungen ist selbstverständlich nicht käuflich, darum wird der Kopf mit Rosalies Ender-3 max 3D-Drucker und weißem Amazon Basic Filament 3D gedruckt.
+Das 3D-Modell für wird von Freund und Teammitglied Steffen Kahl gestaltet. Mit dem Konzept und einer passenden Skizze wird aus einer kostenfreien Datei 
+(https://www.thingiverse.com/thing:518109) ein optimal passendes Endprodukt geschaffen.
+Bei einem gemeinsamen Treffen wird ein Design für die Schädelbemalung entworfen und umgesetzt. Auf dem mit weißer Holzpaste grundierten Schädel können Formen mit Bleistift skizziert oder auf Papier ausgedruckt und aufgeklebt werden. Bei einem letzten Schritt, dem Auftragen von Acryl und Wandfarbe, wird Karl-Leopolds Hang zur Kunst visualisiert. Das komplementäre Farbschema harmoniert gewollt nicht mit dem Buch, um einen gruseligen Bruch im Schema zu erzeugen.
+Die Farbe Violett symbolisiert Kreativität und das mystische, beides Kerneigenschaften des Künstlers. Gold hingegen bildet einen Widerspruch, denn er ist nicht wohlhabend. Doch genau diesen Punkt möchte er mit der Spende ändern. Die Perfekt Harmonie von Gleichheit und Gegensatz wird aktiv von seinem Verhalten zerstört. Dadurch kann alleine durch die Farbgebung seine teils böse und sarkastische Art und das Halloweenthema verkörpert werden. Aber natürlich auch seine harmonische, liebevolle Seite.
+Auf seiner Stirn prangt eine Interpretation der Lotusblume, das mythische Gewächs für Transformation. Karl-Leopold transformierte sich vom Lebenden zum Schädel ohne logische Erklärung. Diese Flüchtigkeit wird zusätzlich mit den Symbolen vom Element Luft an Schläfen und Kiefer gezeigt.
+Die Dabei ausgewählten Zeichen sind von der Live Action Adaptation des Romans „Grandmaster of Demonic Cultivation“ inspiriert. Für Kenner ein erster Hinweis darauf, dass eine Divergenz besteht. Die Symbole sind die Motive der Hauptclans des Protagonisten, welcher von seinem Adoptivbruder (Neunblättriger Lotus) 
+verstoßen und von einem guten Freund (Fließende Wolken) neu aufgenommen wird.
+  
+Um diese leblose Hülle zum Sprechen zu bringen, werden insgesamt 32 Sprüche geschrieben und im MuchowMedia Tonstudio aufgenommen. Sprecher ist Freund 
+und Langzeitmitglied Bennet Martins, welcher so die Aufnahme eines männlichen Sprechers ermöglichte.
+Die 32 Sprüche bestehen mit 21 aufgenommenen Tonspuren größtenteils aus zufälligen Sprüchen. Bedanken kann sich der Schädel mit den restlichen 11.
+
+  <details><summary>Sprüche</summary></details>
+  
+Nur mit deiner Spende können die Künstler weitermachen.
+Halli Hallo! Ich bin Karl-Leopold, auch Spendenschädel genannt.
+Ein kleiner Groschen oder ihr werdet verdroschen. Hehe.
+Ein kleiner Groschen für eine Brilliantbrosche. Scherz. Wisst ihr, wie teuer Lampen 
+geworden sind?
+Ich verfluche euch zum Geldspenden.
+Ich bin ja Jahrgang 1813, und ihr wisst doch sicherlich, was 1813 noch so alles 
+passiert ist, oder? Richtig, da gab es die Befreiungskriege. Und ich fordere euch 
+nun dazu auf, das Geld aus eurem Portemonnaie zu befreien.
+Hilfe, ich bin tot und brauche das Geld…
+Diesen Aufwand könnte ich im Leben nicht bezahlen! Gut, dass ich tot bin.
+Kohle Kohle Kohle, Kohle Kohle Kohle, Kohle Kohle Kohle, Scha-Bidu!
+Sag mal Bennet, ist das richtig, dass hier niemand Eintritt bezahlt? Ach ja! Ist ja auf 
+Spendenbasis!
+Als ich klein war war glaubte ich, Geld sei das wichtigste im Leben. Heute, da ich 
+alt bin weiß ich, es stimmt.
+Es gibt Leute, die Laufen dem Geld nach. Ich bin hier und das Geld kommt zu mir.
+Meine Sprüche sind die Kunst auf den Kopf zu zielen und die Brieftasche zu treffen.
+Mögen euch die Ärmel beim Händewaschen runterrutschen, wenn ihr kein Geld 
+einwerft.
+Verwechsle die Höhe deiner Gage niemand mit der große deines Talents.
+Lasst Applaus in Form von Geld da.
+Herrlich erfrischend, so eine kühle Münze!
+Das einzige was mir nicht passieren kann, ist den Kopf zu verlieren.
+Ich bin die schönste Blume hier!
+Spendenschädel meldet sich zum Dienst.
+Werde ich ein Skelett, wenn ich groß bin?
+Vielen Dank holde Maid! Es ist mir eine Ehre, euch kennenzulernen.
+Oha, großer Ehrenmensch!
+Möge der große, nicht der kleine Otto. Ach was, beide mit dir sein.
+Uff, das tat weh. Obwohl ich gar keine Nerven mehr habe. Aber das ist wohl die 
+uninterpretierbare Paradoxie meiner synthetischen Existenz.
+Mögen meine Augen euch Erleuchtung bringen!
+Danke sehr, auch das man auch nach deinem Tode gut über dich sprechen mag.
+Ich bin von deiner Begeisterung be-geist-ert. Vielen Dank!
+Vielen Dank für die Spende, ich freue mich zu Tode.
+Ich bin vom Unterkiefer bis zum Gehörknöchelchen Entzückt!
+Ich würde vor Freunde fast in die Luft springen, wenn ich denn nur könnte. Danke!
+Danke Anke, Schankedön!
