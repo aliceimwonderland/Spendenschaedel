@@ -13,11 +13,11 @@
     II  <a href="#Code">Code</a><br>
     III <a href="#Bau- und Schaltplan">Bau- und Schaltplan</a><br>
     IV  <a href="#Multimediaproduktion">Multimediaproduktion</a><br>
- 3. Evaluation
+ 3. Evaluation<br>
     I   <a href="#Besucherreaktionen an Halloween">Besucherreaktionen an Halloween</a><br>
     II  <a href="#Technische Evaluation">Technische Evaluation</a><br>
     III <a href="#Persönliches Wachstum">Persönliches Wachstum</a><br>
- 4. Quellen und Eigenständigkeitserklärung
+ 4. <a href="#quellen">Quellen und Eigenständigkeitserklärung</a>
   
 <h1> 
 <bold>Das Projekt</bold>
@@ -491,32 +491,54 @@ Mit der beim Bau gesammelten Erfahrung wissen wir, wie wir den Innenraum noch ef
 Als Ersteller können wir, Alicia und Rosalie, den Spendenschädel als persönlichen Erfolg und ersten Weg in die Informatik sehen. Das Realisieren des ganzen Projektes hat unglaublich viel Spaß gemacht und uns gezeigt, wie einfach das eigentlich geht.
 Das Projekt war eine Art Spielwiese, auf der wir viel gelernt und ausprobiert haben, weshalb wir von unseren Erkenntnissen in Zukunft profitieren. Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht einbringen zu können.
   
-  <h1><bold>Quellen und Eigenständigkeitserklärung</bold></h1>
+  <h1 id="quellen"><bold>Quellen und Eigenständigkeitserklärung</bold></h1>
   
-  <h3 id="code">Code</h3>
+  <h2>Code</h2>
   
-  <h3 id="Hardware">Hardware</h3>
+  <h2>Hardware</h2>
   
-  <h3 id="schaltplan">Schaltplan</h3>
+  <h3Schaltplan</h3>
+  - https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_UNO_A06.png
+  - https://www.makerelectronico.com/wp-content/uploads/2017/06/DFplayer-minireproductor-mp3-3-1.jpg 
+ 
+  <h3>GitHub</h3>
+  - Inspiration zum Aufbau der Projektseite
   
-  <h3 id="GitHub">GitHub</h3>
-  - Inspiration zum Aufbau der Projektseite.
+  <h3>Gamification</h3>
+  - https://wirtschaftslexikon.gabler.de/definition/gamification-53874
+  - https://de.wikipedia.org/w/index.php?title=Gamification&oldid=227708425
   
-  <h3 id="Gamification"></h3>
+  <h3>Wahl der Hardware</h3>
+  - https://store.arduino.cc/products/arduino-uno-rev3/
+  - https://de.wikipedia.org/wiki/Servomotor
+  - https://de.wikipedia.org/wiki/Leuchtdiode
+  - https://de.wikipedia.org/wiki/Fotowiderstand
+  - https://www.mymakerstuff.de/2016/04/06/arduino-tutorial-der-lichtsensor/
+  - https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/
+  - https://www.dfrobot.com/product-1121.html
+  - https://de.wikipedia.org/wiki/Lautsprecher
+  - https://de.wikipedia.org/wiki/Logic_Pro
   
-  <h3 id="wahl der hardware">Wahl der Hardware</h3>
+  <h2>Software</h2>
+  - https://docs.arduino.cc/learn/starting-guide/the-arduino-software-ide
+  - https://kinsta.com/de/wissensdatenbank/was-ist-github/
   
-  <h3 id="wahl der software">Wahl der Software</h3>
+  <h2>Persönlichkeit</h2>
+  - https://pixars-coco.fandom.com/wiki/H%C3%A9ctor_Rivera
+  - https://www.viversum.de/online-magazin/lotusblume-bedeutung
   
-  <h3 id="Persönlichkeit">Persönlichkeit</h3>
+  <h2>HWHS</h2>
+  - https://www.halloweenhaus-schmalenbeck.de/
   
-  <h3 id="HWHS">HWHS</h3>
-  
-  <h3 id="multimedia">Multimediaproduktion</h3>
-  
-  <h3 id="Eigenständigkeitserklärung">Eigenständigkeitserklärung</h3>
+  <h2>Multimediaproduktion</h2>
+  - https://ais.badische-zeitung.de/piece/0a/5f/36/1e/174011934-h-720.jpg
+  - https://modao-zushi.fandom.com/wiki/Yunmeng_Jiang_Clan
+  - https://modao-zushi.fandom.com/wiki/Gusu_Lan_Clan
  
   <h2>Eigenständigkeitserklärung</h2>
+  - https://www.ats.uni-muenchen.de/studium_lehre/material/eigenstaendigkeit/erklaerung_pdf.pdf
+  
+Alle Quellen wurden erfolgreich am 01.Dezember 2022 um 1938 Uhr abgerufen.
   
 Hiermit bestätigen wir, Alicia Gärtner & Rosalie Muchow, dass wir die vorliegende Arbeit selbstständig verfasst und keine anderen als die angegebenen Hilfsmittel benutzt haben. Die Stellen der Arbeit, die dem Wortlaut oder dem Sinn nach anderen Werken (dazu zählen auch Internetquellen) entnommen sind, wurden unter Angabe der Quelle kenntlich gemacht.
 
