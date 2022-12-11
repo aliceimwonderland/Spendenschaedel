@@ -1,5 +1,5 @@
 <h1>
-  <bold>Navigation</bold>
+  <bold><a href="#oben">Navigation</a></bold>
  
 </h1>
   
@@ -519,3 +519,5 @@ Das Projekt war eine Art Spielwiese, auf der wir viel gelernt und ausprobiert ha
   <h2>Eigenständigkeitserklärung</h2>
   
 Hiermit bestätigen wir, Alicia Gärtner & Rosalie Muchow, dass wir die vorliegende Arbeit selbstständig verfasst und keine anderen als die angegebenen Hilfsmittel benutzt haben. Die Stellen der Arbeit, die dem Wortlaut oder dem Sinn nach anderen Werken (dazu zählen auch Internetquellen) entnommen sind, wurden unter Angabe der Quelle kenntlich gemacht.
+
+<h3 id="oben">Zurück zur Navigation</h3>
