@@ -1,7 +1,4 @@
-<h1>
-  <bold><id="oben">Navigation</bold>
- 
-</h1>
+<h1 id="oben"<bold>Navigation</bold></h1>
   
   1.  Das Projekt <br>
     I   <a href="#Ideenfindung">Ideenfindung</a><br>
