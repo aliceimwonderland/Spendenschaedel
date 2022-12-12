@@ -1,5 +1,5 @@
 <h1>
-  <bold><a href="#oben">Navigation</a></bold>
+  <bold><id="oben">Navigation</bold>
  
 </h1>
   
@@ -542,4 +542,4 @@ Alle Quellen wurden erfolgreich am 01.Dezember 2022 um 1938 Uhr abgerufen.
   
 Hiermit bestätigen wir, Alicia Gärtner & Rosalie Muchow, dass wir die vorliegende Arbeit selbstständig verfasst und keine anderen als die angegebenen Hilfsmittel benutzt haben. Die Stellen der Arbeit, die dem Wortlaut oder dem Sinn nach anderen Werken (dazu zählen auch Internetquellen) entnommen sind, wurden unter Angabe der Quelle kenntlich gemacht.
 
-<h3 id="oben">Zurück zur Navigation</h3>
+<h3 a href"#oben">Zurück zur Navigation</a></h3>
