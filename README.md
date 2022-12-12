@@ -237,9 +237,6 @@ Heute haben wir uns n채her mit dem Charakter und dem Hintergrund des Spendensch�
 Karl Leopold wurde 1813 geboren und war sein lebenlang ein armer, deutscher K체nstler. Da er kaum Geld hatte nutzte er sein Gesicht als Leinwand. Sein Leben endete tragischerweise bei der Aus체bung seiner Leidenschaft, da er sich giftige Farbe auf sein Gesicht schmierte.
 Ebenfalls haben wir die Spr체che festgelget, die der Spendensch채del sagen soll. In Klammern dahinter steht jeweils die Art, wie der Satz gesprochen werden soll.
 
-<details> 
-<summary>Allgemeine Spr체che</summary>
-
 
 </details>
 
