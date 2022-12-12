@@ -1,4 +1,4 @@
-# ***Der Spendenschädel***
+# Der Spendenschädel
 
 ![](IMG_0783.jpeg)
 
