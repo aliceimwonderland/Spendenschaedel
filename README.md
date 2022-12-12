@@ -22,9 +22,8 @@
   <h2 id="Ideenfindung">Ideenfindung</h2><br>
   
 Die Gestalter des Projektes, Alicia Gärtner und Rosalie Muchow, sind beide Teammitglieder des Halloweenhaus Schmalenbeck. In dem seit 10 Jahren stetig wachsenden, interdisziplinären & jungen Team bekommen beide einen vielfältigen Eindruck in den Themenbereichen Show- und Bühnendesign, Veranstaltungstechnik oder dem Bau von Audio Animatronics. Die Begeisterung für Audio Animatronics wurde neben dem Halloweenhaus auch bei gemeinsamen Freizeitparkbesuchen geformt. Besonders die unpräzisen 
-Bewegungen günstiger Animatronics gefällt dem Duo gar nicht. Schnell wurde den Freunden klar, dass dieses Projekt eine hervorragende Möglichkeit ist, das Halloweenhaus mit einer technischen Neuheit zu bereichern.<br>
-Bei einem kurzen Brainstorming Prozess erinnert sich das Team an den seit 2016 genutzten Spendenschädel, welchen Rosalie als unästhetisch und unauffällig empfindet. Zusätzlich ist dieser durch das Loch am Boden sehr unsicher gegen Diebstahl und für die steigenden Spendengelder zu klein.An diesem Punkt beschließt das Team, eine neue Version des Schädels zu bauen. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling, welche „Papier hier“ rufen und sich nach dem erfolgreichen Einwurf bedanken, wird ein Konzept entworfen, welches alle Probleme des alten Schädels eliminieren soll.<br>
-Link zur Inspiration: https://youtu.be/u1g2USFuu3Y
+Bewegungen günstiger Animatronics gefällt dem Duo gar nicht. Schnell wurde den Freunden klar, dass dieses Projekt eine hervorragende Möglichkeit ist, das Halloweenhaus mit einer technischen Neuheit zu bereichern. Bei einem kurzen Brainstorming Prozess erinnert sich das Team an den seit 2016 genutzten Spendenschädel, welchen Rosalie als unästhetisch und unauffällig empfindet. Zusätzlich ist dieser durch das Loch am Boden sehr unsicher gegen Diebstahl und für die steigenden Spendengelder zu klein.An diesem Punkt beschließt das Team, eine neue Version des Schädels zu bauen. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling, welche „Papier hier“ rufen und sich nach dem erfolgreichen Einwurf bedanken, wird ein Konzept entworfen, welches alle Probleme des alten Schädels eliminieren soll. Bild 
+vom alten Schädel, Link zu Papier hier von Efteling
 
   <h2 id="Konzeption">Konzeption</h2><br>
   
@@ -142,6 +141,7 @@ Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. 
 In den letzten Tagen habe wir festgestellt, dass wir mit dem Projekt nicht zufrieden sind. Jedoch sind wir uns einig, dass uns Physical Computing und damit die Arbeit mit einem Arduino interessiert. Wir haben uns zuhause mit den Möglichkeiten, Programmen und Hardware  auseinandergesetzt und im Unterricht besprochen. Dabei kam uns unsere Projektidee:
 
 Das Halloweenhaus Schmalenbeck (www.halloweenhaus-schmalenbeck.de) nutzt traditionell einen Spendenschädel (Spendendose in Schädelform). Der aktuelle Schädel weist eine vielzahl von Problemen auf. Das ist für uns die Gelegenheit, einen neuen zu Gestalten. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling haben wir das Konzept erarbeitet.
+Die Inspiration: https://youtu.be/u1g2USFuu3Y
   
 <details>
   <summary>Konzept</summary>
@@ -189,18 +189,6 @@ Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp
 Über das Wochenende haben wir einen Ordner auf Rosalies NAS erstellt, um dort sicher und einfach Daten zu sichern und teilen. Außerdem hat Rosalie mit der Beschaffung der Hardware angefangen und schon erster Elementare Bauteile gesammelt.
 Da Alicia in dieser Stunde leider fehlte, hat Rosalie alleine angefangen, einen Schaltplan zu erstellen. Der Sinn dabei ist, Fehlbauten zu verhindern und schonmal eine Vorstellung von benötigten Kabeln, Wiederständen usw zu bekommen. In der Stunde kamen netterweise schon erste Hinweise von Klassenkameraden, beispielsweise der benötigte Widerstand an den LEDs.
 
-<details>
-  <summary>Quellen</summary>
-  
- - https://www.youtube.com/watch?v=GnGv21v7h8s
- - https://blog.robberg.net/wp-content/uploads/2017/10/DFPlayer.jpg
- - https://wolles-elektronikkiste.de/wp-content/uploads/2019/07/UNO_2.jpg
- - https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink
- - https://www.youtube.com/watch?v=cYOft1rEBYw
- - https://de.wikipedia.org/wiki/Fotowiderstand
-  
-</details>
- 
  
  <h3>
   <bold>4. Stunde (05.09.2022)</bold> 
@@ -211,12 +199,6 @@ Da Alicia in dieser Stunde leider fehlte, hat Rosalie alleine angefangen, einen 
 
   
 Danach haben wir mit dem Programmieren unseres Codes angefangen, welcher eine LED zum leuchten bringen soll. Anschließend haben wir unsere LED mit dem Arduino und diesen wiederrum mit dem Computer verbunden. Dies hat dann auch funktioniert. Als wir es erneut probieren klappt es leider nicht mehr. Der Fehler lag bei den losen Kabeln, welche aus den Pins fallen keine Verbindung mehr herstellen können. Bisher konnten wir das Problem noch nicht lösen und wenden umn erstmal wieder dem Code zu.
-<details>
-  <summary>Quellen</summary>
-  
-- https://www.c-sharpcorner.com/UploadFile/d15fb8/ldr-with-arduino/Images/LDR.jpg
- 
-</details>
 
 <h3>
   <bold>5. Stunde (08.09.2022)</bold>
@@ -237,17 +219,15 @@ Heute haben wir uns näher mit dem Charakter und dem Hintergrund des Spendensch�
 Karl Leopold wurde 1813 geboren und war sein lebenlang ein armer, deutscher Künstler. Da er kaum Geld hatte nutzte er sein Gesicht als Leinwand. Sein Leben endete tragischerweise bei der Ausübung seiner Leidenschaft, da er sich giftige Farbe auf sein Gesicht schmierte.
 Ebenfalls haben wir die Sprüche festgelget, die der Spendenschädel sagen soll. In Klammern dahinter steht jeweils die Art, wie der Satz gesprochen werden soll.
 
+<details> 
+<summary>Allgemeine Sprüche</summary>
+
 
 </details>
 
 Außerdem wir das Programm für die Kieferbewegung geschrieben. Hier taucht zunächst ein Fehler bei dem Upload auf den Arduiono auf. Dieses kann allerdings durch einen anderen Code gelöst werden. Dieser Code wird danach nicht wieder benötigt und taucht daher auch nicht in dem finalen Code auf.
 
-<details>
-  <summary>Quellen</summary>
-  
-- https://player.hu/uploads/2017/11/coco-hector.jpg
-       
-</details>
+
 
 <h3>
   <bold>Wochenende (17&18.09.2022)</bold>
@@ -262,17 +242,6 @@ Bei einem Treffen am Sonntag wird sich für ein spezifisches Design entscheiden.
   
 Wir haben weitere Sprüche entwickelt und über eine Code-Struktur nachgedacht.
 
-<details>
-  <summary>Quellen</summary> 
-
-- https://funduino.de/nr-6-fotowiderstand
-- https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/
-- https://www.arduino.cc/reference/en/language/functions/communication/serial/println/
-- http://www.gammon.com.au/interrupts
-
-  
-</details> 
-
 
    <h3>
   <bold>8. Stunde (06.10.2022)</bold> 
@@ -280,14 +249,7 @@ Wir haben weitere Sprüche entwickelt und über eine Code-Struktur nachgedacht.
   </h3> 
 Alicia beschäftigt sich damit, wie sie mit Hilfe eines Sensorwertes die Audiodateien steuern kann..
 Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan auseinander.
-  
-  <details>
-    <summary>Quellen</summary>
-      
-  - https://wolles-elektronikkiste.de/dfplayer-mini-ansteuerung-mit-dem-arduino
-  - https://ardurobot.jimdofree.com/lehrgang/posten-12-lichtsensor/
-  
-  </details>
+
   
   <h3>
   <bold>9. Stunde (24.10.2022)</bold> 
@@ -296,13 +258,6 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
   
   Rosalie hat die Hardware auf Fehler überprüft und für den Transport gesischert. Alicia hat am Code weitergearbeitet.
   
-<details>
-  <summary>Quellen</summary>
-
-- https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/
-- https://docplayer.org/176475379-Mp3-player-mit-dfplayer-mini.html
-
- </details>
 
 
   <h3>
@@ -322,13 +277,6 @@ Alicia hat erneut den Code auf Fehlerquellen überprüft. Der Code war an einer 
 Außerdem hat sie mit HTML den Blog weiter strukturiert. 
 Rosalie ist weiterhin krank.
  
- 
- <details>
-  <summary>Quellen</summary>
-  
- - https://www.theamplituhedron.com/articles/How-to-use-DFRobot-DFPlayer-Mini-Serial-MP3-Player-with-Arduino/
-  
- </details>
   
   <h3>
   <bold>12. Stunde (14.11.2022)</bold> 
@@ -467,49 +415,62 @@ Das Projekt war eine Art Spielwiese, auf der wir viel gelernt und ausprobiert ha
   <h1 id="quellen"><bold>Quellen und Eigenständigkeitserklärung</bold></h1>
   
   <h2>Code</h2>
+- https://www.youtube.com/watch?v=GnGv21v7h8s<br>
+- https://blog.robberg.net/wp-content/uploads/2017/10/DFPlayer.jpg<br>
+- https://wolles-elektronikkiste.de/wp-content/uploads/2019/07/UNO_2.jpg<br>
+- https://www.arduino.cc/en/Tutorial/BuiltInExamples/Blink<br>
+- https://www.youtube.com/watch?v=cYOft1rEBYw<br>
+- https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/<br>
+- https://www.arduino.cc/reference/en/language/functions/communication/serial/println/<br>
+- http://www.gammon.com.au/interrupts<br>
+- https://wolles-elektronikkiste.de/dfplayer-mini-ansteuerung-mit-dem-arduino<br>
+- https://ardurobot.jimdofree.com/lehrgang/posten-12-lichtsensor/<br>
+- https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/<br>
+- https://docplayer.org/176475379-Mp3-player-mit-dfplayer-mini.html<br>
+- https://www.theamplituhedron.com/articles/How-to-use-DFRobot-DFPlayer-Mini-Serial-MP3-Player-with-Arduino/<br>
+ 
   
-  <h2>Hardware</h2>
-  
-  <h3Schaltplan</h3>
-  - https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_UNO_A06.png
-  - https://www.makerelectronico.com/wp-content/uploads/2017/06/DFplayer-minireproductor-mp3-3-1.jpg 
+  <h3>Schaltplan</h3>
+  - https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_UNO_A06.png<br>
+  - https://www.makerelectronico.com/wp-content/uploads/2017/06/DFplayer-minireproductor-mp3-3-1.jpg<br> 
  
   <h3>GitHub</h3>
   - Inspiration zum Aufbau der Projektseite
   
   <h3>Gamification</h3>
-  - https://wirtschaftslexikon.gabler.de/definition/gamification-53874
-  - https://de.wikipedia.org/w/index.php?title=Gamification&oldid=227708425
+  - https://wirtschaftslexikon.gabler.de/definition/gamification-53874<br>
+  - https://de.wikipedia.org/w/index.php?title=Gamification&oldid=227708425<br>
   
   <h3>Wahl der Hardware</h3>
-  - https://store.arduino.cc/products/arduino-uno-rev3/
-  - https://de.wikipedia.org/wiki/Servomotor
-  - https://de.wikipedia.org/wiki/Leuchtdiode
-  - https://de.wikipedia.org/wiki/Fotowiderstand
-  - https://www.mymakerstuff.de/2016/04/06/arduino-tutorial-der-lichtsensor/
-  - https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/
-  - https://www.dfrobot.com/product-1121.html
-  - https://de.wikipedia.org/wiki/Lautsprecher
-  - https://de.wikipedia.org/wiki/Logic_Pro
+  - https://store.arduino.cc/products/arduino-uno-rev3/<br>
+  - https://de.wikipedia.org/wiki/Servomotor<br>
+  - https://de.wikipedia.org/wiki/Leuchtdiode<br>
+  - https://de.wikipedia.org/wiki/Fotowiderstand<br>
+  - https://www.mymakerstuff.de/2016/04/06/arduino-tutorial-der-lichtsensor/<br>
+  - https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/<br>
+  - https://www.dfrobot.com/product-1121.html<br>
+  - https://de.wikipedia.org/wiki/Lautsprecher<br>
+  - https://de.wikipedia.org/wiki/Logic_Pro<br>
   
   <h2>Software</h2>
-  - https://docs.arduino.cc/learn/starting-guide/the-arduino-software-ide
-  - https://kinsta.com/de/wissensdatenbank/was-ist-github/
+  - https://docs.arduino.cc/learn/starting-guide/the-arduino-software-ide<br>
+  - https://kinsta.com/de/wissensdatenbank/was-ist-github/<br>
   
   <h2>Persönlichkeit</h2>
-  - https://pixars-coco.fandom.com/wiki/H%C3%A9ctor_Rivera
-  - https://www.viversum.de/online-magazin/lotusblume-bedeutung
+  - https://pixars-coco.fandom.com/wiki/H%C3%A9ctor_Rivera<br>
+  - https://www.viversum.de/online-magazin/lotusblume-bedeutung<br>
+  - https://player.hu/uploads/2017/11/coco-hector.jpg<br>
   
   <h2>HWHS</h2>
-  - https://www.halloweenhaus-schmalenbeck.de/
+  - https://www.halloweenhaus-schmalenbeck.de/<br>
   
   <h2>Multimediaproduktion</h2>
-  - https://ais.badische-zeitung.de/piece/0a/5f/36/1e/174011934-h-720.jpg
-  - https://modao-zushi.fandom.com/wiki/Yunmeng_Jiang_Clan
-  - https://modao-zushi.fandom.com/wiki/Gusu_Lan_Clan
+  - https://ais.badische-zeitung.de/piece/0a/5f/36/1e/174011934-h-720.jpg<br>
+  - https://modao-zushi.fandom.com/wiki/Yunmeng_Jiang_Clan<br>
+  - https://modao-zushi.fandom.com/wiki/Gusu_Lan_Clan<br>
  
   <h2>Eigenständigkeitserklärung</h2>
-  - https://www.ats.uni-muenchen.de/studium_lehre/material/eigenstaendigkeit/erklaerung_pdf.pdf
+  - https://www.ats.uni-muenchen.de/studium_lehre/material/eigenstaendigkeit/erklaerung_pdf.pdf<br>
   
 Alle Quellen wurden erfolgreich am 13.Dezember 2022 um 19.38 Uhr abgerufen.
   
