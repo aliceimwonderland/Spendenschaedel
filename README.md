@@ -527,45 +527,44 @@ Das Projekt war eine Art Spielwiese, auf der wir viel gelernt und ausprobiert ha
   <h2>Hardware</h2>
   
   <h3Schaltplan</h3>
-  - https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_UNO_A06.png
-  - https://www.makerelectronico.com/wp-content/uploads/2017/06/DFplayer-minireproductor-mp3-3-1.jpg 
+  - https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_UNO_A06.png<br>
+  - https://www.makerelectronico.com/wp-content/uploads/2017/06/DFplayer-minireproductor-mp3-3-1.jpg<br>
  
   <h3>GitHub</h3>
   - Inspiration zum Aufbau der Projektseite
   
   <h3>Gamification</h3>
-  - https://wirtschaftslexikon.gabler.de/definition/gamification-53874
-  - https://de.wikipedia.org/w/index.php?title=Gamification&oldid=227708425
+  - https://wirtschaftslexikon.gabler.de/definition/gamification-53874<br>
+  - https://de.wikipedia.org/w/index.php?title=Gamification&oldid=227708425<br>
   
   <h3>Wahl der Hardware</h3>
-  - https://store.arduino.cc/products/arduino-uno-rev3/
-  - https://de.wikipedia.org/wiki/Servomotor
-  - https://de.wikipedia.org/wiki/Leuchtdiode
-  - https://de.wikipedia.org/wiki/Fotowiderstand
-  - https://www.mymakerstuff.de/2016/04/06/arduino-tutorial-der-lichtsensor/
-  - https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/
-  - https://www.dfrobot.com/product-1121.html
-  - https://de.wikipedia.org/wiki/Lautsprecher
-  - https://de.wikipedia.org/wiki/Logic_Pro
+  - https://store.arduino.cc/products/arduino-uno-rev3/<br>
+  - https://de.wikipedia.org/wiki/Servomotor<br>
+  - https://de.wikipedia.org/wiki/Leuchtdiode<br>
+  - https://de.wikipedia.org/wiki/Fotowiderstand<br>
+  - https://www.mymakerstuff.de/2016/04/06/arduino-tutorial-der-lichtsensor/<br>
+  - https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/<br>
+  - https://www.dfrobot.com/product-1121.html<br>
+  - https://de.wikipedia.org/wiki/Lautsprecher<br>
+  - https://de.wikipedia.org/wiki/Logic_Pro<br>
   
   <h2>Software</h2>
-  - https://docs.arduino.cc/learn/starting-guide/the-arduino-software-ide
-  - https://kinsta.com/de/wissensdatenbank/was-ist-github/
+  - https://docs.arduino.cc/learn/starting-guide/the-arduino-software-ide<br>
+  - https://kinsta.com/de/wissensdatenbank/was-ist-github/<br>
   
   <h2>Persönlichkeit</h2>
-  - https://pixars-coco.fandom.com/wiki/H%C3%A9ctor_Rivera
-  - https://www.viversum.de/online-magazin/lotusblume-bedeutung
-  
+  - https://pixars-coco.fandom.com/wiki/H%C3%A9ctor_Rivera<br>
+  - https://www.viversum.de/online-magazin/lotusblume-bedeutung<br>
   <h2>HWHS</h2>
-  - https://www.halloweenhaus-schmalenbeck.de/
+  - https://www.halloweenhaus-schmalenbeck.de/<br>
   
   <h2>Multimediaproduktion</h2>
-  - https://ais.badische-zeitung.de/piece/0a/5f/36/1e/174011934-h-720.jpg
-  - https://modao-zushi.fandom.com/wiki/Yunmeng_Jiang_Clan
-  - https://modao-zushi.fandom.com/wiki/Gusu_Lan_Clan
+  - https://ais.badische-zeitung.de/piece/0a/5f/36/1e/174011934-h-720.jpg<br>
+  - https://modao-zushi.fandom.com/wiki/Yunmeng_Jiang_Clan<br>
+  - https://modao-zushi.fandom.com/wiki/Gusu_Lan_Clan<br>
  
   <h2>Eigenständigkeitserklärung</h2>
-  - https://www.ats.uni-muenchen.de/studium_lehre/material/eigenstaendigkeit/erklaerung_pdf.pdf
+  - https://www.ats.uni-muenchen.de/studium_lehre/material/eigenstaendigkeit/erklaerung_pdf.pdf<br>
   
 Alle Quellen wurden erfolgreich am 13.Dezember 2022 um 19.38 Uhr abgerufen.
   
