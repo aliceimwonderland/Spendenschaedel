@@ -102,13 +102,13 @@ Synology Drive - Das Programm verwandelt einen NAS zu einer privaten Cloud, in w
   
 GoodNotes5 - Diese App zur Erstellung von handgeschriebenen Notizen wird von beiden im Schulalltag und dementsprechend auch für das Projekt verwendet. Neben ersten Skizzen entsteht auch der Schaltplan in diesem Programm.
   
-Procreate - Mit Hilfe der Zeichen-App erstehen Skizzen.
+Procreate - Mit Hilfe der Zeichen-App entstehen Skizzen.
   
 Pages - Das auf iOS, MacOS und iPadOS vorinstallierte Tool zum Erstellen von Textdokumenten schafft Überblick über die verwendeten Anschlüsse am Arduino.
   
-Blender - Mit diesem open-source Programm zur Erstellung von 3D Modellen wird der Schädel erstellt.
+Blender - Mit diesem open-source Programm zur Erstellung von 3D Modellen wird der Schädel modelliert.
   
-Ultimaker Cura - Das Programm wandelt das 3D Modell in den für den Drucker auslesbaren G-Code um. Dieser Slicer ist ebenfalls open Source und kostenlos.
+Ultimaker Cura - Das Programm wandelt das 3D Modell in den für den Drucker auslesbaren G-Code um. Dieser Slicer ist ebenfalls open-source und kostenlos.
   
 Logic Pro X - Mit der Digital Audio Workstation von Apple werden die Tonaufnahmen getätigt. 
   
@@ -120,7 +120,8 @@ Logic Pro X - Mit der Digital Audio Workstation von Apple werden die Tonaufnahme
   
   </h3>
   
-Zusammen erstellten wir unsere GitHub Accounts, sowie unsere Projektseite. Anschließend haben wir uns über ein mögliches Projekt gedanken gemacht. Unsere erste Idee war es, eine beleuchtete Stadt zu konstruieren, dessen LEDs über ein LCD Display einzeln ansteuerbar sein sollen. Zusätzlich sollen mit einprogrammierten Routinen kleine Lichtshows möglich gemacht werden. Das Projekt soll selbstständig Tag und Nacht unterscheiden und die Routinen demensprechend anpassen.
+Zusammen erstellen wir unsere GitHub Accounts, sowie unsere Projektseite. Anschließend machen wir uns gedanken über ein mögliches Projekt. Unsere erste Idee ist, eine beleuchtete Stadt zu konstruieren, dessen LEDs über ein LCD Display einzeln ansteuerbar sein sollen. 
+Zusätzlich sollen mit einprogrammierten Routinen kleine Lichtshows möglich gemacht werden. Das Projekt soll selbstständig Tag und Nacht unterscheiden und die Routinen demensprechend anpassen.
 Da das Projekt nicht dem angemessenen Programmierumfang enspricht wurde die Idee verworfen.
 Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. Dieser soll mit einer Grundfrequenz und variablen Obertönen Töne generieren, sodass verschiedenste Klänge synthetisiert und als mp3 exportiert werden können. 
 
@@ -139,24 +140,24 @@ Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. 
   
 In den letzten Tagen habe wir festgestellt, dass wir mit dem Projekt nicht zufrieden sind. Jedoch sind wir uns einig, dass uns Physical Computing und damit die Arbeit mit einem Arduino interessiert. Wir haben uns zuhause mit den Möglichkeiten, Programmen und Hardware  auseinandergesetzt und im Unterricht besprochen. Dabei kam uns unsere Projektidee:
 
-Das Halloweenhaus Schmalenbeck (www.halloweenhaus-schmalenbeck.de) nutzt traditionell einen Spendenschädel (Spendendose in Schädelform). Der aktuelle Schädel ist zu .  Das ist für uns die Gelegenheit, einen neuen zu Gestalten. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling haben wir ein Konzept erarbeitet.
-
+Das Halloweenhaus Schmalenbeck (www.halloweenhaus-schmalenbeck.de) nutzt traditionell einen Spendenschädel (Spendendose in Schädelform). Der aktuelle Schädel weist eine vielzahl von Problemen auf. Das ist für uns die Gelegenheit, einen neuen zu Gestalten. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling haben wir das Konzept erarbeitet.
+Die Inspiration: https://youtu.be/u1g2USFuu3Y
+  
 <details>
   <summary>Konzept</summary>
   
 - Schädel, der sprechen kann (motorisierter Kiefer mit Servo)
-- Soundkarte und Lautsprechern (DFPlayer Mini)
-- euchtende Augen, welche in verschiedene Richtungen schauen können (LEDs, Servos)
+- Soundkarte und Lautsprecher (DFPlayer Mini)
+- leuchtende Augen, welche in verschiedene Richtungen schauen können (LEDs, Servos)
 - Sensor für Geld (Lichtschranke)
-- arbeiten mit Arduiono (Arduiono IDE)
+- Arbeit mit Arduiono Uno (Arduiono IDE)
 </details>
 
 <details>
   <summary>Features</summary>
   
-- Schädel fragt nach Spenden (Audio synchron mit Kiefer)
+- Schädel fragt nach Spenden (Audio synchron mit dem Kiefer)
 - Bei Geldeinwurf bedankt sich der Schädel
-- Mute Schalter
 </details>
 
 <details>
