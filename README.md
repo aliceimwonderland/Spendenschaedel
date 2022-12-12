@@ -35,10 +35,13 @@ Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling, welch
   
 Der Spendenschädel ist eine interaktive Spendenbox in Form eines Schädels. Dieser hat eine eigene Persönlichkeit und wirkt durch seine sich bewegenden Augen lebendig. Karl-Leopold fragt mit seinem beweglichen Kiefer in zufälligen Abständen nach Spenden oder erzählt Teile seiner Lebensgeschichte.<br> 
 Wenn ein Besucher Geld durch einen Münzschlitz im Kopf wirft, bedankt sich der Schädel mit einem zufälligen Spruch, sodass der Mensch animiert wird, mehr Geld zu spenden. Damit der Schädel nicht übersehen wird, ist er ansprechend gestaltet und mit LEDs in Augen Kopf ausgestattet. Das Konstrukt aus Schädel, dem darunterstellenden Buch und Netzteil ist per Kabel mit einer Stromquelle verbunden. In Kombination mit einem Gesamtgewicht von über 1,8kg und einer mit Magneten und Kabel gesichteten Schädeldecke ist die Gefahr von einem Diebstahl deutlich geringer als in den vergangenen Jahren. <br>
-
-Persönlichkeit des Schädels:<br>
+  
+<details>
+  <summary>Persönlichkeit des Schädels</summary>
   Der fiktive Charakter des Schädels ist der von Héctor Rivera (Deuteragonist aus Pixar’s Coco) inspirierte Künstler Karl-Leopold.<br>
   Er lebte zwischen 1813 und 1834, bis er tragisch durch den Gebrauch von giftiger Farbe verstarb. Um Geld zu sparen, nutzt er sein Gesicht als Leinwand, auch viele Jahre nach seinem Tod. Wie er zu seinem Status als lebendiger Schädel kam, weiß er selber nicht, doch durch seine sarkastische Art wird er von den Menschen an Halloween akzeptiert.
+</details>
+  
 
 Das Halloweenhaus Schmalenbeck:<br>
   Das junge Team des Halloweenhaus Schmalenbeck lässt Dekorationen, Musik, Lichtdesign, Informatik, Schauspiel, Robotik, Film und viele weitere Fähigkeiten zusammentreffen, um jährlich an Halloween eine etwa 5-minütige, interaktive Show zu gestalten.Der Fokus der Show ist ein familienfreundlicher Wow-Effekt, welcher unteranderem durch selbstkomponierte Musik, eigens erbauten Animatronics, aufwendigen Lichtinstallationen, Projektionen und Soundsystemen, Kurzfilmen und einem kostenlosen Eintritt erreicht wird.<br>
@@ -89,7 +92,7 @@ Holzspieße - Sie bringen Stabilität in Augen und Buch und in jedem Haushalt zu
   
 Schwarzes Ducktape - Neben der Befestigung von Kabelverbindungen und Hardware dient dieses auch als Hülle für das Netzteil.
   
-Teserfilm - Genau wie das Ducktape dichtet es wenige Kabelverbindungen ab, ist aber schlechter für diesen Anwendungszweck geeignet. 
+Tesafilm - Genau wie das Ducktape dichtet es wenige Kabelverbindungen ab, ist aber schlechter für diesen Anwendungszweck geeignet. 
   
 Malertape - Für den Fall, dass ein Objekt kaputt geht, soll es schnell und einfach ausgebaut werden können. Arduino und DFPlayer haben deshalb einen Rahmen aus Heißklebe, mit welchem sie am Platz gehalten werden. Das Malertape schützt die Technikgeräte vor der Klebe. Zusätzlich wurde es zur Erkennbarkeit der mit dem Netzteil verbundenen Kabel genutzt.
   
