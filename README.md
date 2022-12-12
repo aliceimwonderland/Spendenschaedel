@@ -42,14 +42,17 @@ Wenn ein Besucher Geld durch einen Münzschlitz im Kopf wirft, bedankt sich der 
   Er lebte zwischen 1813 und 1834, bis er tragisch durch den Gebrauch von giftiger Farbe verstarb. Um Geld zu sparen, nutzt er sein Gesicht als Leinwand, auch viele Jahre nach seinem Tod. Wie er zu seinem Status als lebendiger Schädel kam, weiß er selber nicht, doch durch seine sarkastische Art wird er von den Menschen an Halloween akzeptiert.
 </details>
   
-
-Das Halloweenhaus Schmalenbeck:<br>
+<details>
+  <summary>Das Halloweenhaus Schmalenbeck</summary>
   Das junge Team des Halloweenhaus Schmalenbeck lässt Dekorationen, Musik, Lichtdesign, Informatik, Schauspiel, Robotik, Film und viele weitere Fähigkeiten zusammentreffen, um jährlich an Halloween eine etwa 5-minütige, interaktive Show zu gestalten.Der Fokus der Show ist ein familienfreundlicher Wow-Effekt, welcher unteranderem durch selbstkomponierte Musik, eigens erbauten Animatronics, aufwendigen Lichtinstallationen, Projektionen und Soundsystemen, Kurzfilmen und einem kostenlosen Eintritt erreicht wird.<br>
   Seit 2012 wachsen Team und Besucherzahlen stetig, sodass an Halloween über 500 Menschen das sonst unscheinbare Haus im Dorf besuchen. 
 2022 gelang dem Haus der Durchbruch im deutschen Fernsehen. Mit einem Fernsehbeitrag von SAT.1, ständig wiederholten Radiointerviews bei NDR2, dem Hamburger Abendblatt, der SHZ, unzähligen Websites, mehreren Beiträgen im NDR und darunter sogar einer Liveschalte wurde das Haus auch über den norddeutschen Grenzen bekannt.
+</details>
 
-Gamification:<br>
+  <details>
+  <summary>Gamification</summary>
   Gamification, also Spielifikation, beschreibt die Übertragung spieltypischer Elemente in spielfremde Zusammenhänge. Das Ziel ist eine Motivationssteigerung des Nutzers. Genau das Ziel hat auch der Spendenschädel, da er die Spendemotivation erhöhen soll. Die Aufgabe des Besuchers ist das Spenden. Die Belohnung ist eine Reaktion, welche durch das ständige Reden und andere Besucher bekannt ist. Die Gäste haben gesehen, dass immer was Neues kommt und wollen wissen, was noch alles passieren kann. Diese Ungewissheit bildet die Grundlage der verwendeten Gamification.
+  </details>
 
   <h2 id="Wahl der Hardware">Wahl der Hardware</h2>
   
