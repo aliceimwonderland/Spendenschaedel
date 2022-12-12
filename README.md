@@ -22,8 +22,8 @@
   <h2 id="Ideenfindung">Ideenfindung</h2><br>
   
 Die Gestalter des Projektes, Alicia Gärtner und Rosalie Muchow, sind beide Teammitglieder des Halloweenhaus Schmalenbeck. In dem seit 10 Jahren stetig wachsenden, interdisziplinären & jungen Team bekommen beide einen vielfältigen Eindruck in den Themenbereichen Show- und Bühnendesign, Veranstaltungstechnik oder dem Bau von Audio Animatronics. Die Begeisterung für Audio Animatronics wurde neben dem Halloweenhaus auch bei gemeinsamen Freizeitparkbesuchen geformt. Besonders die unpräzisen 
-Bewegungen günstiger Animatronics gefällt dem Duo gar nicht. Schnell wurde den Freunden klar, dass dieses Projekt eine hervorragende Möglichkeit ist, das Halloweenhaus mit einer technischen Neuheit zu bereichern. Bei einem kurzen Brainstorming Prozess erinnert sich das Team an den seit 2016 genutzten Spendenschädel, welchen Rosalie als unästhetisch und unauffällig empfindet. Zusätzlich ist dieser durch das Loch am Boden sehr unsicher gegen Diebstahl und für die steigenden Spendengelder zu klein.An diesem Punkt beschließt das Team, eine neue Version des Schädels zu bauen. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling, welche „Papier hier“ rufen und sich nach dem erfolgreichen Einwurf bedanken, wird ein Konzept entworfen, welches alle Probleme des alten Schädels eliminieren soll. Bild 
-vom alten Schädel, Link zu Papier hier von Efteling
+Bewegungen günstiger Animatronics gefällt dem Duo gar nicht. Schnell wurde den Freunden klar, dass dieses Projekt eine hervorragende Möglichkeit ist, das Halloweenhaus mit einer technischen Neuheit zu bereichern. Bei einem kurzen Brainstorming Prozess erinnert sich das Team an den seit 2016 genutzten Spendenschädel, welchen Rosalie als unästhetisch und unauffällig empfindet. Zusätzlich ist dieser durch das Loch am Boden sehr unsicher gegen Diebstahl und für die steigenden Spendengelder zu klein.An diesem Punkt beschließt das Team, eine neue Version des Schädels zu bauen. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling, welche „Papier hier“ rufen und sich nach dem erfolgreichen Einwurf bedanken, wird ein Konzept entworfen, welches alle Probleme des alten Schädels eliminieren soll. 
+Link zur Inspiration: https://youtu.be/u1g2USFuu3Y
 
   <h2 id="Konzeption">Konzeption</h2><br>
   
@@ -141,7 +141,6 @@ Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. 
 In den letzten Tagen habe wir festgestellt, dass wir mit dem Projekt nicht zufrieden sind. Jedoch sind wir uns einig, dass uns Physical Computing und damit die Arbeit mit einem Arduino interessiert. Wir haben uns zuhause mit den Möglichkeiten, Programmen und Hardware  auseinandergesetzt und im Unterricht besprochen. Dabei kam uns unsere Projektidee:
 
 Das Halloweenhaus Schmalenbeck (www.halloweenhaus-schmalenbeck.de) nutzt traditionell einen Spendenschädel (Spendendose in Schädelform). Der aktuelle Schädel weist eine vielzahl von Problemen auf. Das ist für uns die Gelegenheit, einen neuen zu Gestalten. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling haben wir das Konzept erarbeitet.
-Die Inspiration: https://youtu.be/u1g2USFuu3Y
   
 <details>
   <summary>Konzept</summary>
