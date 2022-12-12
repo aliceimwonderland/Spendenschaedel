@@ -408,7 +408,14 @@ Wir befinden uns nun im Endspurt unseres Projektes und haben noch zwei Wochen, u
   <h2 id="Bau- und Schaltplan">Bau- und Schaltplan</h2>
   
 Der Bau des Schädels beginnt Anfang Oktober und wird am 29.10.22 abgeschlossen (Ausnahme Stabilisierung Buch). In diesem Monat wird kontinuierlich, kleinschrittig und fast ausschließlich außerhalb der Unterrichtszeit gearbeitet. Damit ist er kein Teil des Stundenprotokolls und nicht täglich dokumentiert. Der Fortschritt kann mit kleinen Einblicken auf dem Instagramkanal des Halloweenhaus Schmalenbeck verfolgt werden.
+ 
+<details>
+  <summary>Impression des Baus</summary>
   
+![](IMG_0269.jpeg)
+
+</details>
+
 Der Schaltplan zeigt neben den Verbindungen der einzelnen Elemente auch die 
 Kabelfarben und die ungefähre Lage der Objekte im Schädel.
 Zur besseren Orientierung beim Programmieren und einfachen Kontrolle der 
