@@ -131,6 +131,13 @@ Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. 
   ![](74703F7D-FAD9-4B21-8016-8272D528E488.jpeg)
   
   </details>
+  
+ <details>
+  <summary>Impression aus dem Unterricht</summary>
+  
+  ![](IMG_0168.jpeg)
+  
+  </details>
  
 <h3>
   <bold>2. Stunde (25.08.2022)</bold> 
