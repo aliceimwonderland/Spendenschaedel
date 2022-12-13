@@ -360,6 +360,9 @@ Ohne die Hülle wäre Karl-Leopold niemals als Schädel zu erkennen. Ein Objekt 
   
 Das 3D-Modell für wird von Freund und Teammitglied Steffen Kahl gestaltet. Mit dem Konzept und einer passenden Skizze wird aus einer kostenfreien Datei 
 (https://www.thingiverse.com/thing:518109) ein optimal passendes Endprodukt geschaffen.<br>
+Download der Dateien: http://gofile.me/6WIKw/vkNmbr4OF
+Passwort: Spendenschaedel3110
+
 Bei einem gemeinsamen Treffen wird ein Design für die Schädelbemalung entworfen und umgesetzt. Auf dem mit weißer Holzpaste grundierten Schädel können Formen mit Bleistift skizziert oder auf Papier ausgedruckt und aufgeklebt werden. Bei einem letzten Schritt, dem Auftragen von Acryl und Wandfarbe, wird Karl-Leopolds Hang zur Kunst visualisiert.<br>
   Das komplementäre Farbschema harmoniert gewollt nicht mit dem Buch, um einen gruseligen Bruch im Schema zu erzeugen.
   
