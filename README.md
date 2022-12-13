@@ -389,10 +389,10 @@ Die 32 Sprüche bestehen mit 21 aufgenommenen Tonspuren größtenteils aus zufä
 - Ich bin die schönste Blume hier!
 - Spendenschädel meldet sich zum Dienst.
 - Werde ich ein Skelett, wenn ich groß bin? 
- <p>
-   
+    </details>
     
-    </p>- Vielen Dank holde Maid! Es ist mir eine Ehre, euch kennenzulernen.
+    <details><summary>Dankesworte</summary>
+- Vielen Dank holde Maid! Es ist mir eine Ehre, euch kennenzulernen.
 - Oha, großer Ehrenmensch!
 - Möge der große, nicht der kleine Otto. Ach was, beide mit dir sein.
 - Uff, das tat weh. Obwohl ich gar keine Nerven mehr habe. Aber das ist wohl die uninterpretierbare Paradoxie meiner synthetischen Existenz.
