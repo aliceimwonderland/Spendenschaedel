@@ -33,7 +33,8 @@ Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling, welch
 
   <h2 id="Konzeption">Konzeption</h2><br>
   
-Der Spendenschädel ist eine interaktive Spendenbox in Form eines Schädels. Dieser hat eine eigene Persönlichkeit und wirkt durch seine sich bewegenden Augen lebendig. Karl-Leopold fragt mit seinem beweglichen Kiefer in zufälligen Abständen nach Spenden oder erzählt Teile seiner Lebensgeschichte.<br> 
+Der Spendenschädel ist eine interaktive Spendenbox in Form eines Schädels.<br>
+ Dieser hat eine eigene Persönlichkeit und wirkt durch seine sich bewegenden Augen lebendig. Karl-Leopold fragt mit seinem beweglichen Kiefer in zufälligen Abständen nach Spenden oder erzählt Teile seiner Lebensgeschichte.<br> 
 Wenn ein Besucher Geld durch einen Münzschlitz im Kopf wirft, bedankt sich der Schädel mit einem zufälligen Spruch, sodass der Mensch animiert wird, mehr Geld zu spenden. Damit der Schädel nicht übersehen wird, ist er ansprechend gestaltet und mit LEDs in Augen Kopf ausgestattet. Das Konstrukt aus Schädel, dem darunterstellenden Buch und Netzteil ist per Kabel mit einer Stromquelle verbunden. In Kombination mit einem Gesamtgewicht von über 1,8kg und einer mit Magneten und Kabel gesichteten Schädeldecke ist die Gefahr von einem Diebstahl deutlich geringer als in den vergangenen Jahren. <br>
   
 <details>
@@ -137,9 +138,10 @@ Fundus eines jeden Heimwerkers befindet.
   
   </h3>
   
-Zusammen erstellen wir unsere GitHub Accounts, sowie unsere Projektseite. Anschließend machen wir uns gedanken über ein mögliches Projekt. Unsere erste Idee ist, eine beleuchtete Stadt zu konstruieren, dessen LEDs über ein LCD Display einzeln ansteuerbar sein sollen. 
-Zusätzlich sollen mit einprogrammierten Routinen kleine Lichtshows möglich gemacht werden. Das Projekt soll selbstständig Tag und Nacht unterscheiden und die Routinen demensprechend anpassen.
-Da das Projekt nicht dem angemessenen Programmierumfang enspricht wurde die Idee verworfen.
+Zusammen erstellen wir unsere GitHub Accounts, sowie unsere Projektseite. Anschließend machen wir uns gedanken über ein mögliches Projekt.<br>
+  Unsere erste Idee ist, eine beleuchtete Stadt zu konstruieren, dessen LEDs über ein LCD Display einzeln ansteuerbar sein sollen.<br> 
+Zusätzlich sollen mit einprogrammierten Routinen kleine Lichtshows möglich gemacht werden. Das Projekt soll selbstständig Tag und Nacht unterscheiden und die Routinen demensprechend anpassen.<br>
+Da das Projekt nicht dem angemessenen Programmierumfang enspricht wurde die Idee verworfen.<br>
 Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. Dieser soll mit einer Grundfrequenz und variablen Obertönen Töne generieren, sodass verschiedenste Klänge synthetisiert und als mp3 exportiert werden können. 
 
 <details>
@@ -155,9 +157,9 @@ Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. 
   </h3>
 
   
-In den letzten Tagen habe wir festgestellt, dass wir mit dem Projekt nicht zufrieden sind. Jedoch sind wir uns einig, dass uns Physical Computing und damit die Arbeit mit einem Arduino interessiert. Wir haben uns zuhause mit den Möglichkeiten, Programmen und Hardware  auseinandergesetzt und im Unterricht besprochen. Dabei kam uns unsere Projektidee:
+In den letzten Tagen habe wir festgestellt, dass wir mit dem Projekt nicht zufrieden sind. Jedoch sind wir uns einig, dass uns Physical Computing und damit die Arbeit mit einem Arduino interessiert. Wir haben uns zuhause mit den Möglichkeiten, Programmen und Hardware  auseinandergesetzt und im Unterricht besprochen. Dabei kam uns unsere Projektidee:<br>
 
-Das Halloweenhaus Schmalenbeck (www.halloweenhaus-schmalenbeck.de) nutzt traditionell einen Spendenschädel (Spendendose in Schädelform). Der aktuelle Schädel weist eine vielzahl von Problemen auf. Das ist für uns die Gelegenheit, einen neuen zu Gestalten. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling haben wir das Konzept erarbeitet.
+Das Halloweenhaus Schmalenbeck (www.halloweenhaus-schmalenbeck.de) nutzt traditionell einen Spendenschädel (Spendendose in Schädelform). Der aktuelle Schädel weist eine vielzahl von Problemen auf. Das ist für uns die Gelegenheit, einen neuen zu Gestalten. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling haben wir das Konzept erarbeitet.<br>
 Die Inspiration: https://youtu.be/u1g2USFuu3Y
   
 <details>
@@ -183,11 +185,11 @@ Die Inspiration: https://youtu.be/u1g2USFuu3Y
 - Diebstahlschutz
 </details>  
 
-Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp, eine Prioritätenliste anzulegen, denn so können wir jederzeit bei Zeitdruck aufhören. 
+Anschließend halten wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp, eine Prioritätenliste anzulegen, denn so können wir jederzeit bei Zeitdruck aufhören. 
 <details>
   <summary>Prioritätenliste</summary>
   
-- Lautsprecher -> um nach Spenden zu fragen -> Aufnahmen stellt das Halloweenhaus Schmalenbeck
+- Lautsprecher um nach Spenden zu fragen
 - Bewegung im Kiefer
 - Erkennung des Münzeinwurfs -> Schädel bedankt sich
 - leuchtende Augen
@@ -203,8 +205,9 @@ Anschließend haben wir wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp
   </h3>
   
   
-Über das Wochenende haben wir einen Ordner auf Rosalies NAS erstellt, um dort sicher und einfach Daten zu sichern und teilen. Außerdem hat Rosalie mit der Beschaffung der Hardware angefangen und schon erster Elementare Bauteile gesammelt.
-Da Alicia in dieser Stunde leider fehlte, hat Rosalie alleine angefangen, einen Schaltplan zu erstellen. Der Sinn dabei ist, Fehlbauten zu verhindern und schonmal eine Vorstellung von benötigten Kabeln, Wiederständen usw zu bekommen. In der Stunde kamen netterweise schon erste Hinweise von Klassenkameraden, beispielsweise der benötigte Widerstand an den LEDs.
+Über das Wochenende haben wir einen Ordner auf Rosalies NAS erstellt, um dort sicher und einfach Daten zu sichern und teilen. Außerdem hat Rosalie mit der Beschaffung der Hardware angefangen und schon erster Elementare Bauteile gesammelt.<br>
+Da Alicia in dieser Stunde leider fehlt, fängt Rosalie alleine an, einen Schaltplan zu erstellen. Der Sinn dabei ist, Fehlbauten zu verhindern und schonmal eine Vorstellung von benötigten Kabeln, Wiederständen und sonstigen Bauteilen zu bekommen.<br>
+  In der Stunde kommen netterweise schon erste Hinweise von Klassenkameraden, beispielsweise die benötigten Widerstande an den LEDs.
 
  
  <h3>
@@ -215,15 +218,17 @@ Da Alicia in dieser Stunde leider fehlte, hat Rosalie alleine angefangen, einen 
   In dieser Stunde haben wir den noch fehlenden Fotowiederstand in die Skizze aufgenommen und diese auf Fehler überprüft. Dank einiger Tipps konnten wir diese finalisieren.
 
   
-Danach haben wir mit dem Programmieren unseres Codes angefangen, welcher eine LED zum leuchten bringen soll. Anschließend haben wir unsere LED mit dem Arduino und diesen wiederrum mit dem Computer verbunden. Dies hat dann auch funktioniert. Als wir es erneut probieren klappt es leider nicht mehr. Der Fehler lag bei den losen Kabeln, welche aus den Pins fallen keine Verbindung mehr herstellen können. Bisher konnten wir das Problem noch nicht lösen und wenden umn erstmal wieder dem Code zu.
+Danach haben wir mit dem Programmieren unseres Codes angefangen, welcher eine LED zum leuchten bringen soll. Anschließend haben wir unsere LED mit dem Arduino und diesen wiederrum mit dem Computer verbunden. Dies hat dann auch funktioniert. Als wir es erneut probieren klappt es leider nicht mehr.<br>
+  Der Fehler liegt bei losen Kabeln, welche aus den Pins fallen keine Verbindung mehr herstellen können. Bisher könnten wir das Problem noch nicht lösen und wenden uns erstmal wieder dem Code zu.
 
 <h3>
   <bold>5. Stunde (08.09.2022)</bold>
      </h3>
   
-In dieser Stunde haben wir uns mit dem Servo beschäftigt. Wir haben gelernt, wie man mithilfe eines Arduinos den Servo steuern kann und ein Programm dazu geschrieben.
+In dieser Stunde haben wir uns mit dem Servo beschäftigt. Wir haben gelernt, wie man mithilfe eines Arduinos den Servo steuern kann und ein Programm dazu geschrieben.<br>
  
-Außerdem haben wir uns mit dem Schädel befasst und sein grobes Aussehen, sowie seinen Charakter festgelegt. Dieser Charakter legt auch die Sprechweise des Spendenschädels fest. Wir haben uns darauf geeinigt, dass der Schädel männlich, lustig und schlau ist. Sein Name lautet Karl Leopold.
+Außerdem haben wir uns mit dem Schädel befasst und sein grobes Aussehen, sowie seinen Charakter festgelegt. Dieser Charakter legt auch die Sprechweise des Spendenschädels fest.<br>
+  Wir haben uns darauf geeinigt, dass der Schädel Karl-Leopold heißt.
 
  
  
@@ -232,10 +237,10 @@ Außerdem haben wir uns mit dem Schädel befasst und sein grobes Aussehen, sowie
      </h3>
      
      
-Heute haben wir uns näher mit dem Charakter und dem Hintergrund des Spendenschädels beschäftigt. Inspiration ist die Figur Héctor Rivera aus dem Film "Coco". 
-Karl Leopold wurde 1813 geboren und war sein lebenlang ein armer, deutscher Künstler. Da er kaum Geld hatte nutzte er sein Gesicht als Leinwand. Sein Leben endete tragischerweise bei der Ausübung seiner Leidenschaft, da er sich giftige Farbe auf sein Gesicht schmierte.
-Ebenfalls haben wir die Sprüche festgelget, die der Spendenschädel sagen soll. In Klammern dahinter steht jeweils die Art, wie der Satz gesprochen werden soll.
-
+Heute haben wir uns näher mit dem Charakter und dem Hintergrund des Spendenschädels beschäftigt. Inspiration ist die Figur Héctor Rivera aus dem Film "Coco". <br>
+Karl Leopold wurde 1813 geboren und war sein lebenlang ein armer, deutscher Künstler. Da er kaum Geld hatte, nutzte er sein Gesicht als Leinwand.<br>
+  Sein Leben endete tragischerweise bei der Ausübung seiner Leidenschaft, da er sich giftige Farbe auf sein Gesicht schmierte.
+Ebenfalls haben wir die Sprüche festgelget, die der Spendenschädel sagen soll.<br>
 
 Außerdem wir das Programm für die Kieferbewegung geschrieben. Hier taucht zunächst ein Fehler bei dem Upload auf den Arduiono auf. Dieses kann allerdings durch einen anderen Code gelöst werden. Dieser Code wird danach nicht wieder benötigt und taucht daher auch nicht in dem finalen Code auf.
 
@@ -244,8 +249,9 @@ Außerdem wir das Programm für die Kieferbewegung geschrieben. Hier taucht zun�
 <h3>
   <bold>Wochenende (17&18.09.2022)</bold>
      </h3>
-Am Samstag grundiert Rosalie den Spendenschädel mit einer weißen Holzpaste, damit der Schädel keine Rillen hat, die durch den 3D-Druck entstehen. Anschließend wird die Grundierung mit Acrylfarbe in selbst gesmischter Knochenfarbe beendet.<br>
-Bei einem Treffen am Sonntag wird sich für ein spezifisches Design entscheiden. Beispielsweise einigen wir uns auf ein Farbschema und zeichnen und mit einem Bleistift die Formen vor. Der letzte Schritt besteht darin, den Schädel anzumalen.
+Am Samstag grundiert Rosalie den Spendenschädel mit einer weißen Holzpaste, damit der Schädel keine Rillen hat, die durch den 3D-Druck entstehen.<br> Anschließend wird die Grundierung mit Acrylfarbe in selbst gesmischter Knochenfarbe beendet.<br>
+Bei einem Treffen am Sonntag wird sich für ein spezifisches Design entscheiden. Beispielsweise einigen wir uns auf ein Farbschema und zeichnen und mit einem Bleistift die Formen vor.<br>
+  Der letzte Schritt besteht darin, den Schädel anzumalen.
    
    
 <h3>
@@ -259,7 +265,7 @@ Wir haben weitere Sprüche entwickelt und über eine Code-Struktur nachgedacht.
   <bold>8. Stunde (06.10.2022)</bold> 
   
   </h3> 
-Alicia beschäftigt sich damit, wie sie mit Hilfe eines Sensorwertes die Audiodateien steuern kann..
+Alicia beschäftigt sich damit, wie sie mit Hilfe eines Sensorwertes die Audiodateien steuern kann.<br>
 Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan auseinander.
 
   
@@ -268,8 +274,7 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
   
   </h3> 
   
-  Rosalie hat die Hardware auf Fehler überprüft und für den Transport gesischert.<br>
-Alicia hat am Code weitergearbeitet.
+ In dieser Stunde überprüfen wir die Hardware auf Fehler und sichern sie für den Transport, zusätzlich wird der Code weiter ausgearbeitet.
   
 
 
@@ -278,8 +283,7 @@ Alicia hat am Code weitergearbeitet.
   
   </h3> 
   
-  Alicia ist den Code durchgegangen und hat ihn auf Fehlerquellen überprüft.<br>
- Rosalie muss leider krankheitsbedingt fehlen.
+  Alicia ist den Code durchgegangen und hat ihn auf Fehlerquellen überprüft, da Rosalie muss leider krankheitsbedingt fehlen muss.
   
   
   <h3>
@@ -287,12 +291,9 @@ Alicia hat am Code weitergearbeitet.
   
   </h3> 
   
-Alicia hat erneut den Code auf Fehlerquellen überprüft. 
-Der Code war an einer falschen Stelle gespeichert und konnte daher nicht auf die Librarie zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert.<br> 
-Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audiodateien falsch war. Diese Fehlermeldung konnte nach einer kurzen Internetrecherche behoben werden. Alicia hat außerdem eine weitere Funktion, die Audiodateien betreffend, eingebaut. Diese werden, sofern kein anderer Befehl vorliegt, alle abgepielt. So muss nicht jede Audiodatei enzeln eingefügt werden.
-Außerdem hat sie mit HTML den Blog weiter strukturiert.<br>
-Rosalie ist weiterhin krank.
- 
+Der Code funktioniert nicht, weshalb eine Fehlersuche startet. Er war an einer falschen Stelle gespeichert und konnte daher nicht auf die Librarie zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert.<br> 
+Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audiodateien falsch war. Diese Fehlermeldung konnte nach einer kurzen Internetrecherche behoben werden. Außerdem wird eine weitere Funktion, die Audiodateien betreffend, eingebaut. Diese werden, sofern kein anderer Befehl vorliegt, alle abgepielt. So muss nicht jede Audiodatei enzeln eingefügt werden.
+
   
   <h3>
   <bold>12. Stunde (14.11.2022)</bold> 
@@ -310,14 +311,15 @@ Rosalie hat sich mit dem Aufbau der Projektseite beschäftigt.
   </h3> 
 
 
-Alicia beschäftigt sich weiterhin mit dem Code. Die Fehlermerldung der letzten Stunde konnte gelöst werden. Eine benötigte Bibliothek war nicht installiert. Da diese allerdings auch nicht mehr verfügbar ist, musste der Befehl umgeschrieben werden.<br>
+Alicia beschäftigt sich weiterhin mit dem Code. Die Fehlermerldung der letzten Stunde konnte gelöst werden. Eine benötigte Bibliothek war nicht installiert. Da diese allerdings auch nicht mehr verfügbar ist, muss der Befehl umgeschrieben werden.<br>
 Rosalie setzt sich bei stundenanfang mit wieder mit dem GitHub Blog außeinander, bis sie Alicia bei der fehlersuche unterstützt.
 
 <h3>
   <bold>14. Stunde (21.11.2022)</bold> 
   
   </h3> 
-Der Schädel ist nun theoretisch fertig, doch das Buch beginnt durchzuhängen. Deshalb hat Rosalie es mit Holz stabilisiert. Ausserdem kann er plötzlich keine Tondateien mehr abspielen.<br> 
+Der Schädel ist nun theoretisch fertig, doch das Buch beginnt durchzuhängen, weshalb es mit Holz stabilisiert wird.<br>
+  Ausserdem kann er plötzlich keine Tondateien mehr abspielen.<br> 
 Nach langer Fehlersuche ist die Lösung, dass die Dateien auf der SD Karte fehlerhaft sind.
   
   
@@ -342,10 +344,11 @@ Nach langer Fehlersuche ist die Lösung, dass die Dateien auf der SD Karte fehle
   <h2 id="Bau- und Schaltplan">Bau- und Schaltplan</h2>
   
 Der Bau des Schädels beginnt Anfang Oktober und wird am 29.10.22 abgeschlossen (Ausnahme Stabilisierung Buch).<br> 
-In diesem Monat wird von Rosalie kontinuierlich, kleinschrittig und fast ausschließlich außerhalb der Unterrichtszeit gearbeitet. Damit ist er kein Teil des Stundenprotokolls und nicht täglich dokumentiert. Der Fortschritt kann mit kleinen Einblicken auf dem Instagramkanal des Halloweenhaus Schmalenbeck verfolgt werden.
+In diesem Monat wird kontinuierlich, kleinschrittig und fast ausschließlich außerhalb der Unterrichtszeit gearbeitet.<br>
+  Damit ist er kein Teil des Stundenprotokolls und nicht täglich dokumentiert. Der Fortschritt kann mit kleinen Einblicken auf dem Instagramkanal des Halloweenhaus Schmalenbeck verfolgt werden.
   
 Der Schaltplan zeigt neben den Verbindungen der einzelnen Elemente auch die 
-Kabelfarben und die ungefähre Lage der Objekte im Schädel.
+Kabelfarben und die ungefähre Lage der Objekte im Schädel.<br>
 Zur besseren Orientierung beim Programmieren und einfachen Kontrolle der 
 korrekten Pinbelegung entsteht folgende Tabelle:
   
@@ -353,17 +356,24 @@ korrekten Pinbelegung entsteht folgende Tabelle:
   
 Ohne sein einzigartiges Auftreten wäre der Spendenschädel nichts. Um diesen Punkt zu erreichen, werden Fähigkeiten und Schritte außerhalb der Informatik gefordert.
   
-Ohne die Hülle wäre Karl-Leopold niemals als Schädel zu erkennen. Ein Objekt mit unseren Anforderungen ist selbstverständlich nicht käuflich, darum wird der Kopf mit Rosalies Ender-3 max 3D-Drucker und weißem Amazon Basic Filament 3D gedruckt.
-Das 3D-Modell für wird von Freund und Teammitglied Steffen Kahl gestaltet. Mit dem Konzept und einer passenden Skizze wird aus einer kostenfreien Datei 
-(https://www.thingiverse.com/thing:518109) ein optimal passendes Endprodukt geschaffen.
-Bei einem gemeinsamen Treffen wird ein Design für die Schädelbemalung entworfen und umgesetzt. Auf dem mit weißer Holzpaste grundierten Schädel können Formen mit Bleistift skizziert oder auf Papier ausgedruckt und aufgeklebt werden. Bei einem letzten Schritt, dem Auftragen von Acryl und Wandfarbe, wird Karl-Leopolds Hang zur Kunst visualisiert. Das komplementäre Farbschema harmoniert gewollt nicht mit dem Buch, um einen gruseligen Bruch im Schema zu erzeugen.
-Die Farbe Violett symbolisiert Kreativität und das mystische, beides Kerneigenschaften des Künstlers. Gold hingegen bildet einen Widerspruch, denn er ist nicht wohlhabend. Doch genau diesen Punkt möchte er mit der Spende ändern. Die Perfekt Harmonie von Gleichheit und Gegensatz wird aktiv von seinem Verhalten zerstört. Dadurch kann alleine durch die Farbgebung seine teils böse und sarkastische Art und das Halloweenthema verkörpert werden. Aber natürlich auch seine harmonische, liebevolle Seite.
-Auf seiner Stirn prangt eine Interpretation der Lotusblume, das mythische Gewächs für Transformation. Karl-Leopold transformierte sich vom Lebenden zum Schädel ohne logische Erklärung. Diese Flüchtigkeit wird zusätzlich mit den Symbolen vom Element Luft an Schläfen und Kiefer gezeigt.
-Die Dabei ausgewählten Zeichen sind von der Live Action Adaptation des Romans „Grandmaster of Demonic Cultivation“ inspiriert. Für Kenner ein erster Hinweis darauf, dass eine Divergenz besteht. Die Symbole sind die Motive der Hauptclans des Protagonisten, welcher von seinem Adoptivbruder (Neunblättriger Lotus) 
-verstoßen und von einem guten Freund (Fließende Wolken) neu aufgenommen wird.
+Ohne die Hülle wäre Karl-Leopold niemals als Schädel zu erkennen. Ein Objekt mit unseren Anforderungen ist selbstverständlich nicht käuflich, darum wird der Kopf mit Rosalies Ender-3 max 3D-Drucker und weißem Amazon Basic Filament 3D gedruckt.<br>
   
-Um diese leblose Hülle zum Sprechen zu bringen, werden insgesamt 32 Sprüche geschrieben und im MuchowMedia Tonstudio aufgenommen. Sprecher ist Freund 
-und Langzeitmitglied Bennet Martins, welcher so die Aufnahme eines männlichen Sprechers ermöglichte.
+Das 3D-Modell für wird von Freund und Teammitglied Steffen Kahl gestaltet. Mit dem Konzept und einer passenden Skizze wird aus einer kostenfreien Datei 
+(https://www.thingiverse.com/thing:518109) ein optimal passendes Endprodukt geschaffen.<br>
+Bei einem gemeinsamen Treffen wird ein Design für die Schädelbemalung entworfen und umgesetzt. Auf dem mit weißer Holzpaste grundierten Schädel können Formen mit Bleistift skizziert oder auf Papier ausgedruckt und aufgeklebt werden. Bei einem letzten Schritt, dem Auftragen von Acryl und Wandfarbe, wird Karl-Leopolds Hang zur Kunst visualisiert.<br>
+  Das komplementäre Farbschema harmoniert gewollt nicht mit dem Buch, um einen gruseligen Bruch im Schema zu erzeugen.
+  
+Die Farbe Violett symbolisiert Kreativität und das mystische, beides Kerneigenschaften des Künstlers.<br>
+  Gold hingegen bildet einen Widerspruch, denn er ist nicht wohlhabend. Doch genau diesen Punkt möchte er mit der Spende ändern.<br>
+  Die Perfekt Harmonie von Gleichheit und Gegensatz wird aktiv von seinem Verhalten zerstört. Dadurch kann alleine durch die Farbgebung seine teils böse und sarkastische Art und das Halloweenthema verkörpert werden. Aber natürlich auch seine harmonische, liebevolle Seite.<br>
+Auf seiner Stirn prangt eine Interpretation der Lotusblume, das mythische Gewächs für Transformation. Karl-Leopold transformierte sich vom Lebenden zum Schädel ohne logische Erklärung. Diese Flüchtigkeit wird zusätzlich mit den Symbolen vom Element Luft an Schläfen und Kiefer gezeigt.<br>
+  
+Die Dabei ausgewählten Zeichen sind von der Live Action Adaptation des Romans „Grandmaster of Demonic Cultivation“ inspiriert. Für Kenner ein erster Hinweis darauf, dass eine Divergenz besteht. Die Symbole sind die Motive der Hauptclans des Protagonisten, welcher von seinem Adoptivbruder (Neunblättriger Lotus) 
+verstoßen und von einem guten Freund (Fließende Wolken) neu aufgenommen wird.<br>
+  
+Um diese leblose Hülle zum Sprechen zu bringen, werden insgesamt 32 Sprüche geschrieben und im MuchowMedia Tonstudio aufgenommen.<br>
+  Sprecher ist Freund 
+und Langzeitmitglied Bennet Martins, welcher so dankenswerterweise die Aufnahme eines männlichen Sprechers ermöglichte.<br>
 Die 32 Sprüche bestehen mit 21 aufgenommenen Tonspuren größtenteils aus zufälligen Sprüchen. Bedanken kann sich der Schädel mit den restlichen 11.
 
   <details><summary>Sprüche</summary>
@@ -391,7 +401,7 @@ Die 32 Sprüche bestehen mit 21 aufgenommenen Tonspuren größtenteils aus zufä
 - Werde ich ein Skelett, wenn ich groß bin? 
     </details>
     
-    <details><summary>Dankesworte</summary>
+<details><summary>Dankesworte</summary>
 - Vielen Dank holde Maid! Es ist mir eine Ehre, euch kennenzulernen.
 - Oha, großer Ehrenmensch!
 - Möge der große, nicht der kleine Otto. Ach was, beide mit dir sein.
@@ -404,7 +414,7 @@ Die 32 Sprüche bestehen mit 21 aufgenommenen Tonspuren größtenteils aus zufä
 - Ich würde vor Freunde fast in die Luft springen, wenn ich denn nur könnte. Danke!
 - Danke Anke, Schankedön!
 
-    </details>
+</details>
   
   <h1><bold>Evaluation</bold></h1>
   
