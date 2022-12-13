@@ -441,8 +441,9 @@ Mit der beim Bau gesammelten Erfahrung wissen wir, wie wir den Innenraum noch ef
   
   <h2 id="Persönliches Wachstum">Persönliches Wachstum</h2>
   
-Als Ersteller können wir, Alicia und Rosalie, den Spendenschädel als persönlichen Erfolg und ersten Weg in die Informatik sehen. Das Realisieren des ganzen Projektes hat unglaublich viel Spaß gemacht und uns gezeigt, wie einfach das eigentlich geht.
-Das Projekt war eine Art Spielwiese, auf der wir viel gelernt und ausprobiert haben, weshalb wir von unseren Erkenntnissen in Zukunft profitieren. Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht einbringen zu können.
+Als Ersteller können wir, Alicia und Rosalie, den Spendenschädel als persönlichen Erfolg und ersten Weg in die Informatik sehen. Das Realisieren des ganzen Projektes hat unglaublich viel Spaß gemacht und uns gezeigt, wie einfach das eigentlich geht.<br>
+Das Projekt war eine Art Spielwiese, auf der wir viel gelernt und ausprobiert haben, weshalb wir von unseren Erkenntnissen in Zukunft profitieren.<br>
+Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht einbringen zu können.
   
   <h1 id="quellen"><bold>Quellen und Eigenständigkeitserklärung</bold></h1>
   
