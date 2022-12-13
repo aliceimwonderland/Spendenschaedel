@@ -230,7 +230,7 @@ Außerdem haben wir uns mit dem Schädel befasst und sein grobes Aussehen, sowie
      </h3>
      
      
-Heute haben wir uns näher mit dem Charakter und dem Hintergrund des Spendenschädels beschäftigt. Inspiration erhielten wir von der Figur Héctor Rivera aus dem Film "Coco". 
+Heute haben wir uns näher mit dem Charakter und dem Hintergrund des Spendenschädels beschäftigt. Inspiration ist die Figur Héctor Rivera aus dem Film "Coco". 
 Karl Leopold wurde 1813 geboren und war sein lebenlang ein armer, deutscher Künstler. Da er kaum Geld hatte nutzte er sein Gesicht als Leinwand. Sein Leben endete tragischerweise bei der Ausübung seiner Leidenschaft, da er sich giftige Farbe auf sein Gesicht schmierte.
 Ebenfalls haben wir die Sprüche festgelget, die der Spendenschädel sagen soll. In Klammern dahinter steht jeweils die Art, wie der Satz gesprochen werden soll.
 
@@ -242,7 +242,7 @@ Außerdem wir das Programm für die Kieferbewegung geschrieben. Hier taucht zun�
 <h3>
   <bold>Wochenende (17&18.09.2022)</bold>
      </h3>
-Am Samstag grundiert Rosalie den Spendenschädel mit einer weißen Holzpaste, damit der Schädel keine Rillen hat, die durch den 3D-Druck entstehen. Anschließend wird die Grundierung mit Acrylfarbe in selbst gesmischter Knochenfarbe beendet.  
+Am Samstag grundiert Rosalie den Spendenschädel mit einer weißen Holzpaste, damit der Schädel keine Rillen hat, die durch den 3D-Druck entstehen. Anschließend wird die Grundierung mit Acrylfarbe in selbst gesmischter Knochenfarbe beendet.<br>
 Bei einem Treffen am Sonntag wird sich für ein spezifisches Design entscheiden. Beispielsweise einigen wir uns auf ein Farbschema und zeichnen und mit einem Bleistift die Formen vor. Der letzte Schritt besteht darin, den Schädel anzumalen.
    
    
@@ -266,7 +266,8 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
   
   </h3> 
   
-  Rosalie hat die Hardware auf Fehler überprüft und für den Transport gesischert. Alicia hat am Code weitergearbeitet.
+  Rosalie hat die Hardware auf Fehler überprüft und für den Transport gesischert.<br>
+Alicia hat am Code weitergearbeitet.
   
 
 
@@ -275,7 +276,8 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
   
   </h3> 
   
-  Alicia ist den Code durchgegangen und hat ihn auf Fehlerquellen überprüft. Rosalie muss leider krankheitsbedingt fehlen.
+  Alicia ist den Code durchgegangen und hat ihn auf Fehlerquellen überprüft.<br>
+ Rosalie muss leider krankheitsbedingt fehlen.
   
   
   <h3>
@@ -283,8 +285,10 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
   
   </h3> 
   
-Alicia hat erneut den Code auf Fehlerquellen überprüft. Der Code war an einer falschen Stelle gespeichert und konnte daher nicht auf die Librarie zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert. Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audiodateien falsch war. Diese Fehlermeldung konnte nach einer kurzen Internetrecherche behoben werden. Alicia hat außerdem eine weitere Funktion, die Audiodateien betreffend, eingebaut. Diese werden, sofern kein anderer Befehl vorliegt, alle abgepielt. So muss nicht jede Audiodatei enzeln eingefügt werden.
-Außerdem hat sie mit HTML den Blog weiter strukturiert. 
+Alicia hat erneut den Code auf Fehlerquellen überprüft. 
+Der Code war an einer falschen Stelle gespeichert und konnte daher nicht auf die Librarie zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert.<br> 
+Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audiodateien falsch war. Diese Fehlermeldung konnte nach einer kurzen Internetrecherche behoben werden. Alicia hat außerdem eine weitere Funktion, die Audiodateien betreffend, eingebaut. Diese werden, sofern kein anderer Befehl vorliegt, alle abgepielt. So muss nicht jede Audiodatei enzeln eingefügt werden.
+Außerdem hat sie mit HTML den Blog weiter strukturiert.<br>
 Rosalie ist weiterhin krank.
  
   
@@ -293,7 +297,7 @@ Rosalie ist weiterhin krank.
   
   </h3> 
   
- In dieser Stunde haben wir ohne Aufsicht gearbeitet. Alicia hat sich wieder mit dem Code beschäftigt. Relativ zum Ende der Stunde ist eine Fehlermeldung aufgetreten. Der fehlerhafte Befel soll dafür sorgen, dass der Servo zufällige Positionen, in festgelegten Grenzbereichen, ansteuert.
+ In dieser Stunde haben wir ohne Aufsicht gearbeitet. Alicia hat sich wieder mit dem Code beschäftigt. Relativ zum Ende der Stunde ist eine Fehlermeldung aufgetreten. Der fehlerhafte Befel soll dafür sorgen, dass der Servo zufällige Positionen, in festgelegten Grenzbereichen, ansteuert<br>
 Rosalie hat sich mit dem Aufbau der Projektseite beschäftigt. 
   
 
@@ -304,14 +308,15 @@ Rosalie hat sich mit dem Aufbau der Projektseite beschäftigt.
   </h3> 
 
 
-Alicia beschäftigt sich weiterhin mit dem Code. Die Fehlermerldung der letzten Stunde konnte gelöst werden. Eine benötigte Bibliothek war nicht installiert. Da diese allerdings auch nicht mehr verfügbar ist, musste der Befehl umgeschrieben werden.
+Alicia beschäftigt sich weiterhin mit dem Code. Die Fehlermerldung der letzten Stunde konnte gelöst werden. Eine benötigte Bibliothek war nicht installiert. Da diese allerdings auch nicht mehr verfügbar ist, musste der Befehl umgeschrieben werden.<br>
 Rosalie setzt sich bei stundenanfang mit wieder mit dem GitHub Blog außeinander, bis sie Alicia bei der fehlersuche unterstützt.
 
 <h3>
   <bold>14. Stunde (21.11.2022)</bold> 
   
   </h3> 
-Der Schädel ist nun theoretisch fertig, doch das Buch beginnt durchzuhängen. Deshalb haben wir es mit Holz stabilisiert. Ausserdem kann er plötzlich keine Tondateien mehr abspielen. Nach langer Fehlersuche ist die Lösung, dass die Dateien auf der SD Karte fehlerhaft sind.
+Der Schädel ist nun theoretisch fertig, doch das Buch beginnt durchzuhängen. Deshalb hat Rosalie es mit Holz stabilisiert. Ausserdem kann er plötzlich keine Tondateien mehr abspielen.<br> 
+Nach langer Fehlersuche ist die Lösung, dass die Dateien auf der SD Karte fehlerhaft sind.
   
   
   
@@ -328,12 +333,14 @@ Der Schädel ist nun theoretisch fertig, doch das Buch beginnt durchzuhängen. D
   
   </h3>
   
-  Beide arbeiten an der Projektseite. Alicia kümmert sich dabei um das einfügen der vorher zuhause ausgesuchten Bilder und Rosalie überarbeitet Texte.
+  Beide arbeiten an der Projektseite. Alicia kümmert sich dabei um das einfügen der vorher von Rosalie zuhause ausgesuchten Bilder. <br>
+  Rosalie überarbeitet Texte und den visuellen Aufbau der Seite.
   <h2 id="Code">Code</h2>
   
   <h2 id="Bau- und Schaltplan">Bau- und Schaltplan</h2>
   
-Der Bau des Schädels beginnt Anfang Oktober und wird am 29.10.22 abgeschlossen (Ausnahme Stabilisierung Buch). In diesem Monat wird kontinuierlich, kleinschrittig und fast ausschließlich außerhalb der Unterrichtszeit gearbeitet. Damit ist er kein Teil des Stundenprotokolls und nicht täglich dokumentiert. Der Fortschritt kann mit kleinen Einblicken auf dem Instagramkanal des Halloweenhaus Schmalenbeck verfolgt werden.
+Der Bau des Schädels beginnt Anfang Oktober und wird am 29.10.22 abgeschlossen (Ausnahme Stabilisierung Buch).<br> 
+In diesem Monat wird von Rosalie kontinuierlich, kleinschrittig und fast ausschließlich außerhalb der Unterrichtszeit gearbeitet. Damit ist er kein Teil des Stundenprotokolls und nicht täglich dokumentiert. Der Fortschritt kann mit kleinen Einblicken auf dem Instagramkanal des Halloweenhaus Schmalenbeck verfolgt werden.
   
 Der Schaltplan zeigt neben den Verbindungen der einzelnen Elemente auch die 
 Kabelfarben und die ungefähre Lage der Objekte im Schädel.
