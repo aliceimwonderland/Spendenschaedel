@@ -56,76 +56,78 @@ Wenn ein Besucher Geld durch einen Münzschlitz im Kopf wirft, bedankt sich der 
 
   <h2 id="Wahl der Hardware">Wahl der Hardware</h2>
   
-Arduino UNO - der Arduino ist das Herzstück des Spendenschädels und bietet alle für das Projekt benötigten Anwendungsmöglichkeiten. Das Mikrocontroller-Board steuert die restliche technische Hardware und wurde wegen der anfängerfreundlichen Oberfläche und der Verfügbarkeit in der Schule ausgewählt.
   
-Servomotoren - Die drei verbauten Servomotoren bewegen beide Augen und den Kiefer. Diese Motoren sind können präzise gesteuert werden, das bedeutet, dass wir je nach Bedarf den Winkel, die Beschleunigung oder die Drehgeschwindigkeit verändern können. Diese grundlegenden Eigenschaften sind für unseren Anwendungszweck elementar. Da bereits vor dem Projekt die Kurzform „Servo“ war und die in der Schule vorrätig sind, wurden die Motoren nach einer kurzen Recherche ausgewählt.
   
-LEDs - LEDs sind allseitsbekannte, lichtausstrahlende Bauelemente und beleuchten den Spendenschädel. Zwei gelbe LEDs in den Augen beleben Karl-Leopold, während eine rote und eine blaue im Schädelinnenraum eine einladend-violette Stimmung erzeugen. Eine weitere, weiße LED stellt sicher, dass der Fotowiderstand genug Lichtdifferenz erfährt. 
+<strong>Arduino UNO</strong> - der Arduino ist das Herzstück des Spendenschädels und bietet alle für das Projekt benötigten Anwendungsmöglichkeiten. Das Mikrocontroller-Board steuert die restliche technische Hardware und wurde wegen der anfängerfreundlichen Oberfläche und der Verfügbarkeit in der Schule ausgewählt.
+  
+<strong>Servomotoren</strong> - Die drei verbauten Servomotoren bewegen beide Augen und den Kiefer. Diese Motoren sind können präzise gesteuert werden, das bedeutet, dass wir je nach Bedarf den Winkel, die Beschleunigung oder die Drehgeschwindigkeit verändern können. Diese grundlegenden Eigenschaften sind für unseren Anwendungszweck elementar. Da bereits vor dem Projekt die Kurzform „Servo“ war und die in der Schule vorrätig sind, wurden die Motoren nach einer kurzen Recherche ausgewählt.
+  
+<strong>LEDs</strong> - LEDs sind allseitsbekannte, lichtausstrahlende Bauelemente und beleuchten den Spendenschädel. Zwei gelbe LEDs in den Augen beleben Karl-Leopold, während eine rote und eine blaue im Schädelinnenraum eine einladend-violette Stimmung erzeugen. Eine weitere, weiße LED stellt sicher, dass der Fotowiderstand genug Lichtdifferenz erfährt. 
 Die LEDs sind preisgünstig, klein und unkompliziert zu verbauen, weshalb auch diese ohne zu zögern ausgewählt wurden.
   
-Fotowiderstand - Die zwei Fotowiderstände am Geldschlitz des Schädels haben die Eigenschaft, ihre Widerstandsfähigkeit anhand des Lichteinfalles zu verändern. Mit der Information, dass der Lichteinfall sich deutlich verringert, kann so ein Einwurf erkannt werden und der Schädel bedankt sich. Mit diesem Kerngedanken wird sich bei einer kurzen Recherche für den Fotowiderstand entschieden. Bei einem Test fällt auf, dass zwei Widerstände zusammen genauere Werte erbringen, weshalb zwei im Schädel zu finden sind. Glücklicherweise hat ein Teammitglied des Halloweenhaus Schmalenbeck noch 
+<strong>Fotowiderstand</strong> - Die zwei Fotowiderstände am Geldschlitz des Schädels haben die Eigenschaft, ihre Widerstandsfähigkeit anhand des Lichteinfalles zu verändern. Mit der Information, dass der Lichteinfall sich deutlich verringert, kann so ein Einwurf erkannt werden und der Schädel bedankt sich. Mit diesem Kerngedanken wird sich bei einer kurzen Recherche für den Fotowiderstand entschieden. Bei einem Test fällt auf, dass zwei Widerstände zusammen genauere Werte erbringen, weshalb zwei im Schädel zu finden sind. Glücklicherweise hat ein Teammitglied des Halloweenhaus Schmalenbeck noch 
 einige übrig, sodass diese nicht neu gekauft werden müssen.
   
-DFPlayer Mini mit Micro SD - Der DFPlayer Mini ist ein MP3-Modul, welcher für den Arduino UNO oder andere Boards mit RX/TX entwickelt wurde. Er ist klein, kompakt und für wenige Euro zu erwerben. Nach einer simplen Montage kann der Ton, welcher einfach in den von uns benutzten Formaten MP3 oder WAV auf einer Micro SD gespeichert wird, abgespielt werden.Durch den günstigen Preis, der Popularität und der Kompatibilität mit dem Arduino UNO kaufen wir diesen für unser Projekt. 
+<strong>DFPlayer Mini mit Micro SD</strong> - Der DFPlayer Mini ist ein MP3-Modul, welcher für den Arduino UNO oder andere Boards mit RX/TX entwickelt wurde. Er ist klein, kompakt und für wenige Euro zu erwerben. Nach einer simplen Montage kann der Ton, welcher einfach in den von uns benutzten Formaten MP3 oder WAV auf einer Micro SD gespeichert wird, abgespielt werden.Durch den günstigen Preis, der Popularität und der Kompatibilität mit dem Arduino UNO kaufen wir diesen für unser Projekt. 
   
-AuxPort - The Show must go on. Der AuxPort ist eine Sicherheitsmaßnahme für den Fall, dass der Lautsprecher versagen sollte oder wir den Ton verstärken wollen. Allerdings wird dieser im Regelfall nicht benutzt, weshalb er auch keine weitere Bedeutung im Verlauf unserer Arbeit bekommt. Aux ist der Standard für den Anwendungszweck und bereits bei uns vorhanden, dementsprechend ist auch hier keine lange Bedenkzeit nötig.
+<strong>AuxPort</strong> - The Show must go on. Der AuxPort ist eine Sicherheitsmaßnahme für den Fall, dass der Lautsprecher versagen sollte oder wir den Ton verstärken wollen. Allerdings wird dieser im Regelfall nicht benutzt, weshalb er auch keine weitere Bedeutung im Verlauf unserer Arbeit bekommt. Aux ist der Standard für den Anwendungszweck und bereits bei uns vorhanden, dementsprechend ist auch hier keine lange Bedenkzeit nötig.
   
-Lautsprecher - Dieser wandelt die elektrischen Signale des DFPlayers in Schall um. Dessen Verwendung ist bei dem Projekt damit unumgänglich. Das Lautsprechermodell kann beliebig sein. Der von uns genutzte wurde aus einem gebrauchten Objekt ausgebaut und neu von uns eingebaut. Die Vorteile des Modells sind die kleine Größe und der Fakt, dass er ohne das Projekt weggeworfen werden würde. Damit fallen keine Kosten an und es wird kein neuer Elektroschrott produziert.
+<strong>Lautsprecher</strong> - Dieser wandelt die elektrischen Signale des DFPlayers in Schall um. Dessen Verwendung ist bei dem Projekt damit unumgänglich. Das Lautsprechermodell kann beliebig sein. Der von uns genutzte wurde aus einem gebrauchten Objekt ausgebaut und neu von uns eingebaut. Die Vorteile des Modells sind die kleine Größe und der Fakt, dass er ohne das Projekt weggeworfen werden würde. Damit fallen keine Kosten an und es wird kein neuer Elektroschrott produziert.
   
-Netzgerät - Dieses versorgt den Schädel mit Strom. Durch die konstante Verbindung zu einer Steckdose muss sich niemand Sorgen über einen leerwerdenden Akku machen. Das Gewicht schützt den Kopf vor Diebstahl. Mit wenig Arbeit kann der Schädel vom darüberliegenden Buch abgelöst werden, sodass das Netzteil einfach abgebaut werden kann. Dieses musste das Team ebenfalls nicht neu erwerben.
+<strong>Netzgerät</strong> - Dieses versorgt den Schädel mit Strom. Durch die konstante Verbindung zu einer Steckdose muss sich niemand Sorgen über einen leerwerdenden Akku machen. Das Gewicht schützt den Kopf vor Diebstahl. Mit wenig Arbeit kann der Schädel vom darüberliegenden Buch abgelöst werden, sodass das Netzteil einfach abgebaut werden kann. Dieses musste das Team ebenfalls nicht neu erwerben.
   
-Widerstände - Die sieben verbauten Widerstände begrenzen die Strommenge und garantieren, dass die verbundenen Bauelemente funktionieren und nicht durchbrennen. Sie sind Teil eines jeden Arduinoprojektes und natürlich auch in der Schule vorhanden.
+<strong>Widerstände</strong> - Die sieben verbauten Widerstände begrenzen die Strommenge und garantieren, dass die verbundenen Bauelemente funktionieren und nicht durchbrennen. Sie sind Teil eines jeden Arduinoprojektes und natürlich auch in der Schule vorhanden.
   
-Kabel mit und ohne Steckverbindungen - Um alle Bauelemente miteinander zu Verbinden werden verschiedenste Kabel verwendet. Diese sind großenteils von Elektroschrott, um auch hier unseren ökologischen Fußabdruck gering zu halten. Ein paar der neuen Kabel haben Steckverbindungen, damit angeschlossene Objekte mobil bleiben. Um zu gewährleisten, dass diese Mobilität trotz mehrfacher Verbindungen in einen Arduino Pin möglich bleibt, sind Mehrfachstecker verbaut.
+<strong>Kabel mit und ohne Steckverbindungen</strong> - Um alle Bauelemente miteinander zu Verbinden werden verschiedenste Kabel verwendet. Diese sind großenteils von Elektroschrott, um auch hier unseren ökologischen Fußabdruck gering zu halten. Ein paar der neuen Kabel haben Steckverbindungen, damit angeschlossene Objekte mobil bleiben. Um zu gewährleisten, dass diese Mobilität trotz mehrfacher Verbindungen in einen Arduino Pin möglich bleibt, sind Mehrfachstecker verbaut.
   
-Schädel - Das sichtbare Gehäuse des Schädels ist mit Amazon 3D gedruckt. Ein Objekt mit unseren speziellen Wünschen kann natürlich nicht einfach im Internet bestellt werden, weshalb sich der Druck anbietet. Da Rosalie selbst einen Ender-3 Max besitzt, konnte das Projekt zügig angegangen werden. Der genaue Prozess wird in Multimediaproduktion erläutert.
+<strong>Schädel</strong> - Das sichtbare Gehäuse des Schädels ist mit Amazon 3D gedruckt. Ein Objekt mit unseren speziellen Wünschen kann natürlich nicht einfach im Internet bestellt werden, weshalb sich der Druck anbietet. Da Rosalie selbst einen Ender-3 Max besitzt, konnte das Projekt zügig angegangen werden. Der genaue Prozess wird in Multimediaproduktion erläutert.
   
-Falsches Buch - Um den Bewegungsfreiraum des Kiefers zu gewährleisten, muss der Schädel auf einem Objekt stehen. Hier kommt eine russische Pralinenverpackung zum Einsatz, welche schon seit Jahren für so einen Gebrauch gelagert wird.
+<strong>Falsches Buch</strong> - Um den Bewegungsfreiraum des Kiefers zu gewährleisten, muss der Schädel auf einem Objekt stehen. Hier kommt eine russische Pralinenverpackung zum Einsatz, welche schon seit Jahren für so einen Gebrauch gelagert wird.
   
-Gewichte - Im Buch liegen Gewichte einer analogen Waage, um Stabilität zu Gewährleisten. Ein positiver Nebeneffekt ist auch hier die Diebstahlprävention.
+<strong>Gewichte</strong> - Im Buch liegen Gewichte einer analogen Waage, um Stabilität zu Gewährleisten. Ein positiver Nebeneffekt ist auch hier die Diebstahlprävention.
   
-Magnetschnäpper - Die Schädeldecke ist vom Hauptschädel trennbar und liegt im geschlossenen Zustand nur mit den dünnen Rändern auf. Der Magnetschnäpper hält alles am Platz und ist ebenfalls zur Prävention von Diebstahl da.
+<strong>Magnetschnäpper</strong> - Die Schädeldecke ist vom Hauptschädel trennbar und liegt im geschlossenen Zustand nur mit den dünnen Rändern auf. Der Magnetschnäpper hält alles am Platz und ist ebenfalls zur Prävention von Diebstahl da.
   
-Druckfehler für Magnetschnäpper - Ein Plastikteil eines vorherigen, fehlerhaften Druckprojektes dient als Unterlage für den Magnetschnäpper, welcher sich im 
+<strong>Druckfehler für Magnetschnäpper</strong> - Ein Plastikteil eines vorherigen, fehlerhaften Druckprojektes dient als Unterlage für den Magnetschnäpper, welcher sich im 
 Fundus eines jeden Heimwerkers befindet.
   
-Steine für Augen - Damit die Augen nicht sofort als LEDs identifiziert werden können, haben wir Plastiksteine aus eigener Bastelsammlung darauf geklebt.
+<strong>Steine für Augen</strong> - Damit die Augen nicht sofort als LEDs identifiziert werden können, haben wir Plastiksteine aus eigener Bastelsammlung darauf geklebt.
   
-Holzspieße - Sie bringen Stabilität in Augen und Buch und in jedem Haushalt zu finden.
+<strong>Holzspieße</strong> - Sie bringen Stabilität in Augen und Buch und in jedem Haushalt zu finden.
   
-Schwarzes Ducktape - Neben der Befestigung von Kabelverbindungen und Hardware dient dieses auch als Hülle für das Netzteil.
+<strong>Schwarzes Ducktape</strong> - Neben der Befestigung von Kabelverbindungen und Hardware dient dieses auch als Hülle für das Netzteil.
   
-Tesafilm - Genau wie das Ducktape dichtet es wenige Kabelverbindungen ab, ist aber schlechter für diesen Anwendungszweck geeignet. 
+<strong>Tesafilm</strong> - Genau wie das Ducktape dichtet es wenige Kabelverbindungen ab, ist aber schlechter für diesen Anwendungszweck geeignet. 
   
-Malertape - Für den Fall, dass ein Objekt kaputt geht, soll es schnell und einfach ausgebaut werden können. Arduino und DFPlayer haben deshalb einen Rahmen aus Heißklebe, mit welchem sie am Platz gehalten werden. Das Malertape schützt die Technikgeräte vor der Klebe. Zusätzlich wurde es zur Erkennbarkeit der mit dem Netzteil verbundenen Kabel genutzt.
+<strong>Malertape</strong> - Für den Fall, dass ein Objekt kaputt geht, soll es schnell und einfach ausgebaut werden können. Arduino und DFPlayer haben deshalb einen Rahmen aus Heißklebe, mit welchem sie am Platz gehalten werden. Das Malertape schützt die Technikgeräte vor der Klebe. Zusätzlich wurde es zur Erkennbarkeit der mit dem Netzteil verbundenen Kabel genutzt.
   
-Heisskleber - Der beste Freund eines jeden Bastlers ist nicht leitfähig, ist einfach verform und korrigierbar, trocknet zügig und hat ein hohes Volumen. Fast alles wurde so verklebt, Kabelverbindungen damit gedichtet und auch der Rahmen für Arduino und DFPlayer wurde damit geschaffen.
+<strong>Heisskleber</strong> - Der beste Freund eines jeden Bastlers ist nicht leitfähig, ist einfach verform und korrigierbar, trocknet zügig und hat ein hohes Volumen. Fast alles wurde so verklebt, Kabelverbindungen damit gedichtet und auch der Rahmen für Arduino und DFPlayer wurde damit geschaffen.
   
-Draht - Mit seiner guten Stabilität und schönen Flexibilität hält er den Lautsprecher am Platz.
+<strong>Draht</strong> - Mit seiner guten Stabilität und schönen Flexibilität hält er den Lautsprecher am Platz.
   
-Faden - Der verbaute Faden strukturiert die vielen Kabel im Kopf.
+<strong>Faden</strong> - Der verbaute Faden strukturiert die vielen Kabel im Kopf.
   
-Papier - Papier hat keinen weiteren Sinn für den Schädel, doch wird zur Vollständigkeit mit aufgeführt. Es wurde zum Kommentieren von Verbindungen im Schädel gebraucht.
+<strong>Papier</strong> - Papier hat keinen weiteren Sinn für den Schädel, doch wird zur Vollständigkeit mit aufgeführt. Es wurde zum Kommentieren von Verbindungen im Schädel gebraucht.
   
 <h2 id="Wahl der Software">Wahl der Software</h2>
  
-Arduino IDE - Es ist das offizielle Programm zum Programmieren eines Arduinos und kostenlos nutzbar.
+<strong>Arduino IDE</strong> - Es ist das offizielle Programm zum Programmieren eines Arduinos und kostenlos nutzbar.
   
-GitHub - Der webbasierte Dienst hilft Entwickeln, Code auszutauschen und Projekte im Internet vorzustellen.
+<strong>GitHub</strong> - Der webbasierte Dienst hilft Entwickeln, Code auszutauschen und Projekte im Internet vorzustellen.
   
-Synology Drive - Das Programm verwandelt einen NAS zu einer privaten Cloud, in welcher jegliche Dokumente und Dateien gespeichert sind. 
+<strong>Synology Drive</strong> - Das Programm verwandelt einen NAS zu einer privaten Cloud, in welcher jegliche Dokumente und Dateien gespeichert sind. 
   
-GoodNotes5 - Diese App zur Erstellung von handgeschriebenen Notizen wird von beiden im Schulalltag und dementsprechend auch für das Projekt verwendet. Neben ersten Skizzen entsteht auch der Schaltplan in diesem Programm.
+<strong>GoodNotes5</strong> - Diese App zur Erstellung von handgeschriebenen Notizen wird von beiden im Schulalltag und dementsprechend auch für das Projekt verwendet. Neben ersten Skizzen entsteht auch der Schaltplan in diesem Programm.
   
-Procreate - Mit Hilfe der Zeichen-App entstehen Skizzen.
+<strong>Procreate</strong> - Mit Hilfe der Zeichen-App entstehen Skizzen.
   
-Pages - Das auf iOS, MacOS und iPadOS vorinstallierte Tool zum Erstellen von Textdokumenten schafft Überblick über die verwendeten Anschlüsse am Arduino.
+<strong>Pages</strong> - Das auf iOS, MacOS und iPadOS vorinstallierte Tool zum Erstellen von Textdokumenten schafft Überblick über die verwendeten Anschlüsse am Arduino.
   
-Blender - Mit diesem open-source Programm zur Erstellung von 3D Modellen wird der Schädel modelliert.
+<strong>Blender</strong> - Mit diesem open-source Programm zur Erstellung von 3D Modellen wird der Schädel modelliert.
   
-Ultimaker Cura - Das Programm wandelt das 3D Modell in den für den Drucker auslesbaren G-Code um. Dieser Slicer ist ebenfalls open-source und kostenlos.
+<strong>Ultimaker Cura</strong> - Das Programm wandelt das 3D Modell in den für den Drucker auslesbaren G-Code um. Dieser Slicer ist ebenfalls open-source und kostenlos.
   
-Logic Pro X - Mit der Digital Audio Workstation von Apple werden die Tonaufnahmen getätigt. 
+<strong>Logic Pro X</strong>- Mit der Digital Audio Workstation von Apple werden die Tonaufnahmen getätigt. 
   
   <h1><bold>Entwicklung</bold></h1>
   <h2 id="Stundenprotokoll">Stundenprotokoll</h2>
@@ -493,6 +495,5 @@ Alle Quellen wurden erfolgreich am 13.Dezember 2022 um 19.38 Uhr abgerufen.
   
 Hiermit bestätigen wir, Alicia Gärtner & Rosalie Muchow, dass wir die vorliegende Arbeit selbstständig verfasst und keine anderen als die angegebenen Hilfsmittel benutzt haben. Die Stellen der Arbeit, die dem Wortlaut oder dem Sinn nach anderen Werken (dazu zählen auch Internetquellen) entnommen sind, wurden unter Angabe der Quelle kenntlich gemacht.
 
-<strong>fetter Text</strong>.
 
 <h3><a href="#oben">Zurück zur Navigation</a></h3>
