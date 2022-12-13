@@ -420,8 +420,11 @@ Die 32 Sprüche bestehen mit 21 aufgenommenen Tonspuren größtenteils aus zufä
   
   <h2 id="Besucherreaktionen an Halloween">Besucherreaktionen an Halloween</h2>
   
-Zur Freunde des Teams hat der Schädel großes Erstaunen sowie Begeisterung im Publikum ausgelöst. Die Menschen standen mit Faszination vor dem Projekt und haben mit Freunde gespendet. Sichtbar ist das auch an der Spendensumme pro Besucher, welche sich zum Vorjahr um 148% steigern konnte. Damit konnte das Projekt des neuen Spendenschädels den Spendenrekord des Halloweenhaus Schmalenbeck brechen. Wie geplant konnte der lebendig wirkende und gut sichtbare Schädel die Besucher zum Spenden animieren. Durch das helle, leuchtende Design schafft er seine eigene Ästhetik und wirkt hochwertig verarbeitet.
-Glücklicherweise wurden keine Hinweise auf einen versuchten Diebstahl gefunden, ein Hinweis auf eine geglückte Diebstahlsicherung.
+Zur Freunde des Teams hat der Schädel großes Erstaunen sowie Begeisterung im Publikum ausgelöst.<br>
+  Die Menschen standen mit Faszination vor dem Projekt und haben mit Freunde gespendet. Sichtbar ist das auch an der Spendensumme pro Besucher, welche sich zum Vorjahr um 148% steigern konnte.<br>
+  Damit konnte das Projekt des neuen Spendenschädels den Spendenrekord des Halloweenhaus Schmalenbeck brechen. Wie geplant konnte der lebendig wirkende und gut sichtbare Schädel die Besucher zum Spenden animieren.<br>
+  Durch das helle, leuchtende Design schafft er seine eigene Ästhetik und wirkt hochwertig verarbeitet.
+Glücklicherweise wurden keine Hinweise auf einen versuchten Diebstahl gefunden, ein Hinweis auf eine geglückte Diebstahlsicherung.<br>
 Trotz Hochskalierung der Größe musste der Kopf an Halloween geleert werden, weshalb in Zukunft ein Loch zwischen Schädelboden und Buch entstehen soll.
   
   <h2 id="Technische Evaluation">Technische Evaluation</h2>
