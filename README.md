@@ -363,11 +363,11 @@ In diesem Monat wird kontinuierlich, kleinschrittig und fast ausschlie√ülich au√
   <summary>Impressionen des Baus</summary>
   
   ![](IMG_4052.jpg)
-  ![](IMG_
-  ![](IMG_
-  ![](IMG_
-  ![](IMG_
-  ![](IMG_
+  ![](IMG_0886.jpeg)
+  ![](IMG_0899.jpeg)
+  ![](IMG_0900.jpeg)
+  ![](IMG_0902.jpeg)
+  ![](IMG_0906.jpeg)
   
   </details>
   
