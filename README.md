@@ -535,6 +535,8 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
 - https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/<br>
 - https://docplayer.org/176475379-Mp3-player-mit-dfplayer-mini.html<br>
 - https://www.theamplituhedron.com/articles/How-to-use-DFRobot-DFPlayer-Mini-Serial-MP3-Player-with-Arduino/<br>
+- https://starthardware.org/arduino-programmieren/<br>
+- https://starthardware.org/arduino-programmieren/<br>
  
   
   <h3>Schaltplan</h3>
@@ -561,11 +563,14 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
   - https://www.dfrobot.com/product-1121.html<br>
   - https://de.wikipedia.org/wiki/Lautsprecher<br>
   - https://de.wikipedia.org/wiki/Logic_Pro<br>
+  - https://www.conrad.de/de/ratgeber/entwicklungskits-bausaetze/arduino.html#aufbau<br>
   
   <h2>Software</h2>
   - https://docs.arduino.cc/learn/starting-guide/the-arduino-software-ide<br>
   - https://kinsta.com/de/wissensdatenbank/was-ist-github/<br>
-  
+  - https://docs.arduino.cc/software/ide-v1/tutorials/arduino-ide-v1-basics<br>
+  - https://www.arduino.cc/en/Guide<br>
+  - https://docs.arduino.cc/software/ide-v1/tutorials/arduino-ide-v1-basics<br>
   <h2>Persönlichkeit</h2>
   - https://pixars-coco.fandom.com/wiki/H%C3%A9ctor_Rivera<br>
   - https://www.viversum.de/online-magazin/lotusblume-bedeutung<br>
