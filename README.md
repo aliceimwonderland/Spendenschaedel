@@ -352,6 +352,13 @@ Nach langer Fehlersuche ist die Lösung, dass die Dateien auf der SD Karte fehle
   Beide arbeiten an der Projektseite. Alicia kümmert sich dabei um das einfügen der vorher von Rosalie zuhause ausgesuchten Bilder. <br>
   Rosalie überarbeitet Texte und den visuellen Aufbau der Seite.
   
+  <h3>
+ <bold>19.Stunde (15.12.2022)</bold>
+ 
+ </h3>
+ 
+ 
+  
   <h2 id="Code">Code</h2>
   
 Der Spendenschädel wird mit dem Programm Arduiono IDE programmiert. Der Code ist in drei Teile gegliedert. In dem ersten Teil legt man die "Bausteine" fest, welche für den Code benötigt werden. In unserem Fall wird neben den normalen Libraries (SoftwareSerial und Servo) auch die Library für einen DFPlayer eingebaut. Als nächstes werden kürzere Namen für eben genannte Libraries festgelegt, damit man im verlaufe der Programmierung nicht so viel schreiben muss. Zudem werden bestimmte Werte definiert. Die Servos werden, ihem Zweck nach, benannt und für die beiden Augen eine "const int" festgelegt. Dieser sorgt dafür, dass, wenn sich der Pin für die Augen ändern sollte, man nur an dieser Stelle Überarbeitungen vornehmen muss.
@@ -373,6 +380,8 @@ Im nächsten Schritt sind die Bewegungen des Kiefers angelegt. Diese Bewegung is
 Der letzte Teil des Codes besteht aus den Steuerungen für die beiden Augen des Schädels. Diese Bewegung wird, wie zuvor schon die des Kiefers, zufällig gesteuert. Außerdem sind die Augen so programmiert, dass diese durchgehend leuchten.
 
 ![](codeloop3.png)
+
+Über den Link https://youtu.be/eCsobQ-A5iw kann man den Spendenschädel auf YouTube in Aktion sehen.
   
   <h2 id="Bau- und Schaltplan">Bau- und Schaltplan</h2>
   
