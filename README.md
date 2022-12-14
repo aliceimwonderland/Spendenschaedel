@@ -352,7 +352,12 @@ Der Bau des Schädels beginnt Anfang Oktober und wird am 29.10.22 mit der Instal
 In diesem Monat wird kontinuierlich, kleinschrittig und fast ausschließlich außerhalb der Unterrichtszeit gearbeitet.<br>
   Damit ist er kein Teil des Stundenprotokolls und nicht täglich dokumentiert. Der Fortschritt kann mit kleinen Einblicken auf dem Instagramkanal des Halloweenhaus Schmalenbeck verfolgt werden.<br>
   
-  ![](IMG_4052)
+ <details>
+  <summary>Impressionen des Baus</summary>
+  
+  ![](IMG_4052.jpeg)
+  
+  </details>
   
   Da solch ein Projekt Neuland ist, wird der Baurozess mit einfachen Bauelementen begonnen.<br>
   In diesem Fall ist das der Verbau der LEDs, da ein einfaches anschließen an den Arduino zeigt, ob alles funktioniert.<br>
