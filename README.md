@@ -472,7 +472,10 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
   - https://www.makerelectronico.com/wp-content/uploads/2017/06/DFplayer-minireproductor-mp3-3-1.jpg<br> 
  
   <h3>GitHub</h3>
-  - Inspiration zum Aufbau der Projektseite
+  - https://github.com/simonrettmann/Projektseite
+  - https://github.com/simonrettmann/Stundenprotokolle
+  - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+  - https://de.wikihow.com/Mit-HTML-fett-gedruckten-Text-erzeugen
   
   <h3>Gamification</h3>
   - https://wirtschaftslexikon.gabler.de/definition/gamification-53874<br>
