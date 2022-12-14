@@ -362,7 +362,7 @@ Der zweite Teil wird Setup genannt. In diesem Teil wird das programmiert, was nu
 
 ![](codesetup.png)
 
-Der letzte Teil des Codes ist der längste Teil. Wie der Name schon sagt "Void Loop", wird der Code aus diesem Teil in einem Loop immer weiderholt. Zuerst wird festgelegt, aus welchem Pin der Sensorwert für den Münzeinwurf ausgelesen werden soll. Anschließend wird die Länge des Audiointervalls festgelegt, also wann der nächste Track abgespielt werden soll.
+Der letzte Teil des Codes ist der längste Teil. Wie der Name schon sagt "Void Loop", wird der Code aus diesem Teil in einem Loop immer weiderholt. Zuerst wird festgelegt, aus welchem Pin der Sensorwert für den Münzeinwurf ausgelesen werden soll. Anschließend wird die Länge des Audiointervalls festgelegt, also wann der nächste Track abgespielt werden soll. Zudem wird festgelegt, dass die Audiodateien zufällig abgespielt werden.
 
 ![](codeloop1.png)
 
