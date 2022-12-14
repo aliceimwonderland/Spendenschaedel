@@ -25,29 +25,33 @@
   
   <h2 id="Ideenfindung">Ideenfindung</h2><br>
   
-Die Gestalter des Projektes, Alicia Gärtner und Rosalie Muchow, sind beide Teammitglieder des Halloweenhaus Schmalenbeck. In dem seit 10 Jahren stetig wachsenden, interdisziplinären & jungen Team bekommen beide einen vielfältigen Eindruck in den Themenbereichen Show- und Bühnendesign, Veranstaltungstechnik oder dem Bau von Audio Animatronics. Die Begeisterung für Audio Animatronics wurde neben dem Halloweenhaus auch bei gemeinsamen Freizeitparkbesuchen geformt. Besonders die unpräzisen 
-Bewegungen günstiger Animatronics gefällt dem Duo gar nicht. Schnell wurde den Freunden klar, dass dieses Projekt eine hervorragende Möglichkeit ist, das Halloweenhaus mit einer technischen Neuheit zu bereichern.<br>
+Die Gestalter des Projektes, Alicia Gärtner und Rosalie Muchow, sind beide Teammitglieder des <strong>Halloweenhaus Schmalenbeck</strong>.<br>
+  In dem seit 10 Jahren stetig wachsenden, interdisziplinären & jungen Team bekommen beide einen vielfältigen Eindruck in den Themenbereichen Show- und Bühnendesign, Veranstaltungstechnik oder dem Bau von Audio Animatronics. Die Begeisterung für Audio Animatronics wurde neben dem Halloweenhaus auch bei gemeinsamen Freizeitparkbesuchen geformt. Besonders die unpräzisen 
+Bewegungen günstiger Animatronics gefällt dem Duo gar nicht.<br>
+  Schnell wurde den Freunden klar, dass dieses Projekt eine hervorragende Möglichkeit ist, das Halloweenhaus mit einer technischen Neuheit zu bereichern.<br>
 Bei einem kurzen Brainstorming Prozess erinnert sich das Team an den seit 2016 genutzten Spendenschädel, welchen Rosalie als unästhetisch und unauffällig empfindet. Zusätzlich ist dieser durch das Loch am Boden sehr unsicher gegen Diebstahl und für die steigenden Spendengelder zu klein. An diesem Punkt beschließt das Team, eine neue Version des Schädels zu bauen.<br> 
 Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling, welche „Papier hier“ rufen (https://www.youtube.com/watch?v=u1g2USFuu3Y) und sich nach dem erfolgreichen Einwurf bedanken, wird ein Konzept entworfen, welches alle Probleme des alten Schädels eliminieren soll. 
 
 
   <h2 id="Konzeption">Konzeption</h2><br>
   
-Der Spendenschädel ist eine interaktive Spendenbox in Form eines Schädels.<br>
- Dieser hat eine eigene Persönlichkeit und wirkt durch seine sich bewegenden Augen lebendig. Karl-Leopold fragt mit seinem beweglichen Kiefer in zufälligen Abständen nach Spenden oder erzählt Teile seiner Lebensgeschichte.<br> 
-Wenn ein Besucher Geld durch einen Münzschlitz im Kopf wirft, bedankt sich der Schädel mit einem zufälligen Spruch, sodass der Mensch animiert wird, mehr Geld zu spenden. Damit der Schädel nicht übersehen wird, ist er ansprechend gestaltet und mit LEDs in Augen Kopf ausgestattet. Das Konstrukt aus Schädel, dem darunterstellenden Buch und Netzteil ist per Kabel mit einer Stromquelle verbunden. In Kombination mit einem Gesamtgewicht von über 1,8kg und einer mit Magneten und Kabel gesichteten Schädeldecke ist die Gefahr von einem Diebstahl deutlich geringer als in den vergangenen Jahren. <br>
+Der Spendenschädel ist eine <strong>interaktive Spendenbox in Form eines Schädels</strong>.<br>
+ Dieser hat eine <strong>eigene Persönlichkeit</strong> und wirkt durch seine sich <strong>bewegenden Augen</strong> lebendig. Karl-Leopold fragt mit seinem <strong>beweglichen Kiefer</strong> in zufälligen Abständen nach Spenden oder erzählt Teile seiner Lebensgeschichte.<br> 
+  
+Wenn ein Besucher Geld durch einen Münzschlitz im Kopf wirft, <strong>bedankt</strong> sich der Schädel mit einem zufälligen Spruch, sodass der Mensch animiert wird, mehr Geld zu spenden. Damit der Schädel nicht übersehen wird, ist er <strong>ansprechend gestaltet</strong> und mit <strong>LEDs</strong> in Augen Kopf ausgestattet. Das Konstrukt aus Schädel, dem darunterstellenden Buch und Netzteil ist per Kabel mit einer Stromquelle verbunden. In Kombination mit einem Gesamtgewicht von über 1,8kg und einer mit Magneten und Kabel gesichteten Schädeldecke ist die <strong>Gefahr von einem Diebstahl deutlich geringer</strong> als in den vergangenen Jahren. <br>
   
 <details>
   <summary>Persönlichkeit des Schädels</summary>
-  Der fiktive Charakter des Schädels ist der von Héctor Rivera (Deuteragonist aus Pixar’s Coco) inspirierte Künstler Karl-Leopold.<br>
-  Er lebte zwischen 1813 und 1834, bis er tragisch durch den Gebrauch von giftiger Farbe verstarb. Um Geld zu sparen, nutzt er sein Gesicht als Leinwand, auch viele Jahre nach seinem Tod. Wie er zu seinem Status als lebendiger Schädel kam, weiß er selber nicht, doch durch seine sarkastische Art wird er von den Menschen an Halloween akzeptiert.
+  Der fiktive Charakter des Schädels ist der von Héctor Rivera (Deuteragonist aus Pixar’s Coco) inspirierte Künstler <strong>Karl-Leopold</strong>.<br>
+  Er lebte zwischen 1813 und 1834, bis er tragisch durch den Gebrauch von giftiger Farbe verstarb.<br> 
+  Um Geld zu sparen, nutzt er sein Gesicht als Leinwand, auch viele Jahre nach seinem Tod. Wie er zu seinem Status als lebendiger Schädel kam, weiß er selber nicht, doch durch seine sarkastische Art wird er von den Menschen an Halloween akzeptiert.
 </details>
   
 <details>
   <summary>Das Halloweenhaus Schmalenbeck</summary>
-  Das junge Team des Halloweenhaus Schmalenbeck lässt Dekorationen, Musik, Lichtdesign, Informatik, Schauspiel, Robotik, Film und viele weitere Fähigkeiten zusammentreffen, um jährlich an Halloween eine etwa 5-minütige, interaktive Show zu gestalten.Der Fokus der Show ist ein familienfreundlicher Wow-Effekt, welcher unteranderem durch selbstkomponierte Musik, eigens erbauten Animatronics, aufwendigen Lichtinstallationen, Projektionen und Soundsystemen, Kurzfilmen und einem kostenlosen Eintritt erreicht wird.<br>
-  Seit 2012 wachsen Team und Besucherzahlen stetig, sodass an Halloween über 500 Menschen das sonst unscheinbare Haus im Dorf besuchen. 
-2022 gelang dem Haus der Durchbruch im deutschen Fernsehen. Mit einem Fernsehbeitrag von SAT.1, ständig wiederholten Radiointerviews bei NDR2, dem Hamburger Abendblatt, der SHZ, unzähligen Websites, mehreren Beiträgen im NDR und darunter sogar einer Liveschalte wurde das Haus auch über den norddeutschen Grenzen bekannt.
+  Das junge Team des Halloweenhaus Schmalenbeck lässt <strong>Dekorationen, Musik, Lichtdesign, Informatik, Schauspiel, Robotik, Film</strong> und viele weitere Fähigkeiten zusammentreffen, um jährlich an Halloween eine etwa <strong>5-minütige, interaktive Show</strong> zu gestalten. Der Fokus der Show ist ein <strong>familienfreundlicher Wow-Effekt</strong>, welcher unteranderem durch <br>selbstkomponierte Musik</strong>, eigens erbauten <strong>Animatronics</strong>, <strong>aufwendigen Lichtinstallationen, Projektionen und Soundsystemen, Kurzfilmen</strong> und einem <strong>kostenlosen Eintritt erreicht wird.<br>
+  Seit 2012 wachsen Team und Besucherzahlen stetig, sodass an Halloween <strong>über 500 Menschen</strong> das sonst unscheinbare Haus im Dorf besuchen. 
+2022 gelang dem Haus der Durchbruch im <strong>deutschen Fernsehen</strong>. Mit einem <strong>Fernsehbeitrag von SAT.1</strong>, ständig wiederholten <strong>Radiointerviews bei NDR2</strong>, dem <strong>Hamburger Abendblatt</strong>, der <strong>SHZ</strong>, <strong>unzähligen Websites</strong>, mehreren Beiträgen im <strong>NDR</strong> und darunter sogar einer <strong>Liveschalte</strong> wurde das Haus auch <strong>über den norddeutschen Grenzen bekannt</strong>.
 </details>
 
   <details>
