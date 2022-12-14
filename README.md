@@ -512,7 +512,7 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
   - https://www.viversum.de/online-magazin/lotusblume-bedeutung<br>
   - https://player.hu/uploads/2017/11/coco-hector.jpg<br>
   
-  <h2>HWHS</h2>
+  <h2>Halloweenhaus Schmalenbeck</h2>
   - https://www.halloweenhaus-schmalenbeck.de/<br>
   
   <h2>Multimediaproduktion</h2>
