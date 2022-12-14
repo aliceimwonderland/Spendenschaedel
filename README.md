@@ -1,4 +1,4 @@
-# Der Spendenschädel
+ Der Spendenschädel
 
 ![](IMG_0783.jpeg)
 
@@ -351,7 +351,28 @@ Nach langer Fehlersuche ist die Lösung, dass die Dateien auf der SD Karte fehle
   
   Beide arbeiten an der Projektseite. Alicia kümmert sich dabei um das einfügen der vorher von Rosalie zuhause ausgesuchten Bilder. <br>
   Rosalie überarbeitet Texte und den visuellen Aufbau der Seite.
+  
   <h2 id="Code">Code</h2>
+  
+Der Spendenschädel wird mit dem Programm Arduiono IDE programmiert. Der Code ist in drei Teile gegliedert. In dem ersten Teil legt man die "Bausteine" fest, welche für den Code benötigt werden. In unserem Fall wird neben den normalen Libraries (SoftwareSerial und Servo) auch die Library für einen DFPlayer eingebaut. Als nächstes werden kürzere Namen für eben genannte Libraries festgelegt, damit man im verlaufe der Programmierung nicht so viel schreiben muss. Zudem werden bestimmte Werte definiert. Die Servos werden, ihem Zweck nach, benannt und für die beiden Augen eine "const int" festgelegt. Dieser sorgt dafür, dass, wenn sich der Pin für die Augen ändern sollte, man nur an dieser Stelle Überarbeitungen vornehmen muss.
+
+![](code.png)
+
+Der zweite Teil wird Setup genannt. In diesem Teil wird das programmiert, was nur einmal ablaufen soll. In unserem Fall ist das zum Beispiel das starten des DFPlayers und die Regelung der Lautstärke, sowie das Verbinden der einzelnen Servos mit den Pins. Außerdem ist festgelegt, dass, wenn der DFPlayer nicht starten kann, der Code im generellen nicht abläuft.
+
+![](codesetup.png)
+
+Der letzte Teil des Codes ist der längste Teil. Wie der Name schon sagt "Void Loop", wird der Code aus diesem Teil in einem Loop immer weiderholt. Zuerst wird festgelegt, aus welchem Pin der Sensorwert für den Münzeinwurf ausgelesen werden soll. Anschließend wird die Länge des Audiointervalls festgelegt, also wann der nächste Track abgespielt werden soll.
+
+![](codeloop1.png)
+
+Im nächsten Schritt sind die Bewegungen des Kiefers angelegt. Diese Bewegung ist zufällig, nur ein Intervall, also eine Begrenzung der Bewegung, wird festgelegt.
+
+![](codeloop2.png)
+
+Der letzte Teil des Codes besteht aus den Steuerungen für die beiden Augen des Schädels. Diese Bewegung wird, wie zuvor schon die des Kiefers, zufällig gesteuert. Außerdem sind die Augen so programmiert, dass diese durchgehend leuchten.
+
+![](codeloop3.png)
   
   <h2 id="Bau- und Schaltplan">Bau- und Schaltplan</h2>
   
