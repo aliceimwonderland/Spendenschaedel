@@ -155,6 +155,13 @@ Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. 
   ![](74703F7D-FAD9-4B21-8016-8272D528E488.jpeg)
   
   </details>
+  
+  <details>
+  <summary>Impressionen der Stunde</summary>
+  
+  ![](IMG_0168.jpeg)
+  
+  </details>
  
 <h3>
   <bold>2. Stunde (25.08.2022)</bold> 
@@ -355,9 +362,16 @@ In diesem Monat wird kontinuierlich, kleinschrittig und fast ausschließlich au�
  <details>
   <summary>Impressionen des Baus</summary>
   
-  ![](IMG_4052.jpeg)
+  ![](IMG_4052.jpg)
+  ![](IMG_
+  ![](IMG_
+  ![](IMG_
+  ![](IMG_
+  ![](IMG_
   
   </details>
+  
+  ![](IMG_0269.jpeg)
   
   Da solch ein Projekt Neuland ist, wird der Baurozess mit einfachen Bauelementen begonnen.<br>
   In diesem Fall ist das der Verbau der LEDs, da ein einfaches anschließen an den Arduino zeigt, ob alles funktioniert.<br>
@@ -389,6 +403,14 @@ Die Farbe Violett symbolisiert Kreativität und das mystische, beides Kerneigens
   Gold hingegen bildet einen Widerspruch, denn er ist nicht wohlhabend. Doch genau diesen Punkt möchte er mit der Spende ändern.<br>
   Die Perfekt Harmonie von Gleichheit und Gegensatz wird aktiv von seinem Verhalten zerstört. Dadurch kann alleine durch die Farbgebung seine teils böse und sarkastische Art und das Halloweenthema verkörpert werden. Aber natürlich auch seine harmonische, liebevolle Seite.<br>
 Auf seiner Stirn prangt eine Interpretation der Lotusblume, das mythische Gewächs für Transformation. Karl-Leopold transformierte sich vom Lebenden zum Schädel ohne logische Erklärung. Diese Flüchtigkeit wird zusätzlich mit den Symbolen vom Element Luft an Schläfen und Kiefer gezeigt.<br>
+ 
+ <details>
+  <summary>Impressionen vom Wochenende</summary>
+  
+  ![](IMG_0153.jpeg)
+  ![](IMG_0159.jpeg)
+
+  </details>
   
 Die Dabei ausgewählten Zeichen sind von der Live Action Adaptation des Romans „Grandmaster of Demonic Cultivation“ inspiriert. Für Kenner ein erster Hinweis darauf, dass eine Divergenz besteht. Die Symbole sind die Motive der Hauptclans des Protagonisten, welcher von seinem Adoptivbruder (Neunblättriger Lotus) 
 verstoßen und von einem guten Freund (Fließende Wolken) neu aufgenommen wird.<br>
