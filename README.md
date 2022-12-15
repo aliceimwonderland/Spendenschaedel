@@ -485,7 +485,7 @@ Die 32 Sprüche bestehen mit 21 aufgenommenen Tonspuren größtenteils aus zufä
 - Werde ich ein Skelett, wenn ich groß bin? 
     </details>
     
-<details><summary>Dankesworte</summary>
+  <details><summary>Dankesworte</summary>
 - Vielen Dank holde Maid! Es ist mir eine Ehre, euch kennenzulernen.
 - Oha, großer Ehrenmensch!
 - Möge der große, nicht der kleine Otto. Ach was, beide mit dir sein.
@@ -497,8 +497,7 @@ Die 32 Sprüche bestehen mit 21 aufgenommenen Tonspuren größtenteils aus zufä
 - Ich bin vom Unterkiefer bis zum Gehörknöchelchen Entzückt!
 - Ich würde vor Freunde fast in die Luft springen, wenn ich denn nur könnte. Danke!
 - Danke Anke, Schankedön!
-
-</details>
+    </details>
   
   <h1><bold>Evaluation</bold></h1>
   
