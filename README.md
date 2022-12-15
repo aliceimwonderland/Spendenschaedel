@@ -39,6 +39,7 @@ Der Spendenschädel ist eine <strong>interaktive Spendenbox in Form eines Schäd
  Dieser hat eine <strong>eigene Persönlichkeit</strong> und wirkt durch seine sich <strong>bewegenden Augen</strong> lebendig. Karl-Leopold fragt mit seinem <strong>beweglichen Kiefer</strong> in zufälligen Abständen nach Spenden oder erzählt Teile seiner Lebensgeschichte.<br> 
   
 Wenn ein Besucher Geld durch einen Münzschlitz im Kopf wirft, <strong>bedankt</strong> sich der Schädel mit einem zufälligen Spruch, sodass der Mensch animiert wird, mehr Geld zu spenden. Damit der Schädel nicht übersehen wird, ist er <strong>ansprechend gestaltet</strong> und mit <strong>LEDs</strong> in Augen Kopf ausgestattet. Das Konstrukt aus Schädel, dem darunterstellenden Buch und Netzteil ist per Kabel mit einer Stromquelle verbunden. In Kombination mit einem Gesamtgewicht von über 1,8kg und einer mit Magneten und Kabel gesichteten Schädeldecke ist die <strong>Gefahr von einem Diebstahl deutlich geringer</strong> als in den vergangenen Jahren. <br>
+ Das fertige Projekt ist auf YouTube zu sehen: https://youtu.be/yDWinvbCKfo
   
 <details>
   <summary>Persönlichkeit des Schädels</summary>
