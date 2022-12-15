@@ -553,6 +553,10 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
 - https://www.theamplituhedron.com/articles/How-to-use-DFRobot-DFPlayer-Mini-Serial-MP3-Player-with-Arduino/<br>
 - https://starthardware.org/arduino-programmieren/<br>
 - https://starthardware.org/arduino-programmieren/<br>
+- https://www.youtube.com/watch?v=2tE_1RSmXkQ<br>
+- https://www.delphipraxis.net/122145-code-strukturieren-wie-macht-man-es-richtig.html<br>
+- https://studyflix.de/informatik/pseudo-code-und-struktogramme-830<br>
+
  </details>
  
   
@@ -563,10 +567,11 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
 </details>
  
   <details><summary>GitHub</summary>
-- https://github.com/simonrettmann/Projektseite
-- https://github.com/simonrettmann/Stundenprotokolle
-- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-- https://de.wikihow.com/Mit-HTML-fett-gedruckten-Text-erzeugen
+- https://github.com/simonrettmann/Projektseite<br>
+- https://github.com/simonrettmann/Stundenprotokolle<br>
+- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax<br>
+- https://de.wikihow.com/Mit-HTML-fett-gedruckten-Text-erzeugen<br>
+- https://www.youtube.com/watch?v=_PXR34xtpSw<br>
 
 </details>
   
