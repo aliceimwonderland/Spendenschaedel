@@ -295,7 +295,7 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
   
   </h3> 
   
-  Alicia ist den Code durchgegangen und hat ihn auf Fehlerquellen überprüft, da Rosalie muss leider krankheitsbedingt fehlen muss.
+  Alicia ist den Code durchgegangen und hat ihn auf Fehlerquellen überprüft, da Rosalie leider krankheitsbedingt fehlen muss.
   
   
   <h3>
@@ -413,6 +413,12 @@ Der Schaltplan zeigt neben den Verbindungen der einzelnen Elemente auch die
 Kabelfarben und die ungefähre Lage der Objekte im Schädel.<br>
 Zur besseren Orientierung beim Programmieren und einfachen Kontrolle der 
 korrekten Pinbelegung entsteht folgende Tabelle:
+
+<details>
+ <summary>Tabelle</summary>
+ 
+ ![](4A4E4D78-3662-4220-BC8B-C6BD2E74DDE6.jpeg)
+ ![](
   
   <h2 id="Multimediaproduktion">Multimediaproduktion</h2>
   
