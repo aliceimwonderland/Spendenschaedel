@@ -295,7 +295,7 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
   
   </h3> 
   
-  Alicia ist den Code durchgegangen und hat ihn auf Fehlerquellen überprüft, da Rosalie leider krankheitsbedingt fehlen muss.
+  Alicia ist den Code durchgegangen und hat ihn auf Fehlerquellen überprüft, da Rosalie muss leider krankheitsbedingt fehlen muss.
   
   
   <h3>
@@ -357,6 +357,10 @@ Nach langer Fehlersuche ist die Lösung, dass die Dateien auf der SD Karte fehle
  
  </h3>
  
+ Vor der Stunde soll der Schädel an den Strom angeschlossen werden, doch das Kabel vom Netzgerät ist abgefallen. Zu Stundenbeginn wird dieses mit einem Schraubenzieher wieder an Ort und Stelle platziert. Danach wird der Schädel an den Computer angeschlossen, um den theoretisch fertigen Code zu testen, doch der DFPlayer reagiert nicht. <br>
+Im Verlauf der Stunde wird mit dem variieren des Codes der Fehler gesucht. Schlussendlich liegt es an einem Kaputten Kabel, welches kurz ausgetauscht wird.
+Nun funktioniert der Ton, aber der Geldeinwurf nicht.
+ 
  
   
   <h2 id="Code">Code</h2>
@@ -413,12 +417,6 @@ Der Schaltplan zeigt neben den Verbindungen der einzelnen Elemente auch die
 Kabelfarben und die ungefähre Lage der Objekte im Schädel.<br>
 Zur besseren Orientierung beim Programmieren und einfachen Kontrolle der 
 korrekten Pinbelegung entsteht folgende Tabelle:
-
-<details>
- <summary>Tabelle</summary>
- 
- ![](4A4E4D78-3662-4220-BC8B-C6BD2E74DDE6.jpeg)
- ![](
   
   <h2 id="Multimediaproduktion">Multimediaproduktion</h2>
   
