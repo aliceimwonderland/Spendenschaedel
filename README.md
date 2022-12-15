@@ -625,6 +625,7 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
   
 <details><summary>Halloweenhaus Schmalenbeck</summary>
   - https://www.halloweenhaus-schmalenbeck.de/<br>
+  - https://www.sat1regional.de/grusel-und-schrecken-im-halloween-haus-schmalenbeck-in-grosshansdorf/
 
 </details>
   
