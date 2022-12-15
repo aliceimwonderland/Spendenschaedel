@@ -156,12 +156,7 @@ Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. 
   
   </details>
   
-  <details>
-  <summary>Impressionen der Stunde</summary>
-  
-  ![](IMG_0168.jpeg)
-  
-  </details>
+
  
 <h3>
   <bold>2. Stunde (25.08.2022)</bold> 
@@ -272,6 +267,18 @@ Bei einem Treffen am Sonntag wird sich für ein spezifisches Design entscheiden.
   
 Wir haben weitere Sprüche entwickelt und über eine Code-Struktur nachgedacht.
 
+<h3>
+  <bold>8.Stunde (22.09.2022)</bold>
+  </h3>
+  
+  Ne gute Frage ( ｡ •̀ ᴖ •́ ｡ )
+
+<details>
+  <summary>Impressionen der Stunde</summary>
+  
+  ![](IMG_0168.jpeg)
+  
+  </details>
 
    <h3>
   <bold>8. Stunde (06.10.2022)</bold> 
