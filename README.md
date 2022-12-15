@@ -417,6 +417,12 @@ Der Schaltplan zeigt neben den Verbindungen der einzelnen Elemente auch die
 Kabelfarben und die ungefähre Lage der Objekte im Schädel.<br>
 Zur besseren Orientierung beim Programmieren und einfachen Kontrolle der 
 korrekten Pinbelegung entsteht folgende Tabelle:
+
+<details>
+ <summary>Tabelle</summary>
+ 
+ ![](
+ ![](220E6ABC-B56B-4E3A-B573-168699FDFDC9.jpeg)
   
   <h2 id="Multimediaproduktion">Multimediaproduktion</h2>
   
