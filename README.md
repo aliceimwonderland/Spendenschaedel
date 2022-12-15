@@ -609,6 +609,7 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
   - https://pixars-coco.fandom.com/wiki/H%C3%A9ctor_Rivera<br>
   - https://www.viversum.de/online-magazin/lotusblume-bedeutung<br>
   - https://player.hu/uploads/2017/11/coco-hector.jpg<br>
+  - https://de.wikipedia.org/w/index.php?title=1813&oldid=223921932
   
   </details>
   
