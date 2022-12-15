@@ -292,7 +292,8 @@ Rosalie sind beim Bau einige Fehler im Schaltplan aufgefallen, beispielweise feh
   </h3> 
   
  In dieser Stunde überprüfen wir die Hardware auf Fehler und sichern sie für den Transport. So werden beispielsweise Kabel mit DuckTape gesichert. Parallel werden alle zwischenteile des Codes zu einem großen Code zusammengefügt.
-  
+ Dieser ist noch unvollständig und funktioniert nicht komplett. Da Halloween vor der Tür steht entscheidet sich die Gruppe, nur einen Teil des Codes an Halloween zu benutzen.
+ So kann sich der Schädel bei der Spende bedanken und hin und her gucken.
 
 
   <h3>
@@ -300,7 +301,7 @@ Rosalie sind beim Bau einige Fehler im Schaltplan aufgefallen, beispielweise feh
   
   </h3> 
   
-  Alicia ist den Code durchgegangen und hat ihn auf Fehlerquellen überprüft, da Rosalie muss leider krankheitsbedingt fehlen muss.
+  Alicia ist den ganzen Code durchgegangen und hat ihn auf Fehlerquellen überprüft, da Rosalie leider krankheitsbedingt fehlen muss.
   
   
   <h3>
