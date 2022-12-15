@@ -423,6 +423,8 @@ korrekten Pinbelegung entsteht folgende Tabelle:
  
  ![](4A4E4D78-3662-4220-BC8B-C6BD2E74DDE6.jpeg)
  ![](220E6ABC-B56B-4E3A-B573-168699FDFDC9.jpeg)
+ 
+   </details>
   
   <h2 id="Multimediaproduktion">Multimediaproduktion</h2>
   
