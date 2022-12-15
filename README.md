@@ -309,7 +309,7 @@ Rosalie sind beim Bau einige Fehler im Schaltplan aufgefallen, beispielweise feh
   
   </h3> 
   
-Der Code funktioniert nicht, weshalb eine Fehlersuche startet. Er war an einer falschen Stelle gespeichert und konnte daher nicht auf die Librarie zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert.<br> 
+Der Code funktioniert nicht, weshalb eine Fehlersuche startet. Er war an einer falschen Stelle gespeichert und konnte daher nicht auf die Library zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert.<br> 
 Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audiodateien falsch war. Diese Fehlermeldung konnte nach einer kurzen Internetrecherche behoben werden. Außerdem wird eine weitere Funktion, die Audiodateien betreffend, eingebaut. Diese werden, sofern kein anderer Befehl vorliegt, alle abgepielt. So muss nicht jede Audiodatei enzeln eingefügt werden.
 
   
@@ -318,7 +318,7 @@ Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audi
   
   </h3> 
   
- In dieser Stunde haben wir ohne Aufsicht gearbeitet. Alicia hat sich wieder mit dem Code beschäftigt. Relativ zum Ende der Stunde ist eine Fehlermeldung aufgetreten. Der fehlerhafte Befel soll dafür sorgen, dass der Servo zufällige Positionen, in festgelegten Grenzbereichen, ansteuert<br>
+ In dieser Stunde haben wir ohne Aufsicht gearbeitet. Alicia hat sich wieder mit dem Code beschäftigt. Relativ zum Ende der Stunde ist eine Fehlermeldung aufgetreten. Der fehlerhafte Befel soll dafür sorgen, dass der Servo zufällige Positionen, in festgelegten Grenzbereichen, ansteuert.<br>
 Rosalie hat sich mit dem Aufbau der Projektseite beschäftigt. 
   
 
@@ -363,8 +363,9 @@ Nach langer Fehlersuche ist die Lösung, dass die Dateien auf der SD Karte fehle
  
  </h3>
  
- Vor der Stunde soll der Schädel an den Strom angeschlossen werden, doch das Kabel vom Netzgerät ist abgefallen. Zu Stundenbeginn wird dieses mit einem Schraubenzieher wieder an Ort und Stelle platziert. Danach wird der Schädel an den Computer angeschlossen, um den theoretisch fertigen Code zu testen, doch der DFPlayer reagiert nicht. <br>
-Im Verlauf der Stunde wird mit dem Variieren des Codes der Fehler gesucht. Schlussendlich liegt es an dem DFPlayer, da er manchmal keine Dateien abspielt. Bei Bewegung funktioniert es teilweise, teilweise aber auch nicht. Rosalie behebt das Problem nach der Schule zuhause.
+ Vor der Stunde soll der Schädel an den Strom angeschlossen werden, doch das Kabel vom Netzgerät ist abgefallen. Zu Stundenbeginn wird dieses mit einem Schraubenzieher wieder an Ort und Stelle platziert. Danach wird der Schädel an den Computer angeschlossen, um den theoretisch fertigen Code zu testen, doch der Ton fehlt. <br>
+Im Verlauf der Stunde wird mit dem Variieren des Codes der Fehler gesucht. Schlussendlich liegt es an dem DFPlayer, da er manchmal keine Dateien abspielt. Bei Bewegung funktioniert es teilweise, teilweise aber auch nicht. Rosalie behebt das Problem nach der Schule zuhause mit neuen Kabeln.<br>
+Ausserdem
  
  
   
