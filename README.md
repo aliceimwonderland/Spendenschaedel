@@ -374,27 +374,243 @@ Nun ist Karl-Leopold, pünktlich zur Abgabe, fertig. Über den restlichen Abend 
   
   <h2 id="Code">Code</h2>
   
-Der Spendenschädel wird mit dem Programm Arduiono IDE programmiert. Der Code ist in drei Teile gegliedert. In dem ersten Teil legt man die "Bausteine" fest, welche für den Code benötigt werden. In unserem Fall wird neben den normalen Libraries (SoftwareSerial und Servo) auch die Library für einen DFPlayer eingebaut. Als nächstes werden kürzere Namen für eben genannte Libraries festgelegt, damit man im verlaufe der Programmierung nicht so viel schreiben muss. Zudem werden bestimmte Werte definiert. Die Servos werden, ihem Zweck nach, benannt und für die beiden Augen eine "const int" festgelegt. Dieser sorgt dafür, dass, wenn sich der Pin für die Augen ändern sollte, man nur an dieser Stelle Überarbeitungen vornehmen muss.
+```C
 
-![](code.png)
+/*
+Spendenschädel Code 2022
+von Alicia Gärtner und Rosalie Muchow
+*/
 
-Der zweite Teil wird Setup genannt. In diesem Teil wird das programmiert, was nur einmal ablaufen soll. In unserem Fall ist das zum Beispiel das starten des DFPlayers und die Regelung der Lautstärke, sowie das Verbinden der einzelnen Servos mit den Pins. Außerdem ist festgelegt, dass, wenn der DFPlayer nicht starten kann, der Code im generellen nicht abläuft.
+//Bibliotheken einbinden
+#include "Arduino.h" 
+#include "SoftwareSerial.h"
+#include "DFRobotDFPlayerMini.h"
+#include <VarSpeedServo.h>
 
-![](codesetup.png)
+//DFPlayer konfigurieren
+SoftwareSerial dfplayerserial(10, 11);
+DFRobotDFPlayerMini mydfplayer;
 
-Der letzte Teil des Codes ist der längste Teil. Wie der Name schon sagt "Void Loop", wird der Code aus diesem Teil in einem Loop immer weiderholt. Zuerst wird festgelegt, aus welchem Pin der Sensorwert für den Münzeinwurf ausgelesen werden soll. Anschließend wird die Länge des Audiointervalls festgelegt, also wann der nächste Track abgespielt werden soll. Zudem wird festgelegt, dass die Audiodateien zufällig abgespielt werden.
+VarSpeedServo auge1servo;  // create servo object to control a servo
+// a maximum of eight servo objects can be created
+VarSpeedServo auge2servo;
+VarSpeedServo mundservo;
 
-![](codeloop1.png)
+//Servos konfigurieren
+const int servoPin1 = 6;  // the digital pin used for the first servo
+const int servoPin2 = 7;  // the digital pin used for the second servo
+const int servoPin3 = 5;  // Mund
 
-Im nächsten Schritt sind die Bewegungen des Kiefers angelegt. Diese Bewegung ist zufällig, nur ein Intervall, also eine Begrenzung der Bewegung, wird festgelegt.
+//Pins für die Augen konfigurieren
+const int Auge1 = 12;
+const int Auge2 = 13;
 
-![](codeloop2.png)
+//Variabeln für Sensorwerte definieren
+int sensorValue0 = analogRead(A0);
+int sensorValue1 = analogRead(A1);
+unsigned long currentMillis = millis();
 
-Der letzte Teil des Codes besteht aus den Steuerungen für die beiden Augen des Schädels. Diese Bewegung wird, wie zuvor schon die des Kiefers, zufällig gesteuert. Außerdem sind die Augen so programmiert, dass diese durchgehend leuchten.
+//Variabeln für Zeitmanagement konfigurieren
+unsigned long previousMillis = 0;
+unsigned long lastplay = 0;
+long interval = 1000;
+long audiointerval = 9000;
 
-![](codeloop3.png)
+//Setup
+void setup() {
+  //LEDs als Ausgänge definieren
+  pinMode(Auge1, OUTPUT);
+  pinMode(Auge2, OUTPUT);
+  //Kommunikation für Debugging starten
+  Serial.begin(9600);
+  dfplayerserial.begin(9600);
 
-Über den Link https://youtu.be/eCsobQ-A5iw kann man den Spendenschädel auf YouTube in Aktion sehen.
+//Fehlermeldung ausgeben, wenn DFPlayer nicht eingerichtet werden kann
+  if (!mydfplayer.begin(dfplayerserial)) {
+    Serial.println(F("Unable to begin dfplayer!"));
+    for (int a = 0; a != 100; a = a + 1) {
+      digitalWrite(Auge1, HIGH);
+      digitalWrite(Auge2, LOW);
+      delay(100);
+      digitalWrite(Auge1, LOW);
+      digitalWrite(Auge2, HIGH);
+      delay(100);
+    }
+  }
+  Serial.println(F("dfplayer online"));
+
+  mydfplayer.setTimeOut(500);
+
+  mydfplayer.volume(30);  // 1-30
+
+  mydfplayer.EQ(DFPLAYER_EQ_NORMAL);
+
+  mydfplayer.outputDevice(DFPLAYER_DEVICE_SD);
+
+//Startsound ausgeben
+  //mydfplayer.play(random(1, 21));
+mydfplayer.playFolder(1, 1);
+
+  delay(5000);
+
+//LEDs und Motoren starten
+  auge1servo.attach(servoPin1);      // attaches the servo on pin 9 to the servo object
+  auge1servo.write(90, 255, false);  // set the intial position of the servo, as fast as possible, run in background
+  auge2servo.attach(servoPin2);      // attaches the servo on pin 9 to the servo object
+  auge2servo.write(90, 255, true);   // set the intial position of the servo, as fast as possible, wait until done
+
+  digitalWrite(Auge1, HIGH);
+  digitalWrite(Auge2, HIGH);
+
+
+  mundservo.attach(servoPin3);
+}
+
+void loop() {
+
+//Fehlermeldung anzeigen, wenn die Schädeldecke fehlt
+//ein nichtangeschlossener Fotosensor führt zu einer dauerhaften Beantspruchung des Dankessatzes
+  while (analogRead(A0) == 0) {
+    digitalWrite(Auge1, HIGH);
+    digitalWrite(Auge2, HIGH);
+    delay(500);
+    digitalWrite(Auge1, LOW);
+    digitalWrite(Auge2, LOW);
+    delay(500);
+  }
+
+
+
+
+
+  //Say random Spruch
+  if (random(100, 1700) == 500) {
+    auge1servo.detach();
+    auge2servo.detach();
+    Serial.println("trigger random");
+
+    int myRandom = random(2, 3);
+    //myRandom = 1;
+    Serial.print("Play Random ");
+    Serial.println(myRandom);
+
+    mydfplayer.playFolder(1, myRandom);
+
+
+    auge1servo.attach(servoPin1);
+    auge2servo.attach(servoPin2);
+
+    for (int a = 0; a != 20; a = a + 1) {
+      Serial.println("forSchleife");
+      mundservo.write(120, random(10, 95));
+      delay(random(100, 200));
+      mundservo.write(180, random(10, 55));
+      delay(random(100, 200));
+    }
+    mundservo.write(100, random(10, 25));
+    delay(1000);
+  }
+
+
+
+
+
+
+
+//Aktualisiere Daten
+  Serial.println("loop");
+  sensorValue0 = analogRead(A0);
+  sensorValue1 = analogRead(A1);
+  currentMillis = millis();
+
+//Bewege die Augen zu einer neuen Position
+  if (currentMillis - previousMillis >= interval) {
+    Serial.println("NewMov");
+    // save the last time you blinked the LED
+
+
+    int eye = random(80, 100);
+    int eyeSpeed = random(1, 10);
+
+    auge1servo.write(eye, eyeSpeed);  // move the servo to 180, fast speed, run background
+    auge2servo.write(eye, eyeSpeed);  // move the servo to 180, fast speed, wait until done
+    mundservo.write(random(100, 120), random(10, 30));
+
+
+    previousMillis = currentMillis;
+  }
+
+//Dankessatz sagen
+  if (sensorValue0 < 800 || sensorValue1 < 800) {
+    Serial.print("Trigger");
+    digitalWrite(Auge1, LOW);
+    digitalWrite(Auge2, LOW);
+
+//Motoren abkoppeln, da die Kommuikation mit dem DFPlayer für die Servos zu lange dauert. Sonst ruckeln sie.
+    auge1servo.detach();
+    auge2servo.detach();
+
+    mydfplayer.playFolder(1, 1);
+
+    auge1servo.attach(servoPin1);
+    auge2servo.attach(servoPin2);
+ 
+    int eye = 90;
+    int eyeSpeed = 200;
+
+    auge1servo.write(eye, eyeSpeed);
+    auge2servo.write(eye, eyeSpeed);
+
+    delay(500);
+    digitalWrite(Auge1, HIGH);
+    digitalWrite(Auge2, HIGH);
+
+//Mundbewegung synchronisiert zur Audio
+    mundservo.write(180, random(70, 155));
+    delay(100);
+    mundservo.write(100, random(10, 95));
+    delay(200);
+    mundservo.write(180, random(10, 55));
+    delay(100);
+    mundservo.write(100, random(10, 95));
+    delay(200);
+    mundservo.write(180, random(10, 55));
+    delay(100);
+    mundservo.write(100, random(10, 95));
+    delay(200);
+    mundservo.write(180, random(10, 55));
+    delay(100);
+    mundservo.write(100, random(10, 95));
+    delay(200);
+    mundservo.write(180, random(10, 55));
+    delay(100);
+    mundservo.write(100, random(10, 95));
+    delay(200);
+    mundservo.write(180, random(10, 55));
+    delay(100);
+    mundservo.write(100, random(10, 95));
+    delay(500);
+    mundservo.write(180, random(50, 95));
+    delay(100);
+    mundservo.write(100, random(10, 95));
+    delay(200);
+    mundservo.write(180, random(10, 55));
+    delay(100);
+    mundservo.write(100, random(10, 95));
+    delay(200);
+    mundservo.write(180, random(10, 55));
+    delay(100);
+    mundservo.write(120, random(10, 95));
+    delay(200);
+    mundservo.write(180, random(10, 55));
+    delay(300);
+    mundservo.write(120, random(10, 55));
+    delay(200);
+  }
+  delay(3);
+}
+
+```
   
   <h2 id="Bau- und Schaltplan">Bau- und Schaltplan</h2>
   
