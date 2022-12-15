@@ -212,7 +212,7 @@ Anschließend halten wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp, e
   </h3>
   
   
-Über das Wochenende haben wir einen Ordner auf Rosalies NAS erstellt, um dort sicher und einfach Daten zu sichern und teilen. Außerdem hat Rosalie mit der Beschaffung der Hardware angefangen und schon erster Elementare Bauteile gesammelt.<br>
+Über das Wochenende haben wir einen Ordner auf Rosalies NAS erstellt, um dort sicher und einfach Daten zu sichern und teilen. Außerdem hat Rosalie mit der Beschaffung der Hardware angefangen und schon erste Elementare Bauteile gesammelt.<br>
 Da Alicia in dieser Stunde leider fehlt, fängt Rosalie alleine an, einen Schaltplan zu erstellen. Der Sinn dabei ist, Fehlbauten zu verhindern und schonmal eine Vorstellung von benötigten Kabeln, Wiederständen und sonstigen Bauteilen zu bekommen.<br>
   In der Stunde kommen netterweise schon erste Hinweise von Klassenkameraden, beispielsweise die benötigten Widerstände an den LEDs.
 
@@ -222,20 +222,18 @@ Da Alicia in dieser Stunde leider fehlt, fängt Rosalie alleine an, einen Schalt
   
   </h3>
   
-  In dieser Stunde haben wir den noch fehlenden Fotowiederstand in die Skizze aufgenommen und diese auf Fehler überprüft. Dank einiger Tipps konnten wir diese finalisieren.
+  In dieser Stunde haben wir den noch fehlenden Fotowiderstand in die Skizze aufgenommen. Danach wurde alles nochmal überprüft und dank einiger Tipps aus der Klasse vorerst finalisiert.
 
   
-Danach haben wir mit dem Programmieren unseres Codes angefangen, welcher eine LED zum leuchten bringen soll. Anschließend haben wir unsere LED mit dem Arduino und diesen wiederrum mit dem Computer verbunden. Dies hat dann auch funktioniert. Als wir es erneut probieren klappt es leider nicht mehr.<br>
-  Der Fehler liegt bei losen Kabeln, welche aus den Pins fallen keine Verbindung mehr herstellen können. Bisher könnten wir das Problem noch nicht lösen und wenden uns erstmal wieder dem Code zu.
 
 <h3>
   <bold>5. Stunde (08.09.2022)</bold>
      </h3>
+     Danach haben wir mit dem Programmieren unseres Codes angefangen, welcher eine LED zum leuchten bringen soll. Anschließend haben wir unsere LED mit dem Arduino und diesen wiederrum mit dem Computer verbunden. Dies hat dann auch funktioniert. Als es erneut probiert wird, klappt es nicht mehr.<br>
+  Der Fehler liegt bei losen Kabeln, welche aus den Pins fallen keine Verbindung mehr herstellen können. Da das Problem nicht in der Schule gelöst werden kann, muss ein Themawechsel stattfinden.
   
-In dieser Stunde haben wir uns mit dem Servo beschäftigt. Wir haben gelernt, wie man mithilfe eines Arduinos den Servo steuern kann und ein Programm dazu geschrieben.<br>
- 
-Außerdem haben wir uns mit dem Schädel befasst und sein grobes Aussehen, sowie seinen Charakter festgelegt. Dieser Charakter legt auch die Sprechweise des Spendenschädels fest.<br>
-  Wir haben uns darauf geeinigt, dass der Schädel Karl-Leopold heißt.
+Es wird das grobe Aussehen, sowie der Charakter des Schädels festgelegt. Dieser Charakter legt auch die Sprechweise des Spendenschädels fest.<br>
+ Außerdem wird sich darauf geeinigt, dass der Schädel Karl-Leopold heißt.
 
  
  
@@ -244,12 +242,13 @@ Außerdem haben wir uns mit dem Schädel befasst und sein grobes Aussehen, sowie
      </h3>
      
      
-Heute haben wir uns näher mit dem Charakter und dem Hintergrund des Spendenschädels beschäftigt. Inspiration ist die Figur Héctor Rivera aus dem Film "Coco". <br>
+Auch in dieser Stunde wird sich näher mit dem Charakter und Hintergrund des Spendenschädels beschäftigt. Inspiration ist die Figur Héctor Rivera aus dem Film "Coco". <br>
 Karl Leopold wurde 1813 geboren und war sein lebenlang ein armer, deutscher Künstler. Da er kaum Geld hatte, nutzte er sein Gesicht als Leinwand.<br>
   Sein Leben endete tragischerweise bei der Ausübung seiner Leidenschaft, da er sich giftige Farbe auf sein Gesicht schmierte.
-Ebenfalls haben wir die Sprüche festgelget, die der Spendenschädel sagen soll.<br>
+Ebenfalls haben wir erste Sprüche festgelget, die der Spendenschädel sagen soll.<br>
 
-Außerdem wir das Programm für die Kieferbewegung geschrieben. Hier taucht zunächst ein Fehler bei dem Upload auf den Arduiono auf. Dieses kann allerdings durch einen anderen Code gelöst werden. Dieser Code wird danach nicht wieder benötigt und taucht daher auch nicht in dem finalen Code auf.
+Danach wird sich dem Servomotor zugewendet. Es wird gelernt, wie man mit Hilfe eines Arduinos den Servo steuern kann und ein erstes Programm für die Kieferbewegung geschrieben.<br>
+Hier taucht zunächst ein Fehler bei dem Upload auf den Arduiono auf. Dieses kann allerdings durch einen Testcode gelöst werden. Dieser Code wird danach nicht wieder benötigt und taucht daher auch nicht im Endprodukt auf.
 
 
 
@@ -265,13 +264,13 @@ Bei einem Treffen am Sonntag wird sich für ein spezifisches Design entscheiden.
   <bold>7.Stunde (19.09.2022)</bold>
   </h3>
   
-Wir haben weitere Sprüche entwickelt und über eine Code-Struktur nachgedacht.
+In der Stunde kommt die kreative Seite für das Erstellen von Sprüchen und Dankesworte zum Einsatz. Danach werden diese tabellarisch sortiert, damit alles eingesprochen werden kann.
 
 <h3>
   <bold>8.Stunde (22.09.2022)</bold>
   </h3>
   
-  Ne gute Frage ( ｡ •̀ ᴖ •́ ｡ )
+Heute wird sich mit der richtigen Struktur von Code befasst und dann auch schon in ersten Anfängen umgesetzt.
 
 <details>
   <summary>Impressionen der Stunde</summary>
@@ -281,24 +280,23 @@ Wir haben weitere Sprüche entwickelt und über eine Code-Struktur nachgedacht.
   </details>
 
    <h3>
-  <bold>8. Stunde (06.10.2022)</bold> 
+  <bold>9. Stunde (06.10.2022)</bold> 
   
   </h3> 
-Alicia beschäftigt sich damit, wie sie mit Hilfe eines Sensorwertes die Audiodateien steuern kann.<br>
-Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan auseinander.
-
+Alicia beschäftigt sich damit, wie sie mit Hilfe eines Sensorwertes den DFPLayer Mini steuern kann.<br>
+Rosalie sind beim Bau einige Fehler im Schaltplan aufgefallen, beispielweise fehlende Widerstände. Deshalb hat sie erneut alles auf Fehler überprüft.
   
   <h3>
-  <bold>9. Stunde (24.10.2022)</bold> 
+  <bold>10. Stunde (24.10.2022)</bold> 
   
   </h3> 
   
- In dieser Stunde überprüfen wir die Hardware auf Fehler und sichern sie für den Transport, zusätzlich wird der Code weiter ausgearbeitet.
+ In dieser Stunde überprüfen wir die Hardware auf Fehler und sichern sie für den Transport. So werden beispielsweise Kabel mit DuckTape gesichert. Parallel werden alle zwischenteile des Codes zu einem großen Code zusammengefügt.
   
 
 
   <h3>
-  <bold>10. Stunde (03.11.2022)</bold> 
+  <bold>11. Stunde (03.11.2022)</bold> 
   
   </h3> 
   
@@ -306,7 +304,7 @@ Rosalie setzt sich weiterhin mit der Hardware und dem dazugehörigen Schaltplan 
   
   
   <h3>
-  <bold>11. Stunde (07.11.2022)</bold> 
+  <bold>12. Stunde (07.11.2022)</bold> 
   
   </h3> 
   
@@ -315,7 +313,7 @@ Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audi
 
   
   <h3>
-  <bold>12. Stunde (14.11.2022)</bold> 
+  <bold>13. Stunde (14.11.2022)</bold> 
   
   </h3> 
   
@@ -325,16 +323,16 @@ Rosalie hat sich mit dem Aufbau der Projektseite beschäftigt.
 
   
   <h3>
-  <bold>13. Stunde (17.11.2022)</bold> 
+  <bold>14. Stunde (17.11.2022)</bold> 
   
   </h3> 
 
 
 Alicia beschäftigt sich weiterhin mit dem Code. Die Fehlermerldung der letzten Stunde konnte gelöst werden. Eine benötigte Bibliothek war nicht installiert. Da diese allerdings auch nicht mehr verfügbar ist, muss der Befehl umgeschrieben werden.<br>
-Rosalie setzt sich bei stundenanfang mit wieder mit dem GitHub Blog außeinander, bis sie Alicia bei der fehlersuche unterstützt.
+Rosalie setzt sich bei stundenanfang mit wieder mit dem GitHub Blog außeinander, bis sie Alicia bei der Fehlersuche unterstützt.
 
 <h3>
-  <bold>14. Stunde (21.11.2022)</bold> 
+  <bold>15. Stunde (21.11.2022)</bold> 
   
   </h3> 
 Der Schädel ist nun theoretisch fertig, doch das Buch beginnt durchzuhängen, weshalb es mit Holz stabilisiert wird.<br>
@@ -344,7 +342,7 @@ Nach langer Fehlersuche ist die Lösung, dass die Dateien auf der SD Karte fehle
   
   
   <h3>
-  <bold>15.& 16. & 17. Stunde (28.11.2022 & 01.12.2022 & 05.12.2022)</bold> 
+  <bold>16. & 17. & 18. Stunde (28.11.2022 & 01.12.2022 & 05.12.2022)</bold> 
   
   </h3> 
   In diesen zwei Wochen fällt der Unterricht aus und auch wir sind beide krank, weshalb jegliche Arbeit von zuhause aus stattfindet. In unserem Fall ist das vorallem die Arbeit an GitHub.
@@ -352,7 +350,7 @@ Nach langer Fehlersuche ist die Lösung, dass die Dateien auf der SD Karte fehle
   
   
   <h3>
-  <bold>18. Stunde (12.12.2022)</bold> 
+  <bold>19. Stunde (12.12.2022)</bold> 
   
   </h3>
   
@@ -360,13 +358,12 @@ Nach langer Fehlersuche ist die Lösung, dass die Dateien auf der SD Karte fehle
   Rosalie überarbeitet Texte und den visuellen Aufbau der Seite.
   
   <h3>
- <bold>19.Stunde (15.12.2022)</bold>
+ <bold>20.Stunde (15.12.2022)</bold>
  
  </h3>
  
  Vor der Stunde soll der Schädel an den Strom angeschlossen werden, doch das Kabel vom Netzgerät ist abgefallen. Zu Stundenbeginn wird dieses mit einem Schraubenzieher wieder an Ort und Stelle platziert. Danach wird der Schädel an den Computer angeschlossen, um den theoretisch fertigen Code zu testen, doch der DFPlayer reagiert nicht. <br>
-Im Verlauf der Stunde wird mit dem variieren des Codes der Fehler gesucht. Schlussendlich liegt es an einem Kaputten Kabel, welches kurz ausgetauscht wird.
-Nun funktioniert der Ton, aber der Geldeinwurf nicht.
+Im Verlauf der Stunde wird mit dem Variieren des Codes der Fehler gesucht. Schlussendlich liegt es an dem DFPlayer, da er manchmal keine Dateien abspielt. Bei Bewegung funktioniert es teilweise, teilweise aber auch nicht. Rosalie behebt das Problem nach der Schule zuhause.
  
  
   
@@ -540,7 +537,7 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
   
   <h1 id="quellen"><bold>Quellen und Eigenständigkeitserklärung</bold></h1>
   
-  <h3>Code</h3>
+<details><summary>Code</summary>
 - https://www.youtube.com/watch?v=GnGv21v7h8s<br>
 - https://blog.robberg.net/wp-content/uploads/2017/10/DFPlayer.jpg<br>
 - https://wolles-elektronikkiste.de/wp-content/uploads/2019/07/UNO_2.jpg<br>
@@ -556,23 +553,30 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
 - https://www.theamplituhedron.com/articles/How-to-use-DFRobot-DFPlayer-Mini-Serial-MP3-Player-with-Arduino/<br>
 - https://starthardware.org/arduino-programmieren/<br>
 - https://starthardware.org/arduino-programmieren/<br>
+ </details>
  
   
-  <h3>Schaltplan</h3>
+<details><summary>Schaltplan</summary>
   - https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_UNO_A06.png<br>
-  - https://www.makerelectronico.com/wp-content/uploads/2017/06/DFplayer-minireproductor-mp3-3-1.jpg<br> 
+  - https://www.makerelectronico.com/wp-content/uploads/2017/06/DFplayer-minireproductor-mp3-3-1.jpg
+
+</details>
  
-  <h3>GitHub</h3>
+  <details><summary>GitHub</summary>
   - https://github.com/simonrettmann/Projektseite
   - https://github.com/simonrettmann/Stundenprotokolle
   - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
   - https://de.wikihow.com/Mit-HTML-fett-gedruckten-Text-erzeugen
+
+</details>
   
-  <h3>Gamification</h3>
+<details><summary>Gamification</summary>
   - https://wirtschaftslexikon.gabler.de/definition/gamification-53874<br>
   - https://de.wikipedia.org/w/index.php?title=Gamification&oldid=227708425<br>
+
+</details>
   
-  <h3>Wahl der Hardware</h3>
+<details><summary>Wahl der Hardware</summary>
   - https://store.arduino.cc/products/arduino-uno-rev3/<br>
   - https://de.wikipedia.org/wiki/Servomotor<br>
   - https://de.wikipedia.org/wiki/Leuchtdiode<br>
@@ -583,8 +587,10 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
   - https://de.wikipedia.org/wiki/Lautsprecher<br>
   - https://de.wikipedia.org/wiki/Logic_Pro<br>
   - https://www.conrad.de/de/ratgeber/entwicklungskits-bausaetze/arduino.html#aufbau<br>
+
+</details>
   
-  <h2>Software</h2>
+<details><summary>Software</summary>
   - https://docs.arduino.cc/learn/starting-guide/the-arduino-software-ide<br>
   - https://kinsta.com/de/wissensdatenbank/was-ist-github/<br>
   - https://docs.arduino.cc/software/ide-v1/tutorials/arduino-ide-v1-basics<br>
@@ -595,16 +601,24 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
   - https://www.viversum.de/online-magazin/lotusblume-bedeutung<br>
   - https://player.hu/uploads/2017/11/coco-hector.jpg<br>
   
-  <h2>Halloweenhaus Schmalenbeck</h2>
-  - https://www.halloweenhaus-schmalenbeck.de/<br>
+  </details>
   
-  <h2>Multimediaproduktion</h2>
+<details><summary>Halloweenhaus Schmalenbeck</summary>
+  - https://www.halloweenhaus-schmalenbeck.de/<br>
+
+</details>
+  
+<details><summary>Multimediaproduktion</summary>
   - https://ais.badische-zeitung.de/piece/0a/5f/36/1e/174011934-h-720.jpg<br>
   - https://modao-zushi.fandom.com/wiki/Yunmeng_Jiang_Clan<br>
   - https://modao-zushi.fandom.com/wiki/Gusu_Lan_Clan<br>
  
-  <h2>Eigenständigkeitserklärung</h2>
+ </details>
+ 
+<details><summary>Eigenständigkeitserklärung</summary>
   - https://www.ats.uni-muenchen.de/studium_lehre/material/eigenstaendigkeit/erklaerung_pdf.pdf<br>
+
+</details>
   
 Alle Quellen wurden erfolgreich am 13.Dezember 2022 um 19.38 Uhr abgerufen.
   
