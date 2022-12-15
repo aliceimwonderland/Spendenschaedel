@@ -596,7 +596,9 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
   - https://docs.arduino.cc/software/ide-v1/tutorials/arduino-ide-v1-basics<br>
   - https://www.arduino.cc/en/Guide<br>
   - https://docs.arduino.cc/software/ide-v1/tutorials/arduino-ide-v1-basics<br>
-  <h2>Persönlichkeit</h2>
+  </details>
+ 
+<details><summary>Persönlichkeit</summary>
   - https://pixars-coco.fandom.com/wiki/H%C3%A9ctor_Rivera<br>
   - https://www.viversum.de/online-magazin/lotusblume-bedeutung<br>
   - https://player.hu/uploads/2017/11/coco-hector.jpg<br>
