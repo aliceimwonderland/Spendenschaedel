@@ -367,7 +367,8 @@ Nach langer Fehlersuche ist die Lösung, dass die Dateien auf der SD Karte fehle
  
  Vor der Stunde soll der Schädel an den Strom angeschlossen werden, doch das Kabel vom Netzgerät ist abgefallen. Zu Stundenbeginn wird dieses mit einem Schraubenzieher wieder an Ort und Stelle platziert. Danach wird der Schädel an den Computer angeschlossen, um den theoretisch fertigen Code zu testen, doch der Ton fehlt. <br>
 Im Verlauf der Stunde wird mit dem Variieren des Codes der Fehler gesucht. Schlussendlich liegt es an dem DFPlayer, da er manchmal keine Dateien abspielt. Bei Bewegung funktioniert es teilweise, teilweise aber auch nicht. Rosalie behebt das Problem nach der Schule zuhause mit neuen Kabeln.<br>
-Ausserdem
+Aufgrund einiger massiver Probleme im Code hat sie die Codestruktur noch massiv verändert. Unteranderem hat sie die Bibliothek wieder eingebaut, die Servos neu programmiert und die Dateien auf der SD-Karte neu benannt. <br>
+Nun ist Karl-Leopold, pünktlich zur Abgabe, fertig. Über den restlichen Abend wird der Feinschliff der Projektseite vorgenommen.
  
  
   
