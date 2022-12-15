@@ -219,7 +219,7 @@ Anschließend halten wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp, e
   
 Über das Wochenende haben wir einen Ordner auf Rosalies NAS erstellt, um dort sicher und einfach Daten zu sichern und teilen. Außerdem hat Rosalie mit der Beschaffung der Hardware angefangen und schon erster Elementare Bauteile gesammelt.<br>
 Da Alicia in dieser Stunde leider fehlt, fängt Rosalie alleine an, einen Schaltplan zu erstellen. Der Sinn dabei ist, Fehlbauten zu verhindern und schonmal eine Vorstellung von benötigten Kabeln, Wiederständen und sonstigen Bauteilen zu bekommen.<br>
-  In der Stunde kommen netterweise schon erste Hinweise von Klassenkameraden, beispielsweise die benötigten Widerstande an den LEDs.
+  In der Stunde kommen netterweise schon erste Hinweise von Klassenkameraden, beispielsweise die benötigten Widerstände an den LEDs.
 
  
  <h3>
@@ -488,6 +488,7 @@ Die 32 Sprüche bestehen mit 21 aufgenommenen Tonspuren größtenteils aus zufä
     </details>
     
   <details><summary>Dankesworte</summary>
+ 
 - Vielen Dank holde Maid! Es ist mir eine Ehre, euch kennenzulernen.
 - Oha, großer Ehrenmensch!
 - Möge der große, nicht der kleine Otto. Ach was, beide mit dir sein.
