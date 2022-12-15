@@ -567,13 +567,13 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
   
 <details><summary>Schaltplan</summary>
 - https://cdn-reichelt.de/bilder/web/xxl_ws/B300/ARDUINO_UNO_A06.png<br>
-- https://www.makerelectronico.com/wp-content/uploads/2017/06/DFplayer-minireproductor-mp3-3-1.jpg
-- https://circuitjournal.com/how-to-use-the-dfplayer-mini-mp3-module-with-an-arduino
-- https://maker.pro/arduino/projects/how-to-use-the-dfmini-player-mp3-module-with-arduino
-- https://starthardware.org/en/dfplayer-mini-mp3-player-for-arduino/
-- https://www.youtube.com/watch?v=P42ICrgAtS4
-- https://learn.sparkfun.com/tutorials/basic-servo-control-for-beginners/all
-- https://nerdytechy.com/how-to-connect-led-to-arduino/
+- https://www.makerelectronico.com/wp-content/uploads/2017/06/DFplayer-minireproductor-mp3-3-1.jpg<br>
+- https://circuitjournal.com/how-to-use-the-dfplayer-mini-mp3-module-with-an-arduino<br>
+- https://maker.pro/arduino/projects/how-to-use-the-dfmini-player-mp3-module-with-arduino<br>
+- https://starthardware.org/en/dfplayer-mini-mp3-player-for-arduino/<br>
+- https://www.youtube.com/watch?v=P42ICrgAtS4<br>
+- https://learn.sparkfun.com/tutorials/basic-servo-control-for-beginners/all<br>
+- https://nerdytechy.com/how-to-connect-led-to-arduino/<br>
  
 </details>
  
