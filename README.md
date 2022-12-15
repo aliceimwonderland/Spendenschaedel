@@ -99,6 +99,8 @@ Fundus eines jeden Heimwerkers befindet.
   
 <strong>Steine für Augen</strong> - Damit die Augen nicht sofort als LEDs identifiziert werden können, sind Plastiksteine aus eigener Bastelsammlung aufgeklebt.
   
+  <strong>Scharnier</strong> - Um den Kiefer zu befestigen, werden Scharniere, also drehbare Gelenke, verwendet.
+  
 <strong>Holzspieße</strong> - Sie bringen Stabilität in Augen und Buch und in jedem Haushalt zu finden.
   
 <strong>Schwarzes Ducktape</strong> - Neben der Befestigung von Kabelverbindungen und Hardware dient dieses auch als Hülle für das Netzteil.
@@ -594,6 +596,7 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
   - https://de.wikipedia.org/wiki/Lautsprecher<br>
   - https://de.wikipedia.org/wiki/Logic_Pro<br>
   - https://www.conrad.de/de/ratgeber/entwicklungskits-bausaetze/arduino.html#aufbau<br>
+ - https://de.wikipedia.org/w/index.php?title=Scharnier&oldid=228795079
 
 </details>
   
