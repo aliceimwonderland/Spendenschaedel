@@ -811,14 +811,14 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
   
 <details><summary>Wahl der Hardware</summary>
   - https://store.arduino.cc/products/arduino-uno-rev3/<br>
-  - https://de.wikipedia.org/wiki/Servomotor<br>
-  - https://de.wikipedia.org/wiki/Leuchtdiode<br>
-  - https://de.wikipedia.org/wiki/Fotowiderstand<br>
+  - https://de.wikipedia.org/wiki/Servomotor](https://de.wikipedia.org/wiki/Servomotor)<br>
+  - https://de.wikipedia.org/w/index.php?title=Leuchtdiode&oldid=228504216<br>
+  - https://de.wikipedia.org/w/index.php?title=Fotowiderstand&oldid=226462261<br>
   - https://www.mymakerstuff.de/2016/04/06/arduino-tutorial-der-lichtsensor/<br>
   - https://starthardware.org/dfplayer-mini-mp3-player-fuer-arduino/<br>
   - https://www.dfrobot.com/product-1121.html<br>
-  - https://de.wikipedia.org/wiki/Lautsprecher<br>
-  - https://de.wikipedia.org/wiki/Logic_Pro<br>
+  - https://de.wikipedia.org/wiki/Lautsprecher](https://de.wikipedia.org/w/index.php?title=Lautsprecher&oldid=228096010)<br>
+  - [https://de.wikipedia.org/wiki/Logic_Pro](https://de.wikipedia.org/w/index.php?title=Logic_Pro&oldid=227065873)<br>
   - https://www.conrad.de/de/ratgeber/entwicklungskits-bausaetze/arduino.html#aufbau<br>
  - https://de.wikipedia.org/w/index.php?title=Scharnier&oldid=228795079
 
