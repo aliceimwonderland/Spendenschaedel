@@ -563,16 +563,16 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
 </details>
  
   <details><summary>GitHub</summary>
-  - https://github.com/simonrettmann/Projektseite
-  - https://github.com/simonrettmann/Stundenprotokolle
-  - https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-  - https://de.wikihow.com/Mit-HTML-fett-gedruckten-Text-erzeugen
+- https://github.com/simonrettmann/Projektseite
+- https://github.com/simonrettmann/Stundenprotokolle
+- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+- https://de.wikihow.com/Mit-HTML-fett-gedruckten-Text-erzeugen
 
 </details>
   
 <details><summary>Gamification</summary>
-  - https://wirtschaftslexikon.gabler.de/definition/gamification-53874<br>
-  - https://de.wikipedia.org/w/index.php?title=Gamification&oldid=227708425<br>
+- https://wirtschaftslexikon.gabler.de/definition/gamification-53874<br>
+- https://de.wikipedia.org/w/index.php?title=Gamification&oldid=227708425<br>
 
 </details>
   
