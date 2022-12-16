@@ -746,6 +746,8 @@ Zur Freunde des Teams hat der Schädel großes Erstaunen sowie Begeisterung im P
   Durch das helle, leuchtende Design schafft er seine eigene Ästhetik und wirkt hochwertig verarbeitet.
 Glücklicherweise wurden keine Hinweise auf einen versuchten Diebstahl gefunden, ein Hinweis auf eine geglückte Diebstahlsicherung.<br>
 Trotz Hochskalierung der Größe musste der Kopf an Halloween geleert werden, weshalb in Zukunft ein Loch zwischen Schädelboden und Buch entstehen soll.
+
+![](6C7A7D2C-381D-43E4-BA2B-98D904583C95.jpeg)
   
   <h2 id="Technische Evaluation">Technische Evaluation</h2>
   
