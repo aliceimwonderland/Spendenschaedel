@@ -148,11 +148,11 @@ Fundus eines jeden Heimwerkers befindet.
   
   </h3>
   
-Zusammen erstellen wir unsere GitHub Accounts, sowie unsere Projektseite. Anschließend machen wir uns gedanken über ein mögliches Projekt.<br>
-  Unsere erste Idee ist, eine beleuchtete Stadt zu konstruieren, dessen LEDs über ein LCD Display einzeln ansteuerbar sein sollen.<br> 
+Zusammen erstellen wir unsere GitHub Accounts, sowie unsere Projektseite. Anschließend machen wir uns Gedanken über ein mögliches Projekt.<br>
+Die erste Idee ist, eine beleuchtete Stadt zu konstruieren, dessen LEDs über ein LCD Display einzeln ansteuerbar sein sollen.<br> 
 Zusätzlich sollen mit einprogrammierten Routinen kleine Lichtshows möglich gemacht werden. Das Projekt soll selbstständig Tag und Nacht unterscheiden und die Routinen demensprechend anpassen.<br>
 Da das Projekt nicht dem angemessenen Programmierumfang enspricht wurde die Idee verworfen.<br>
-Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. Dieser soll mit einer Grundfrequenz und variablen Obertönen Töne generieren, sodass verschiedenste Klänge synthetisiert und als mp3 exportiert werden können. 
+Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. Dieser soll mit einer Grundfrequenz und variablen Obertönen Töne generieren, sodass verschiedenste Klänge synthetisiert und als mp3 exportiert werden können. Die Idee dahinter kommt von einem Projekt der Universität zu Kiel.
 
 <details>
   <summary>Skizze</summary>
@@ -169,7 +169,7 @@ Unser aktueller Plan sieht vor, dass wir einen Soundwavegenerator programieren. 
   </h3>
 
   
-In den letzten Tagen habe wir festgestellt, dass wir mit dem Projekt nicht zufrieden sind. Jedoch sind wir uns einig, dass uns Physical Computing und damit die Arbeit mit einem Arduino interessiert. Wir haben uns zuhause mit den Möglichkeiten, Programmen und Hardware  auseinandergesetzt und im Unterricht besprochen. Dabei kam uns unsere Projektidee:<br>
+In den letzten Tagen haben wir festgestellt, dass wir mit dem Projekt nicht zufrieden sind. Jedoch sind wir uns einig, dass uns Physical Computing und damit die Arbeit mit einem Arduino interessiert. Wir haben uns zuhause mit den Möglichkeiten, Programmen und Hardware  auseinandergesetzt und im Unterricht besprochen. Dabei kam uns unsere Projektidee:<br>
 
 Das Halloweenhaus Schmalenbeck (www.halloweenhaus-schmalenbeck.de) nutzt traditionell einen Spendenschädel (Spendendose in Schädelform). Der aktuelle Schädel weist eine vielzahl von Problemen auf. Das ist für uns die Gelegenheit, einen neuen zu Gestalten. Inspiriert von den Mülleimern im niederländischen Freizeitpark Efteling haben wir das Konzept erarbeitet.<br>
 Die Inspiration: https://youtu.be/u1g2USFuu3Y
@@ -178,10 +178,10 @@ Die Inspiration: https://youtu.be/u1g2USFuu3Y
   <summary>Konzept</summary>
   
 - Schädel, der sprechen kann (motorisierter Kiefer mit Servo)
-- Soundkarte und Lautsprecher (DFPlayer Mini)
+- Soundkarte und Lautsprecher
 - leuchtende Augen, welche in verschiedene Richtungen schauen können (LEDs, Servos)
 - Sensor für Geld (Lichtschranke)
-- Arbeit mit Arduiono Uno (Arduiono IDE)
+- Arbeit mit Arduino Uno (Arduino IDE)
 </details>
 
 <details>
@@ -201,10 +201,10 @@ Anschließend halten wir Rücksprache mit Herrn Buhl. Dieser gab uns den Tipp, e
 <details>
   <summary>Prioritätenliste</summary>
   
+- leuchtende Augen
 - Lautsprecher um nach Spenden zu fragen
 - Bewegung im Kiefer
 - Erkennung des Münzeinwurfs -> Schädel bedankt sich
-- leuchtende Augen
 - Mute Schalter
 - sich bewegende leuchtende Augen
 - Diebstahlschutz
