@@ -666,6 +666,8 @@ Ohne die Hülle wäre Karl-Leopold niemals als Schädel zu erkennen. Ein Objekt 
   
 Das 3D-Modell für wird von Freund und Teammitglied Steffen Kahl gestaltet. Mit dem Konzept und einer passenden Skizze wird aus einer kostenfreien Datei 
 (https://www.thingiverse.com/thing:518109) ein optimal passendes Endprodukt geschaffen.<br>
+
+![](EF50B9DD-3F65-4EB7-85CF-EA4C0E6B0069.jpeg)
   
 Download der Dateien: http://gofile.me/6WIKw/vkNmbr4OF <br>
 Passwort: Spendenschaedel3110
