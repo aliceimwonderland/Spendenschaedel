@@ -495,7 +495,7 @@ void loop() {
     Serial.print("Play Random ");
     Serial.println(myRandom);
 
-    mydfplayer.playFolder(1, myRandom);
+    mydfplayer.playFolder(1, myRandom); //die Audiodateien werden in zufälliger Reihenfolge abgespielt
 
 
     auge1servo.attach(servoPin1);
