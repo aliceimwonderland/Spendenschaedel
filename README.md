@@ -645,15 +645,16 @@ Der Lernprozess lässt sich gut in der Kabelordnung erkennen, da durch neues Wis
 Der Schaltplan zeigt neben den Verbindungen der einzelnen Elemente auch die 
 Kabelfarben und die ungefähre Lage der Objekte im Schädel.<br>
 
-Zur besseren Orientierung beim Programmieren und einfachen Kontrolle der 
-korrekten Pinbelegung entsteht folgende Tabelle:
-
 <details>
  <summary>Schaltplan</summary>
  
  ![](2F2EC6FE-F85A-4598-8C98-EEE02754A11C.png)
  
  </details>
+
+Zur besseren Orientierung beim Programmieren und einfachen Kontrolle der 
+korrekten Pinbelegung entsteht folgende Tabelle:
+
  
 <details>
  <summary>Tabelle</summary>
