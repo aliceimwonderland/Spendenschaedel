@@ -631,10 +631,10 @@ In diesem Monat wird kontinuierlich, kleinschrittig und fast ausschließlich au�
   ![](IMG_0900.jpeg)
   ![](IMG_0902.jpeg)
   ![](IMG_0906.jpeg)
+  ![](IMG_0269.jpeg)
   
   </details>
   
-  ![](IMG_0269.jpeg)
   
   Da solch ein Projekt Neuland ist, wird der Baurozess mit einfachen Bauelementen begonnen.<br>
   In diesem Fall ist das der Verbau der LEDs, da ein einfaches anschließen an den Arduino zeigt, ob alles funktioniert.<br>
