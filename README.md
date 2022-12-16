@@ -261,8 +261,8 @@ Hier taucht zunächst ein Fehler bei dem Upload auf den Arduiono auf. Dieses kan
 <h3>
   <bold>Wochenende (17&18.09.2022)</bold>
      </h3>
-Am Samstag grundiert Rosalie den Spendenschädel mit einer weißen Holzpaste, damit der Schädel keine Rillen hat, die durch den 3D-Druck entstehen.<br> Anschließend wird die Grundierung mit Acrylfarbe in selbst gesmischter Knochenfarbe beendet.<br>
-Bei einem Treffen am Sonntag wird sich für ein spezifisches Design entscheiden. Beispielsweise einigen wir uns auf ein Farbschema und zeichnen und mit einem Bleistift die Formen vor.<br>
+Am Samstag grundiert Rosalie den Spendenschädel mit einer weißen Holzpaste, damit der Schädel keine Rillen hat, die durch den 3D-Druck entstehen.<br> Anschließend wird die Grundierung mit Acrylfarbe in selbst gemischter Knochenfarbe beendet.<br>
+Bei einem Treffen am Sonntag wird sich für ein spezifisches Design entschieden. Beispielsweise einigen wir uns auf ein Farbschema und zeichnen und mit einem Bleistift die Formen vor.<br>
   Der letzte Schritt besteht darin, den Schädel anzumalen.
    
    
@@ -297,7 +297,7 @@ Rosalie sind beim Bau einige Fehler im Schaltplan aufgefallen, beispielweise feh
   
   </h3> 
   
- In dieser Stunde überprüfen wir die Hardware auf Fehler und sichern sie für den Transport. So werden beispielsweise Kabel mit DuckTape gesichert. Parallel werden alle zwischenteile des Codes zu einem großen Code zusammengefügt.
+ In dieser Stunde überprüfen wir die Hardware auf Fehler und sichern sie für den Transport. So werden beispielsweise Kabel mit DuckTape gesichert. Parallel werden alle Zwischenteile des Codes zu einem großen Code zusammengefügt.
  Dieser ist noch unvollständig und funktioniert nicht komplett. Da Halloween vor der Tür steht entscheidet sich die Gruppe, nur einen Teil des Codes an Halloween zu benutzen.
  So kann sich der Schädel bei der Spende bedanken und hin und her gucken.
 
@@ -315,7 +315,7 @@ Rosalie sind beim Bau einige Fehler im Schaltplan aufgefallen, beispielweise feh
   
   </h3> 
   
-Der Code funktioniert nicht, weshalb eine Fehlersuche startet. Er war an einer falschen Stelle gespeichert und konnte daher nicht auf die Library zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert.<br> 
+Der Code funktioniert nicht, weshalb eine Fehlersuche startet. Er war an einer falschen Stelle gespeichert und konnte daher nicht auf die Servo-Library zugreifen. Als der Code an der vorgesehenen Stelle gespeichert war, hat alles funktioniert.<br> 
 Ein weiterer Fehler lag darin, dass die Formulierung für das Abspielen der Audiodateien falsch war. Diese Fehlermeldung konnte nach einer kurzen Internetrecherche behoben werden. Außerdem wird eine weitere Funktion, die Audiodateien betreffend, eingebaut. Diese werden, sofern kein anderer Befehl vorliegt, alle abgepielt. So muss nicht jede Audiodatei enzeln eingefügt werden.
 
   
@@ -335,8 +335,8 @@ Rosalie hat sich mit dem Aufbau der Projektseite beschäftigt.
   </h3> 
 
 
-Alicia beschäftigt sich weiterhin mit dem Code. Die Fehlermerldung der letzten Stunde konnte gelöst werden. Eine benötigte Bibliothek war nicht installiert. Da diese allerdings auch nicht mehr verfügbar ist, muss der Befehl umgeschrieben werden.<br>
-Rosalie setzt sich bei stundenanfang mit wieder mit dem GitHub Blog außeinander, bis sie Alicia bei der Fehlersuche unterstützt.
+Alicia beschäftigt sich weiterhin mit dem Code. Die Fehlermerldung der letzten Stunde konnte gelöst werden. Die Bibliothek war nicht mehr installiert. Da diese allerdings auch nicht mehr verfügbar ist, muss der Befehl umgeschrieben werden.<br>
+Rosalie setzt sich bei Stundenanfang mit wieder mit dem GitHub Blog außeinander, bis sie Alicia bei der Fehlersuche unterstützt.
 
 <h3>
   <bold>15. Stunde (21.11.2022)</bold> 
@@ -371,8 +371,8 @@ Nach langer Fehlersuche ist die Lösung, dass die Dateien auf der SD Karte fehle
  
  Vor der Stunde soll der Schädel an den Strom angeschlossen werden, doch das Kabel vom Netzgerät ist abgefallen. Zu Stundenbeginn wird dieses mit einem Schraubenzieher wieder an Ort und Stelle platziert. Danach wird der Schädel an den Computer angeschlossen, um den theoretisch fertigen Code zu testen, doch der Ton fehlt. <br>
 Im Verlauf der Stunde wird mit dem Variieren des Codes der Fehler gesucht. Schlussendlich liegt es an dem DFPlayer, da er manchmal keine Dateien abspielt. Bei Bewegung funktioniert es teilweise, teilweise aber auch nicht. Rosalie behebt das Problem nach der Schule zuhause mit neuen Kabeln.<br>
-Aufgrund einiger massiver Probleme im Code hat sie die Codestruktur noch massiv verändert. Unteranderem hat sie die Bibliothek wieder eingebaut, die Servos neu programmiert und die Dateien auf der SD-Karte neu benannt. <br>
-Nun ist Karl-Leopold, pünktlich zur Abgabe, fertig. Über den restlichen Abend wird der Feinschliff der Projektseite vorgenommen.
+Aufgrund einiger massiver Probleme im Code hat sie die Codestruktur noch verändert. Unteranderem hat sie die Bibliothek wieder eingebaut, die Servos neu programmiert und die Dateien auf der SD-Karte neu benannt. <br>
+Nun ist Karl-Leopold, pünktlich zur Abgabe, fertig. Über den restlichen Abend und Freitag Vormittag wird der Feinschliff der Projektseite vorgenommen und alles abgegeben.
  
  
   
