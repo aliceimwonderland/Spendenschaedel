@@ -645,6 +645,12 @@ Zur besseren Orientierung beim Programmieren und einfachen Kontrolle der
 korrekten Pinbelegung entsteht folgende Tabelle:
 
 <details>
+ <summary>Schaltplan</summary>
+ 
+ ![](2F2EC6FE-F85A-4598-8C98-EEE02754A11C.png)
+ 
+ </details>
+<details>
  <summary>Tabelle</summary>
  
  ![](4A4E4D78-3662-4220-BC8B-C6BD2E74DDE6.jpeg)
