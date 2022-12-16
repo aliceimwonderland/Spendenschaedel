@@ -136,7 +136,9 @@ Fundus eines jeden Heimwerkers befindet.
   
 <strong>Ultimaker Cura</strong> - Das Programm wandelt das 3D Modell in den für den Drucker auslesbaren G-Code um. Dieser Slicer ist ebenfalls open-source und kostenlos.
   
-<strong>Logic Pro X</strong>- Mit der Digital Audio Workstation von Apple werden die Tonaufnahmen getätigt. 
+<strong>Logic Pro X</strong> - Mit der Digital Audio Workstation von Apple werden die Tonaufnahmen getätigt. 
+
+<strong>DaVinci Resolve</strong> - Mit Hilfe der Videoschnitt- und Farbkorrektursoftware der Firma Blackmagic Design wird das YouTube-Video geschnitten.
   
   <h1><bold>Entwicklung</bold></h1>
   <h2 id="Stundenprotokoll">Stundenprotokoll</h2>
@@ -830,7 +832,8 @@ Ein sehr bestätigendes Gefühl war auch, das Vorwissen aus dem Physikunterricht
   - https://de.wikipedia.org/wiki/Lautsprecher](https://de.wikipedia.org/w/index.php?title=Lautsprecher&oldid=228096010)<br>
   - [https://de.wikipedia.org/wiki/Logic_Pro](https://de.wikipedia.org/w/index.php?title=Logic_Pro&oldid=227065873)<br>
   - https://www.conrad.de/de/ratgeber/entwicklungskits-bausaetze/arduino.html#aufbau<br>
- - https://de.wikipedia.org/w/index.php?title=Scharnier&oldid=228795079
+ - https://de.wikipedia.org/w/index.php?title=Scharnier&oldid=228795079<br>
+ - https://de.wikipedia.org/w/index.php?title=DaVinci_Resolve&oldid=222583948
 
 </details>
   
