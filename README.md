@@ -248,6 +248,7 @@ Es wird das grobe Aussehen, sowie der Charakter des Schädels festgelegt. Dieser
      
      
 Auch in dieser Stunde wird sich näher mit dem Charakter und Hintergrund des Spendenschädels beschäftigt. Inspiration ist die Figur Héctor Rivera aus dem Film "Coco". <br>
+
 Karl Leopold wurde 1813 geboren und war sein lebenlang ein armer, deutscher Künstler. Da er kaum Geld hatte, nutzte er sein Gesicht als Leinwand.<br>
   Sein Leben endete tragischerweise bei der Ausübung seiner Leidenschaft, da er sich giftige Farbe auf sein Gesicht schmierte.
 Ebenfalls haben wir erste Sprüche festgelget, die der Spendenschädel sagen soll.<br>
