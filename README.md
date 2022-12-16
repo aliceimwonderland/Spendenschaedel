@@ -279,7 +279,7 @@ In der Stunde kommt die kreative Seite für das Erstellen von Sprüchen und Dank
 Heute wird sich mit der richtigen Struktur von Code befasst und dann auch schon in ersten Anfängen umgesetzt.
 
 <details>
-  <summary>Impressionen der Stunde</summary>
+  <summary>Impression der Stunde</summary>
   
   ![](IMG_0168.jpeg)
   
@@ -401,9 +401,9 @@ VarSpeedServo auge2servo;
 VarSpeedServo mundservo;
 
 //Servos konfigurieren
-const int servoPin1 = 6;  // the digital pin used for the first servo
-const int servoPin2 = 7;  // the digital pin used for the second servo
-const int servoPin3 = 5;  // Mund
+const int servoPin1 = 6;  // Pin für Auge 1
+const int servoPin2 = 7;  // Pin für Auge 2
+const int servoPin3 = 5;  // Pin für Mund
 
 //Pins für die Augen konfigurieren
 const int Auge1 = 12;
@@ -644,6 +644,7 @@ Der Lernprozess lässt sich gut in der Kabelordnung erkennen, da durch neues Wis
   
 Der Schaltplan zeigt neben den Verbindungen der einzelnen Elemente auch die 
 Kabelfarben und die ungefähre Lage der Objekte im Schädel.<br>
+
 Zur besseren Orientierung beim Programmieren und einfachen Kontrolle der 
 korrekten Pinbelegung entsteht folgende Tabelle:
 
@@ -653,6 +654,7 @@ korrekten Pinbelegung entsteht folgende Tabelle:
  ![](2F2EC6FE-F85A-4598-8C98-EEE02754A11C.png)
  
  </details>
+ 
 <details>
  <summary>Tabelle</summary>
  
@@ -751,6 +753,7 @@ Glücklicherweise wurden keine Hinweise auf einen versuchten Diebstahl gefunden,
 Trotz Hochskalierung der Größe musste der Kopf an Halloween geleert werden, weshalb in Zukunft ein Loch zwischen Schädelboden und Buch entstehen soll.
 
 ![](6C7A7D2C-381D-43E4-BA2B-98D904583C95.jpeg)
+Das gesamte Team am Halloweenabend
   
   <h2 id="Technische Evaluation">Technische Evaluation</h2>
   
